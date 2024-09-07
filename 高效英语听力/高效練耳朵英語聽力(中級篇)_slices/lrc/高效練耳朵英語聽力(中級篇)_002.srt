@@ -1,0 +1,210 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（中級篇）_slices\高效練耳朵英語聽力（中級篇）_002.mp3
+
+[00:02.560 --> 00:04.220]  Will you listen to me for a few minutes?
+[00:13.380 --> 00:15.280]  Will you listen to me for a few minutes?
+[00:19.160 --> 00:21.200]  Can you tell me where the nearest bus stop is?
+[00:23.000 --> 00:25.100]  Can you tell me where the nearest bus stop is?
+[00:35.160 --> 00:37.300]  Can you tell me where the nearest bus stop is?
+[00:40.580 --> 00:42.600]  I'd love to find out why she said so.
+[00:48.500 --> 00:51.300]  I'd love to find out why she said so.
+[00:56.540 --> 00:58.680]  I'd love to find out why she said so.
+[01:01.840 --> 01:03.920]  He rushed into the room with his coat on.
+[01:11.240 --> 01:13.900]  He rushed into the room with his coat on.
+[01:18.200 --> 01:21.760]  He rushed into the room with his coat on.
+[01:24.460 --> 01:30.580]  The more books you read, the more you'll know.
+[01:40.440 --> 01:42.580]  The more books you read, the more you'll know.
+[01:55.100 --> 01:59.280]  We have less than five minutes to evacuate the whole building.
+[02:05.220 --> 02:08.220]  We have less than five minutes to evacuate the whole building.
+[02:11.440 --> 02:13.760]  I wonder why they left my name off the list?
+[02:15.500 --> 02:17.780]  I wonder why they left my name off the list?
+[02:19.600 --> 02:22.780]  I wonder why they left my name off the list?
+[02:29.820 --> 02:32.100]  I wonder why they left my name off the list?
+[02:35.300 --> 02:37.980]  About how much will I have to pay for all of the treatments?
+[02:45.220 --> 02:49.140]  About how much will I have to pay for all of the treatments?
+[02:54.000 --> 02:56.580]  About how much will I have to pay for all of the treatments?
+[03:00.360 --> 03:03.120]  She did not visit me on Sunday, but on Monday.
+[03:10.460 --> 03:13.820]  She did not visit me on Sunday, but on Monday.
+[03:20.940 --> 03:23.880]  She did not visit me on Sunday, but on Monday.
+[03:27.400 --> 03:30.100]  How large is the population of New York City?
+[03:36.600 --> 03:40.420]  How large is the population of New York City?
+[03:44.120 --> 03:46.740]  How large is the population of New York City?
+[03:50.260 --> 03:52.820]  A group of young men are playing handball in the playground.
+[03:59.120 --> 04:02.700]  A group of young men are playing handball in the playground.
+[04:08.500 --> 04:11.020]  A group of young men are playing handball in the playground.
+[04:14.400 --> 04:16.660]  I thought you'd be full after eating that big steak.
+[04:22.740 --> 04:25.980]  I thought you'd be full after eating that big steak.
+[04:31.900 --> 04:34.040]  I thought you'd be full after eating that big steak.
+[04:37.460 --> 04:39.660]  It is cruel of him to say such things to her.
+[04:45.200 --> 04:48.400]  It is cruel of him to say such things to her.
+[04:58.500 --> 05:01.720]  My father will often read the newspaper during meals.
+[05:08.160 --> 05:12.480]  My father will often read the newspaper during meals.
+[05:17.580 --> 05:20.240]  My father will often read the newspaper during meals.
+[05:23.840 --> 05:26.860]  We're out of tissue paper, so I need to go buy some.
+[05:29.460 --> 05:38.920]  We're out of tissue paper, so I need to go buy some.
+[05:50.560 --> 05:58.340]  It is more blessed to give than to receive.
+[06:00.000 --> 06:03.340]  It is more blessed to give than to receive.
+[06:07.780 --> 06:10.880]  It is more blessed to give than to receive.
+[06:14.060 --> 06:16.700]  I find it difficult to express my meaning in words.
+[06:23.060 --> 06:26.860]  I find it difficult to express my meaning in words.
+[06:32.820 --> 06:35.460]  I find it difficult to express my meaning in words.
+[06:38.880 --> 06:41.380]  This car was so cheap that he could afford it.
+[06:48.140 --> 06:51.480]  This car was so cheap that he could afford it.
+[07:01.080 --> 07:08.680]  He has spent the last ten years in jail for murder.
+[07:10.900 --> 07:13.860]  He has spent ten years in jail for murder.
+[07:15.280 --> 07:22.140]  He has spent the last ten years in jail for murder.
+[07:25.860 --> 07:28.080]  Our eyes take time to adjust to the darkness.
+[07:34.960 --> 07:43.480]  Our eyes take time to adjust to the darkness.
+[07:44.320 --> 07:46.520]  Our eyes take time to adjust to the darkness.
+[07:50.440 --> 07:52.940]  I ran as fast as possible to catch up with him.
+[07:54.940 --> 08:02.860]  I ran as fast as possible to catch up with him.
+[08:06.240 --> 08:08.780]  I ran as fast as possible to catch up with him.
+[08:12.320 --> 08:15.280]  After reading his books, I feel I can construct a house.
+[08:22.340 --> 08:26.380]  After reading his books, I feel I can construct a house.
+[08:35.540 --> 08:40.900]  I am looking forward to hearing from you soon.
+[08:47.420 --> 08:50.460]  I am looking forward to hearing from you soon.
+[08:55.640 --> 08:57.640]  I am looking forward to hearing from you soon.
+[09:01.440 --> 09:03.480]  I used to play alone when I was a child.
+[09:06.340 --> 09:08.400]  I used to play alone when I was a child.
+[09:11.480 --> 09:14.080]  I used to play alone when I was a child.
+[09:18.720 --> 09:20.780]  I used to play alone when I was a child.
+[09:25.460 --> 09:28.220]  The students were for the most part from the west coast.
+[09:34.840 --> 09:38.280]  The students were for the most part from the west coast.
+[09:42.640 --> 09:46.100]  The students were for the most part from the west coast.
+[09:49.540 --> 09:51.760]  I couldn't have done it without you. Thank you.
+[09:57.800 --> 10:01.260]  I couldn't have done it without you. Thank you.
+[10:05.900 --> 10:08.600]  I couldn't have done it without you. Thank you.
+[10:12.240 --> 10:14.980]  The old houses were torn down to make room for a supermarket.
+[10:23.480 --> 10:27.580]  The old houses were torn down to make room for a supermarket.
+[10:41.200 --> 10:45.200]  He was kind enough to take me to the hospital.
+[10:45.320 --> 10:47.580]  He was kind enough to take me to the hospital.
+[10:49.300 --> 10:51.940]  He was kind enough to take me to the hospital.
+[11:02.140 --> 11:04.380]  I haven't had time to look for what you wanted.
+[11:09.740 --> 11:12.580]  I haven't had time to look for what you wanted.
+[11:22.480 --> 11:24.460]  I am looking for a present for my mother.
+[11:30.660 --> 11:33.160]  I am looking for a present for my mother.
+[11:38.900 --> 11:40.840]  I am looking for a present for my mother.
+[11:44.380 --> 11:47.000]  With your approval, I would like to offer him the job.
+[11:48.860 --> 11:51.520]  With your approval, I would like to offer him the job.
+[12:02.320 --> 12:05.340]  With your approval, I would like to offer him the job.
+[12:08.640 --> 12:11.880]  This book is for all students whose native language is not Japanese.
+[12:13.580 --> 12:17.160]  This book is for all students whose native language is not Japanese.
+[12:18.840 --> 12:23.640]  This book is for all students whose native language is not Japanese.
+[12:24.700 --> 12:32.860]  This book is for all students whose native language is not Japanese.
+[12:36.240 --> 12:38.380]  I don't want to work under these conditions.
+[12:44.720 --> 12:47.400]  I don't want to work under these conditions.
+[12:51.940 --> 12:54.640]  I don't want to work under these conditions.
+[12:58.120 --> 13:00.540]  She was more beautiful than all the others.
+[13:02.120 --> 13:08.760]  She was more beautiful than all the others.
+[13:18.020 --> 13:20.460]  Where do you suppose you'll spend your vacation?
+[13:22.860 --> 13:24.720]  Where do you suppose you'll spend your vacation?
+[13:34.720 --> 13:36.480]  Where do you suppose you'll spend your vacation?
+[13:40.340 --> 13:42.660]  She had bought six yards of cloth for a dress.
+[13:49.660 --> 13:52.960]  She had bought six yards of cloth for a dress.
+[13:57.220 --> 13:59.560]  She had bought six yards of cloth for a dress.
+[14:03.380 --> 14:05.760]  Don't be afraid of making mistakes when you speak English.
+[14:11.540 --> 14:18.200]  Don't be afraid of making mistakes when you speak English.
+[14:20.320 --> 14:22.660]  Don't be afraid of making mistakes when you speak English.
+[14:25.680 --> 14:27.720]  I don't want to hear any more of your complaining.
+[14:33.560 --> 14:36.580]  I don't want to hear any more of your complaining.
+[14:40.600 --> 14:42.860]  I don't want to hear any more of your complaining.
+[14:46.160 --> 14:48.100]  She may be a nurse. I am not sure.
+[14:54.500 --> 14:57.020]  She may be a nurse. I am not sure.
+[15:02.420 --> 15:04.340]  She may be a nurse. I am not sure.
+[15:08.000 --> 15:10.400]  The air is thin at the top of a high mountain.
+[15:12.220 --> 15:14.880]  The air is thin at the top of a high mountain.
+[15:17.260 --> 15:19.980]  The air is thin at the top of a high mountain.
+[15:30.160 --> 15:33.600]  This problem is too difficult for primary school children to solve.
+[15:40.100 --> 15:44.680]  This problem is too difficult for primary school children to solve.
+[15:45.260 --> 15:53.360]  This problem is too difficult for primary school children to solve.
+[16:05.920 --> 16:09.360]  He makes it a rule to take a walk every morning.
+[16:14.680 --> 16:17.800]  He makes it a rule to take a walk every morning.
+[16:29.580 --> 16:32.700]  How far is it from the airport to the hotel?
+[16:37.480 --> 16:39.660]  How far is it from the airport to the hotel?
+[16:51.060 --> 16:53.720]  I am just writing a letter to my girlfriend.
+[16:58.520 --> 17:00.480]  I am just writing a letter to my girlfriend.
+[17:03.880 --> 17:07.660]  You've worked hard for months and have certainly earned a holiday.
+[17:16.160 --> 17:20.240]  You've worked hard for months and have certainly earned a holiday.
+[17:34.760 --> 17:37.460]  The potato was so hot that it burned my mouth.
+[17:39.400 --> 17:41.920]  The potato was so hot that it burned my mouth.
+[17:43.900 --> 17:47.380]  The potato was so hot that it burned my mouth.
+[17:57.740 --> 18:00.760]  Quite by chance, I met my old friend in the airport.
+[18:08.460 --> 18:12.160]  Quite by chance, I met my old friend in the airport.
+[18:24.800 --> 18:28.620]  There must be a way to arrive at a diplomatic solution.
+[18:30.260 --> 18:39.240]  There must be a way to arrive at a diplomatic solution.
+[18:50.340 --> 19:02.560]  You should have told me a long time ago.
+[19:11.500 --> 19:20.460]  Ebola spreads from person to person through bodily fluids.
+[19:22.380 --> 19:26.700]  Ebola spreads from person to person through bodily fluids.
+[19:38.880 --> 19:41.900]  Women eat lighter meals when they are eating with a guy.
+[19:44.080 --> 19:46.980]  Women eat lighter meals when they are eating with a guy.
+[20:05.760 --> 20:09.820]  This airplane is capable of carrying 40 passengers at a time.
+[20:18.240 --> 20:23.660]  This airplane is capable of carrying 40 passengers at a time.
+[20:28.500 --> 20:32.980]  This airplane is capable of carrying 40 passengers at a time.
+[20:36.660 --> 20:39.340]  I will provide you all the necessary information.
+[20:41.760 --> 20:50.340]  I will provide you all the necessary information.
+[21:02.340 --> 21:05.580]  It is said that treasure is buried in this area.
+[21:12.260 --> 21:24.580]  It is said that treasure is buried in this area.
+[21:28.660 --> 21:31.480]  I hope you'll be able to come home. I'd like to see him.
+[21:33.760 --> 21:36.720]  I hope you'll be able to come home. I'd like to see him.
+[21:39.100 --> 21:50.900]  I hope you'll be able to come home. I'd like to see him.
+[21:54.540 --> 21:56.780]  I know him by name but not by sight.
+[21:58.700 --> 22:00.960]  I know him by name but not by sight.
+[22:02.880 --> 22:06.040]  I know him by name but not by sight.
+[22:17.080 --> 22:20.080]  The fact is that he didn't even take the exam.
+[22:25.340 --> 22:37.140]  The fact is that he didn't even take the exam.
+[22:39.920 --> 22:43.600]  Could you please talk a bit louder? I can't hear very well.
+[22:45.400 --> 22:54.380]  Could you please talk a bit louder? I can't hear very well.
+[22:59.000 --> 23:02.460]  Could you please talk a bit louder? I can't hear very well.
+[23:05.800 --> 23:08.420]  If you can't come, you should let me know ahead of time.
+[23:10.640 --> 23:13.220]  If you can't come, you should let me know ahead of time.
+[23:15.320 --> 23:19.020]  If you can't come, you should let me know ahead of time.
+[23:30.240 --> 23:32.940]  Can you wake me up at 7 o'clock tomorrow morning?
+[23:39.460 --> 24:02.020]  Can you wake me up at 7 o'clock tomorrow morning?
+[24:04.020 --> 24:07.500]  Many schools are closed today because of the storm.
+[24:18.740 --> 24:20.760]  Where did you get the money to buy that dress?
+[24:27.080 --> 24:29.860]  Where did you get the money to buy that dress?
+[24:35.280 --> 24:37.180]  Where did you get the money to buy that dress?
+[24:40.780 --> 24:42.720]  I have a friend whose father is a teacher.
+[24:44.780 --> 24:46.880]  I have a friend whose father is a teacher.
+[24:49.100 --> 24:52.040]  I have a friend whose father is a teacher.
+[24:53.140 --> 25:00.080]  I have a friend whose father is a teacher.
+[25:04.000 --> 25:06.200]  This book is easy enough for them to read.
+[25:12.420 --> 25:15.220]  This book is easy enough for them to read.
+[25:21.220 --> 25:23.680]  This book is easy enough for them to read.
+[25:27.000 --> 25:29.980]  The first thing you have to take into consideration is time.
+[25:37.860 --> 25:42.180]  The first thing you have to take into consideration is time.
+[25:47.460 --> 25:50.340]  The first thing you have to take into consideration is time.
+[25:54.520 --> 25:57.340]  Judging from the look of the sky, it is likely to rain.
+[26:04.940 --> 26:08.380]  Judging from the look of the sky, it is likely to rain.
+[26:19.780 --> 26:23.260]  I felt so sleepy that I could hardly keep my eyes open.
+[26:30.600 --> 26:34.720]  I felt so sleepy that I could hardly keep my eyes open.
+[26:45.880 --> 26:59.380]  They came up with a plan after a long discussion.
+[27:10.900 --> 27:23.680]  If I were in your place, I would lend him a hand.
+[27:29.100 --> 27:31.580]  If I were in your place, I would lend him a hand.
+[27:34.820 --> 27:37.080]  He is one of the greatest artists in Japan.
+[27:43.000 --> 27:46.140]  He is one of the greatest artists in Japan.
+[27:47.520 --> 27:53.820]  He is one of the greatest artists in Japan.
+[27:57.080 --> 27:58.920]  A lot of people swim here in the summer.
+[28:05.240 --> 28:08.080]  A lot of people swim here in the summer.
+[28:17.760 --> 28:20.520]  She stayed in that area for a short while.
+[28:26.420 --> 28:29.380]  She stayed in that area for a short while.
+[28:34.020 --> 28:36.380]  She stayed in that area for a short while.
+[28:39.500 --> 28:42.260]  He does nothing but complain from morning till night.
+[28:48.340 --> 28:52.080]  He does nothing but complain from morning till night.
+[29:02.660 --> 29:05.460]  The whole neighborhood was surprised at the news.
+[29:07.360 --> 29:15.060]  The whole neighborhood was surprised at the news.
+[29:20.200 --> 29:22.460]  The whole neighborhood was surprised at the news.
+[29:26.080 --> 29:28.440]  Books are for people who wish they were somewhere else.
+[29:34.500 --> 29:45.000]  Books are for people who wish they were somewhere else.
+[29:51.740 --> 29:54.360]  Since my mother was sick, I stayed home from school.
+
+Transcription speed: 2.5 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 733 seconds
+

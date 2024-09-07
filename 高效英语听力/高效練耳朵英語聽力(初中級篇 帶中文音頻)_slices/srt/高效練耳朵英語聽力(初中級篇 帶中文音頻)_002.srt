@@ -1,0 +1,215 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初中級篇 帶中文音頻）_slices\高效練耳朵英語聽力（初中級篇 帶中文音頻）_002.mp3
+
+[00:02.300 --> 00:04.940]  Mike's job at home is cleaning the windows.
+[00:07.160 --> 00:11.560]  Mike's job at home is cleaning the windows.
+[00:19.100 --> 00:21.800]  Mike's job at home is cleaning the windows.
+[00:25.600 --> 00:29.100]  Arriving at the station, I found the train had already left.
+[00:31.300 --> 00:34.860]  Arriving at the station, I found the train had already left.
+[00:37.260 --> 00:40.720]  Arriving at the station, I found the train had already left.
+[00:45.140 --> 00:46.420]  到达车站时,我发现火车已经开走了。
+[00:46.420 --> 00:49.800]  Arriving at the station, I found the train had already left.
+[00:53.060 --> 00:56.140]  We had much difficulty in finding the bus stop.
+[00:58.040 --> 01:01.100]  We had much difficulty in finding the bus stop.
+[01:03.380 --> 01:06.200]  We had much difficulty in finding the bus stop.
+[01:10.640 --> 01:11.840]  我们费了很大劲,才找到公共汽车站。
+[01:11.840 --> 01:14.380]  We had much difficulty in finding the bus stop.
+[01:17.740 --> 01:20.040]  In any case, I'll call you tomorrow.
+[01:22.140 --> 01:24.440]  In any case, I'll call you tomorrow.
+[01:26.920 --> 01:28.860]  In any case, I'll call you tomorrow.
+[01:32.720 --> 01:33.920]  无论如何,我明天给你打电话。
+[01:33.920 --> 01:35.820]  In any case, I'll call you tomorrow.
+[01:39.560 --> 01:42.020]  Columbus believed that the earth was round.
+[01:44.760 --> 01:46.660]  Columbus believed that the earth was round.
+[01:48.580 --> 01:51.440]  Columbus believed that the earth was round.
+[01:55.320 --> 01:58.140]  Columbus believed that the earth was round.
+[02:01.960 --> 02:04.680]  He would sooner rather die than work for that man.
+[02:07.260 --> 02:09.840]  He would sooner rather die than work for that man.
+[02:11.780 --> 02:15.340]  He would sooner rather die than work for that man.
+[02:18.620 --> 02:22.340]  He would sooner rather die than work for that man.
+[02:25.860 --> 02:29.340]  The sperm whale can dive to a depth of 1,000 meters.
+[02:32.040 --> 02:34.940]  The sperm whale can dive to a depth of 1,000 meters.
+[02:36.940 --> 02:40.860]  The sperm whale can dive to a depth of 1,000 meters.
+[02:45.560 --> 02:46.120]  摩相经能潜入1000米深的水中。
+[02:46.120 --> 02:49.180]  The sperm whale can dive to a depth of 1,000 meters.
+[02:52.720 --> 02:55.300]  It is difficult for me to answer the question.
+[02:57.720 --> 02:59.940]  It is difficult for me to answer the question.
+[03:01.740 --> 03:07.820]  It is difficult for me to answer the question.
+[03:13.200 --> 03:16.540]  The rumor spread all over the town.
+[03:19.080 --> 03:21.020]  The rumor spread all over town.
+[03:22.860 --> 03:25.460]  The rumor spread all over town.
+[03:29.240 --> 03:31.400]  The rumor spread all over the town.
+[03:34.740 --> 03:38.000]  This question in English is anything but easy.
+[03:40.240 --> 03:43.180]  This question in English is anything but easy.
+[03:45.520 --> 03:48.420]  This question in English is anything but easy.
+[03:52.540 --> 03:55.700]  This question in English is anything but easy.
+[03:59.280 --> 04:02.860]  Cows are more useful than any other animal in this country.
+[04:04.960 --> 04:08.500]  Cows are more useful than any other animal in this country.
+[04:10.800 --> 04:14.460]  Cows are more useful than any other animal in this country.
+[04:15.520 --> 04:23.440]  In this country, cows are more useful than any other animal in this country.
+[04:26.900 --> 04:29.980]  In a foreign country, most of us go through culture shock.
+[04:45.980 --> 04:49.460]  In a foreign country, most of us go through culture shock.
+[04:52.680 --> 04:57.180]  Chemical products account for approximately two-thirds of our exports.
+[04:59.200 --> 05:03.600]  Chemical products account for approximately two-thirds of our exports.
+[05:05.580 --> 05:10.260]  Chemical products account for approximately two-thirds of our exports.
+[05:15.180 --> 05:19.620]  Chemical products account for approximately two-thirds of our exports.
+[05:23.360 --> 05:26.200]  The burglar tied my hands behind my back with a rope.
+[05:28.040 --> 05:31.280]  The burglar tied my hands behind my back with a rope.
+[05:32.960 --> 05:37.000]  The burglar tied my hands behind my back with a rope.
+[05:48.020 --> 05:51.180]  It was an argument of little substance.
+[05:57.540 --> 06:00.300]  It was an argument of little substance.
+[06:03.860 --> 06:07.100]  It was an argument of little substance.
+[06:10.560 --> 06:14.000]  Jim didn't work hard enough so he failed the exam.
+[06:15.880 --> 06:20.680]  Jim didn't work hard enough so he failed the exam.
+[06:21.880 --> 06:33.380]  Jim didn't work hard enough so he failed the exam.
+[06:36.680 --> 06:40.100]  The other waiter hid the bottle I'd opened wrongly.
+[06:41.820 --> 06:45.240]  The other waiter hid the bottle I'd opened wrongly.
+[07:03.420 --> 07:05.720]  I hope I can manage to make both ends meet.
+[07:11.980 --> 07:14.940]  I hope I can manage to make both ends meet.
+[07:19.340 --> 07:21.760]  I hope I can manage to make both ends meet.
+[07:25.300 --> 07:27.920]  It's a pity that Tim has no sense of humor.
+[07:30.180 --> 07:32.820]  It's a pity that Tim has no sense of humor.
+[07:34.900 --> 07:37.680]  It's a pity that Tim has no sense of humor.
+[07:47.640 --> 07:51.220]  All you have to do is try hard to master English.
+[07:53.320 --> 07:56.500]  All you have to do is try hard to master English.
+[07:58.280 --> 08:09.420]  All you have to do is try hard to master English.
+[08:12.500 --> 08:15.520]  The manager of the team quit suddenly.
+[08:17.460 --> 08:24.660]  The manager of the team quit suddenly.
+[08:28.600 --> 08:31.180]  The manager of the team quit suddenly.
+[08:35.120 --> 08:37.860]  Indeed, this car is small, but it is powerful.
+[08:45.200 --> 08:48.340]  Indeed, this car is small, but it is powerful.
+[08:53.140 --> 08:56.080]  Indeed, this car is small, but it is powerful.
+[08:59.780 --> 09:01.540]  Why don't you come dancing with me?
+[09:07.220 --> 09:09.560]  Why don't you come dancing with me?
+[09:18.040 --> 09:21.680]  Those present at the concert were surprised by his performance.
+[09:29.160 --> 09:41.720]  Those present at the concert were surprised by his performance.
+[10:03.940 --> 10:07.040]  Last night my house was robbed while I was still awake.
+[10:10.520 --> 10:22.500]  They say that the movie is an interesting one.
+[10:26.400 --> 10:28.960]  They say that the movie is an interesting one.
+[10:32.460 --> 10:34.800]  You should start as early as you can.
+[11:02.300 --> 11:05.460]  Don't walk so fast. I can't keep up with you.
+[11:09.260 --> 11:11.860]  Don't walk so fast. I can't keep up with you.
+[11:15.380 --> 11:17.940]  There is no man but loves his home.
+[11:46.460 --> 11:49.940]  You'll get a clear picture with this antenna on the roof.
+[11:55.440 --> 11:58.740]  You'll get a clear picture with this antenna on the roof.
+[12:02.160 --> 12:05.100]  Sally has been on a diet since last month.
+[12:07.040 --> 12:11.100]  Sally has been on a diet since last month.
+[12:25.640 --> 12:27.860]  Let's play baseball when the rain stops.
+[12:30.200 --> 12:32.540]  Let's play baseball when the rain stops.
+[12:47.360 --> 12:50.680]  Education is one of the most essential aspects of life.
+[12:58.280 --> 13:01.740]  Education is one of the most essential aspects of life.
+[13:12.760 --> 13:15.860]  After running up the hill, I was completely out of breath.
+[13:22.980 --> 13:26.420]  After running up the hill, I was completely out of breath.
+[13:36.440 --> 13:40.320]  It is unlikely that such a cool-headed person got upset.
+[13:42.320 --> 13:45.540]  It is unlikely that such a cool-headed person got upset.
+[13:47.380 --> 13:51.000]  It is unlikely that such a cool-headed person got upset.
+[14:02.840 --> 14:05.320]  Dad and mom went to the market.
+[14:14.680 --> 14:19.620]  Dad and mom went to the market.
+[14:22.660 --> 14:26.240]  Jane is something of an authority on the subject.
+[14:28.220 --> 14:31.260]  Jane is something of an authority on the subject.
+[14:33.100 --> 14:36.360]  Jane is something of an authority on the subject.
+[14:46.360 --> 14:50.180]  My sister married a high school teacher last June.
+[14:52.180 --> 15:00.820]  My sister married a high school teacher last June.
+[15:12.300 --> 15:15.420]  The young man saved the girl from a bunch of hoodlums.
+[15:21.900 --> 15:25.540]  The young man saved the girl from a bunch of hoodlums.
+[15:31.520 --> 15:34.240]  The young man saved the girl from a bunch of hoodlums.
+[15:37.900 --> 15:40.720]  Not having seen her before, I did not know her.
+[15:42.840 --> 15:45.820]  Not having seen her before, I did not know her.
+[15:47.680 --> 15:51.100]  Not having seen her before, I did not know her.
+[16:02.280 --> 16:04.440]  Lisa has a house which has two rooms.
+[16:22.360 --> 16:27.700]  Dr. Smith is the most knowledgeable expert in that subject.
+[16:35.240 --> 16:39.380]  Dr. Smith is the most knowledgeable expert in that subject.
+[16:50.500 --> 16:55.140]  Had he taken his doctor's advice, he might not have died.
+[17:02.140 --> 17:06.100]  Had he taken his doctor's advice, he might not have died.
+[17:22.640 --> 17:29.640]  The coffee was not much to my liking.
+[17:33.120 --> 17:35.640]  The coffee was not much to my liking.
+[17:39.260 --> 17:42.780]  Tom is more hardworking than any other student in his class.
+[17:44.960 --> 17:48.460]  Tom is more hardworking than any other student in his class.
+[18:00.060 --> 18:03.520]  Tom is more hardworking than any other student in his class.
+[18:07.140 --> 18:08.840]  Could you open the door for us?
+[18:10.840 --> 18:12.560]  Could you open the door for us?
+[18:24.700 --> 18:27.280]  This is the picture of his own painting.
+[18:37.220 --> 18:39.700]  This is the picture of his own painting.
+[18:39.940 --> 18:42.000]  This is the picture of his own painting.
+[18:45.500 --> 18:48.320]  The dog drank some water and went away.
+[18:50.180 --> 18:54.260]  The dog drank some water and went away.
+[18:54.920 --> 18:58.360]  The dog drank some water and went away.
+[19:06.880 --> 19:09.720]  Would you like a weekend in Las Vegas?
+[19:12.400 --> 19:14.160]  Would you like a weekend in Las Vegas?
+[19:16.180 --> 19:18.820]  Would you like a weekend in Las Vegas?
+[19:29.140 --> 19:31.140]  Something must be wrong with the camera.
+[19:33.940 --> 19:35.320]  Something must be wrong with the camera.
+[19:37.540 --> 19:39.680]  Something must be wrong with the camera.
+[19:48.680 --> 19:51.360]  Why did you say such a stupid thing?
+[19:54.000 --> 19:55.620]  Why did you say such a stupid thing?
+[20:09.260 --> 20:21.880]  Please hang on. I'll put him on the phone.
+[20:24.900 --> 20:27.160]  Please hang on. I'll put him on the phone.
+[20:30.560 --> 20:33.300]  I'm sorry, but I didn't catch what you said.
+[20:35.460 --> 20:37.960]  I'm sorry, but I didn't catch what you said.
+[20:53.220 --> 20:56.500]  If you go anywhere, you had better tell your mother first.
+[20:58.600 --> 21:01.600]  If you go anywhere, you had better tell your mother first.
+[21:12.440 --> 21:15.720]  If you go anywhere, you had better tell your mother first.
+[21:19.260 --> 21:21.420]  When you get there, please tell him to come.
+[21:27.740 --> 21:30.420]  When you get there, please tell him to come.
+[21:40.660 --> 21:42.980]  Why is he looking at me as though he knows me?
+[21:45.100 --> 21:47.760]  Why is he looking at me as though he knows me?
+[21:49.560 --> 21:52.600]  Why is he looking at me as though he knows me?
+[22:03.060 --> 22:06.220]  A welcome party took place in the restaurant.
+[22:19.520 --> 22:22.460]  A welcome party took place in the restaurant.
+[22:30.280 --> 22:34.460]  The old man asked me the time.
+[22:45.400 --> 22:48.700]  When writing in English, she rarely makes a mistake.
+[22:50.760 --> 22:59.300]  When writing in English, she rarely makes a mistake.
+[23:09.040 --> 23:12.700]  The latest issue of the magazine will come out next Monday.
+[23:14.780 --> 23:17.960]  The latest issue of the magazine will come out next Monday.
+[23:27.780 --> 23:30.960]  The latest issue of the magazine will come out next Monday.
+[23:34.640 --> 23:36.920]  If you care to, you may come with us.
+[23:39.000 --> 23:45.740]  If you care to, you may come with us.
+[23:50.360 --> 23:52.600]  If you care to, you may come with us.
+[23:56.400 --> 23:59.100]  It's a strange story, but every word of it is true.
+[24:06.340 --> 24:09.760]  It's a strange story, but every word of it is true.
+[24:15.140 --> 24:18.060]  It's a strange story, but every word of it is true.
+[24:21.720 --> 24:24.680]  Because my mother is sick, my father will cook today.
+[24:36.220 --> 24:41.520]  Because my mother is sick, my father will cook today.
+[24:57.040 --> 24:59.820]  That's just what one would expect of him.
+[25:03.620 --> 25:06.000]  That's just what one would expect of him.
+[25:09.860 --> 25:12.540]  I ran into an old friend of mine outside the station.
+[25:19.560 --> 25:23.200]  I ran into an old friend of mine outside the station.
+[25:28.400 --> 25:31.400]  I ran into an old friend of mine outside the station.
+[25:34.940 --> 25:37.640]  I will try to solve the problem at any rate.
+[25:44.160 --> 25:47.060]  I will try to solve the problem at any rate.
+[25:51.460 --> 25:54.360]  I will try to solve the problem at any rate.
+[25:57.700 --> 26:01.140]  The task is so difficult that I cannot accomplish it.
+[26:08.320 --> 26:11.880]  The task is so difficult that I cannot accomplish it.
+[26:15.520 --> 26:19.080]  The task is so difficult that I cannot accomplish it.
+[26:22.480 --> 26:25.040]  Nancy went to London as well as Paris.
+[26:27.220 --> 26:34.680]  Nancy went to London as well as Paris.
+[26:39.120 --> 26:41.660]  Nancy went to London as well as Paris.
+[26:45.180 --> 26:47.580]  I appreciate your coming all the way.
+[26:49.780 --> 26:56.300]  I appreciate your coming all the way.
+[27:14.480 --> 27:17.640]  You have to study hard to catch up with your class.
+[27:22.900 --> 27:25.220]  You have to study hard to catch up with your class.
+[27:28.920 --> 27:31.780]  They might not become great artists or composers.
+[27:38.460 --> 27:48.180]  They might not become great artists or composers.
+[27:53.000 --> 28:05.740]  It is pleasant to sleep under the tree.
+[28:08.900 --> 28:11.220]  It is pleasant to sleep under the tree.
+[28:14.580 --> 28:17.480]  The politician lost his position in the end.
+[28:23.980 --> 28:34.220]  The politician lost his position in the end.
+[28:37.600 --> 28:44.560]  This rule is applied to foreigners only.
+[28:46.460 --> 28:50.440]  This rule is applied to foreigners only.
+[28:58.740 --> 29:02.180]  He came in and asked for a cup of coffee.
+[29:04.200 --> 29:11.880]  He came in and asked for a cup of coffee.
+[29:21.440 --> 29:24.300]  I don't think ink stains will come off.
+[29:26.340 --> 29:28.820]  I don't think ink stains will come off.
+[29:43.020 --> 29:45.980]  This is the same pencil that I lost the other day.
+[29:48.000 --> 29:50.860]  This is the same pencil that I lost the other day.
+
+Transcription speed: 2.79 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 657 seconds
+

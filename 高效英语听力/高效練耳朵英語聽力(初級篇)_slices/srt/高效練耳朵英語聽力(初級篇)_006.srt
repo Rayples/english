@@ -1,0 +1,130 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初級篇）_slices\高效練耳朵英語聽力（初級篇）_006.mp3
+
+[00:01.800 --> 00:03.340]  You look pale.
+[00:06.120 --> 00:08.560]  The telephone rang several times.
+[00:10.340 --> 00:16.180]  The telephone rang several times.
+[00:25.360 --> 00:27.800]  I didn't go to school last month.
+[00:29.780 --> 00:31.380]  I didn't go to school last month.
+[00:33.360 --> 00:35.580]  I didn't go to school last month.
+[00:40.160 --> 00:42.520]  I didn't go to school last month.
+[00:45.660 --> 00:46.940]  What are you going to have?
+[00:49.320 --> 00:50.280]  What are you going to have?
+[00:52.380 --> 00:54.120]  What are you going to have?
+[00:57.460 --> 00:59.140]  What are you going to have?
+[01:02.380 --> 01:04.000]  You were wrong after all.
+[01:09.220 --> 01:11.120]  You were wrong after all.
+[01:11.120 --> 01:17.140]  You were wrong after all.
+[01:19.840 --> 01:22.100]  He couldn't understand the sentence.
+[01:27.660 --> 01:36.800]  He couldn't understand the sentence.
+[01:39.900 --> 01:42.000]  I envy him.
+[01:45.600 --> 01:47.660]  I envy him.
+[01:48.400 --> 01:49.520]  I envy him.
+[01:51.560 --> 01:52.640]  I envy him.
+[01:55.040 --> 01:56.480]  I am happy.
+[01:58.340 --> 01:59.220]  I am happy.
+[02:00.920 --> 02:04.660]  I am happy.
+[02:09.440 --> 02:12.600]  They have English lessons three times a week.
+[02:18.120 --> 02:21.460]  They have English lessons three times a week.
+[02:26.860 --> 02:30.180]  They have English lessons three times a week.
+[02:33.580 --> 02:35.480]  I used to take a walk every morning.
+[02:41.200 --> 02:43.900]  I used to take a walk every morning.
+[02:50.060 --> 02:52.720]  I used to take a walk every morning.
+[02:56.040 --> 02:57.580]  We usually have lunch at noon.
+[03:00.500 --> 03:06.820]  We usually have lunch at noon.
+[03:12.220 --> 03:15.080]  We usually have lunch at noon.
+[03:18.400 --> 03:20.200]  I wanted red shoes.
+[03:26.220 --> 03:28.240]  I wanted red shoes.
+[03:32.660 --> 03:34.560]  I wanted red shoes.
+[03:37.480 --> 03:39.720]  I visited the village where he was born.
+[03:45.260 --> 03:47.860]  I visited the village where he was born.
+[03:53.180 --> 03:55.860]  I visited the village where he was born.
+[03:58.900 --> 04:00.480]  Does she speak French?
+[04:05.980 --> 04:07.780]  Does she speak French?
+[04:09.020 --> 04:10.300]  Does she speak French?
+[04:11.520 --> 04:13.420]  Does she speak French?
+[04:16.740 --> 04:17.880]  We depend on you.
+[04:22.000 --> 04:24.040]  We depend on you.
+[04:29.820 --> 04:31.040]  We depend on you.
+[04:34.640 --> 04:35.840]  Once more, please.
+[04:51.440 --> 04:54.060]  We had a very hot summer this year.
+[05:01.040 --> 05:03.700]  We had a very hot summer this year.
+[05:14.800 --> 05:17.580]  It was so dark that they could hardly see.
+[05:19.300 --> 05:21.800]  It was so dark that they could hardly see.
+[05:32.980 --> 05:36.060]  It was so dark that they could hardly see.
+[05:39.460 --> 05:40.780]  I'm from Singapore.
+[05:46.160 --> 05:47.520]  I'm from Singapore.
+[05:56.400 --> 05:58.780]  She told me she knew my brother.
+[06:01.040 --> 06:04.600]  She told me she knew my brother.
+[06:04.840 --> 06:07.160]  She told me she knew my brother.
+[06:13.120 --> 06:15.180]  She told me she knew my brother.
+[06:18.320 --> 06:20.400]  She went from London to Paris.
+[06:22.160 --> 06:24.420]  She went from London to Paris.
+[06:27.060 --> 06:28.840]  She went from London to Paris.
+[06:33.760 --> 06:36.560]  She went from London to Paris.
+[06:39.800 --> 06:41.580]  He plays golf on weekends.
+[06:43.420 --> 06:45.260]  He plays golf on weekends.
+[06:49.860 --> 06:52.840]  He plays golf on weekends.
+[06:53.440 --> 06:55.640]  He plays golf on weekends.
+[06:59.250 --> 07:00.760]  Time flies like an arrow.
+[07:02.920 --> 07:04.860]  Time flies like an arrow.
+[07:07.020 --> 07:09.200]  Time flies like an arrow.
+[07:16.720 --> 07:19.600]  He has been studying for two hours.
+[07:22.040 --> 07:23.600]  He has been studying for two hours.
+[07:25.260 --> 07:28.480]  He has been studying for two hours.
+[07:39.260 --> 07:41.120]  Nothing remained in the refrigerator.
+[07:46.460 --> 07:48.980]  Nothing remained in the refrigerator.
+[07:59.860 --> 08:03.540]  She stayed at the hotel for several days.
+[08:11.140 --> 08:13.720]  She stayed at the hotel for several days.
+[08:18.720 --> 08:20.820]  She stayed at the hotel for several days.
+[08:20.820 --> 08:21.300]  She stayed at the hotel for several days.
+[08:24.040 --> 08:26.340]  Show me another camera.
+[08:31.080 --> 08:33.140]  Show me another camera.
+[08:34.020 --> 08:37.480]  Give me a look at another camera.
+[08:38.340 --> 08:40.040]  Show me another camera.
+[08:43.160 --> 08:44.940]  You look pale today.
+[08:46.880 --> 08:48.160]  You look pale today.
+[08:50.200 --> 08:51.740]  You look pale today.
+[09:02.680 --> 09:03.860]  You must keep your room clean.
+[09:09.280 --> 09:11.440]  You must keep your room clean.
+[09:22.240 --> 09:24.080]  You like English, don't you?
+[09:25.580 --> 09:27.380]  You like English, don't you?
+[09:40.100 --> 09:42.860]  I fell in love with her at first sight.
+[09:44.680 --> 09:51.760]  I fell in love with her at first sight.
+[09:56.320 --> 09:59.460]  I fell in love with her at first sight.
+[10:02.260 --> 10:04.240]  Have you ever seen Tokyo Tower?
+[10:09.960 --> 10:12.540]  Have you ever seen Tokyo Tower?
+[10:16.340 --> 10:19.900]  Have you ever seen Tokyo Tower?
+[10:23.400 --> 10:25.120]  She'll do it in 24 hours.
+[10:30.300 --> 10:32.940]  She'll do it in 24 hours.
+[10:38.640 --> 10:41.240]  She'll do it in 24 hours.
+[10:44.160 --> 10:45.800]  I failed the tests.
+[10:52.380 --> 10:54.260]  I failed the tests.
+[10:58.540 --> 11:00.360]  I failed the tests.
+[11:03.140 --> 11:05.220]  I wonder if she will marry him.
+[11:07.460 --> 11:09.520]  I wonder if she will marry him.
+[11:25.140 --> 11:26.700]  His hands were empty.
+[11:28.520 --> 11:29.880]  His hands were empty.
+[11:42.400 --> 11:45.180]  You have a little fever today, don't you?
+[11:47.320 --> 11:49.720]  You have a little fever today, don't you?
+[11:51.960 --> 11:55.020]  You have a little fever today, don't you?
+[12:05.580 --> 12:06.740]  Don't make a mistake.
+[12:11.580 --> 12:13.220]  Don't make a mistake.
+[12:20.640 --> 12:23.040]  When do you play tennis?
+[12:25.260 --> 12:26.660]  When do you play tennis?
+[12:40.140 --> 12:41.780]  You are no younger than I am.
+[12:54.320 --> 12:56.700]  You are no younger than I am.
+[13:00.540 --> 13:02.860]  When I came home, John was studying.
+[13:04.840 --> 13:11.880]  When I came home, John was studying.
+[13:17.920 --> 13:20.900]  When I came home, John was studying.
+
+Transcription speed: 2.53 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 332 seconds
+

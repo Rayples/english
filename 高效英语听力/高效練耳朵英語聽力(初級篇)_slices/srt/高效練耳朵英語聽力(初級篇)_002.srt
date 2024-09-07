@@ -1,0 +1,292 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初級篇）_slices\高效練耳朵英語聽力（初級篇）_002.mp3
+
+[00:04.600 --> 00:05.320]  我听到有人叫我的名字。
+[00:05.320 --> 00:07.180]  I heard someone calling my name.
+[00:10.440 --> 00:11.800]  The cat is very cute.
+[00:14.200 --> 00:15.560]  The cat is very cute.
+[00:18.080 --> 00:19.740]  The cat is very cute.
+[00:23.980 --> 00:24.340]  这只猫很可爱。
+[00:24.700 --> 00:26.540]  The cat is very cute.
+[00:29.700 --> 00:31.500]  I asked him to start at once.
+[00:37.220 --> 00:39.480]  I asked him to start at once.
+[00:40.780 --> 00:41.380]  I asked him to start at once.
+[00:42.740 --> 00:43.340]  我叫他马上动身.
+[00:44.560 --> 00:46.920]  I asked him to start at once.
+[00:50.440 --> 00:52.160]  I caught three fish yesterday.
+[00:53.800 --> 00:55.700]  I caught three fish yesterday.
+[00:57.820 --> 00:59.500]  I caught three fish yesterday.
+[01:03.320 --> 01:04.020]  我昨天掉了三条鱼。
+[01:04.020 --> 01:06.260]  I caught three fish yesterday.
+[01:08.920 --> 01:10.860]  The train was crowded.
+[01:13.240 --> 01:14.060]  The train was crowded.
+[01:16.520 --> 01:17.760]  The train was crowded.
+[01:20.900 --> 01:21.580]  火车很拥挤。
+[01:26.760 --> 01:28.700]  Wouldn't you like another glass of beer?
+[01:34.320 --> 01:36.840]  Wouldn't you like another glass of beer?
+[01:42.220 --> 01:44.820]  Wouldn't you like another glass of beer?
+[01:47.760 --> 01:49.300]  He is very young.
+[01:58.120 --> 01:58.960]  他很年轻。
+[02:03.460 --> 02:05.400]  A horse runs quickly.
+[02:10.420 --> 02:11.700]  A horse runs quickly.
+[02:14.980 --> 02:15.820]  马跑得快。
+[02:15.820 --> 02:17.500]  A horse runs quickly.
+[02:20.520 --> 02:22.420]  Would you please write your name here?
+[02:28.160 --> 02:30.800]  Would you please write your name here?
+[02:32.900 --> 02:33.500]  Would you please write your name here?
+[02:37.340 --> 02:37.940]  请您把您的名字写在这里好吗?
+[02:39.420 --> 02:41.260]  Would you please write your name here?
+[02:46.030 --> 02:47.170]  Would you please write your name here?
+[02:48.950 --> 02:50.670]  I want to eat something.
+[02:52.610 --> 02:54.670]  I want to eat something.
+[02:56.990 --> 02:57.810]  我想吃点东西.
+[02:58.820 --> 03:00.550]  I want to eat something.
+[03:03.830 --> 03:05.230]  She can't swim.
+[03:07.090 --> 03:07.870]  She can't swim.
+[03:12.790 --> 03:13.610]  她不会游泳.
+[03:14.510 --> 03:16.050]  She can't swim.
+[03:19.030 --> 03:21.050]  I have no money to buy the dictionary.
+[03:26.890 --> 03:29.750]  I have no money to buy the dictionary.
+[03:30.930 --> 03:31.190]  I have no money to buy the dictionary.
+[03:33.230 --> 03:33.870]  我没有钱买这本字典.
+[03:35.550 --> 03:38.210]  I have no money to buy the dictionary.
+[03:41.530 --> 03:43.470]  My hobby is collecting coins.
+[03:45.450 --> 03:47.670]  My hobby is collecting coins.
+[03:50.090 --> 03:52.210]  My hobby is collecting coins.
+[03:56.250 --> 03:57.010]  我的业余爱好是收集硬币.
+[03:58.210 --> 04:00.770]  My hobby is collecting coins.
+[04:04.730 --> 04:06.170]  Have you finished reading the novel?
+[04:08.750 --> 04:10.610]  Have you finished reading the novel?
+[04:11.210 --> 04:13.450]  Have you finished reading the novel?
+[04:13.450 --> 04:15.290]  Have you finished reading the novel?
+[04:25.130 --> 04:27.550]  Have you seen my glasses anywhere?
+[04:30.130 --> 04:31.330]  Have you seen my glasses anywhere?
+[04:36.530 --> 04:38.810]  Have you seen my glasses anywhere?
+[04:39.370 --> 04:41.990]  Have you seen my glasses anywhere?
+[04:44.890 --> 04:46.950]  That's his specialty.
+[04:54.870 --> 04:57.250]  That's his specialty.
+[04:58.310 --> 05:00.210]  That's his specialty.
+[05:02.590 --> 05:04.570]  Do you know the reason?
+[05:06.870 --> 05:08.330]  Do you know the reason?
+[05:13.450 --> 05:15.990]  Do you know the reason?
+[05:16.430 --> 05:18.750]  Do you know the reason?
+[05:21.950 --> 05:23.970]  Which company do you work for?
+[05:25.690 --> 05:27.470]  Which company do you work for?
+[05:29.610 --> 05:31.090]  Which company do you work for?
+[05:40.270 --> 05:41.390]  Let me see it.
+[05:43.830 --> 05:44.930]  Let me see it.
+[05:56.190 --> 05:58.490]  This room doesn't get a lot of sun.
+[06:12.390 --> 06:14.910]  This room doesn't get a lot of sun.
+[06:18.190 --> 06:19.490]  Don't drop that cup.
+[06:24.290 --> 06:25.830]  Don't drop that cup.
+[06:30.250 --> 06:31.770]  Don't drop that cup.
+[06:35.110 --> 06:36.930]  Come to my house this afternoon.
+[06:38.930 --> 06:40.670]  Come to my house this afternoon.
+[06:55.630 --> 06:56.850]  Don't change your mind.
+[07:07.170 --> 07:08.770]  Don't change your mind.
+[07:11.390 --> 07:13.030]  I called for help.
+[07:17.770 --> 07:19.550]  I called for help.
+[07:20.650 --> 07:25.330]  I called for help.
+[07:28.930 --> 07:30.010]  The sooner the better.
+[07:31.870 --> 07:34.050]  The sooner the better.
+[07:38.650 --> 07:40.290]  The sooner the better.
+[07:45.690 --> 07:48.870]  The building was built in 1960.
+[07:50.990 --> 07:56.070]  The building was built in 1960.
+[07:56.890 --> 07:59.130]  The building was built in 1960.
+[08:04.690 --> 08:07.590]  The building was built in 1960.
+[08:11.210 --> 08:13.230]  That kind of dress is now in fashion.
+[08:15.890 --> 08:18.210]  That kind of dress is now in fashion.
+[08:21.010 --> 08:23.670]  That kind of dress is now in fashion.
+[08:29.470 --> 08:32.190]  That kind of dress is now in fashion.
+[08:35.250 --> 08:38.250]  The meeting in short was a waste of time.
+[08:43.950 --> 08:48.670]  The meeting in short was a waste of time.
+[08:54.230 --> 08:58.070]  The meeting in short was a waste of time.
+[09:01.050 --> 09:03.270]  I would like to go fishing if possible.
+[09:08.590 --> 09:11.390]  I would like to go fishing if possible.
+[09:16.950 --> 09:19.450]  I would like to go fishing if possible.
+[09:22.750 --> 09:24.370]  I hope my dream will come true.
+[09:26.630 --> 09:32.750]  I hope my dream will come true.
+[09:32.750 --> 09:40.770]  I hope my dream will come true.
+[09:43.630 --> 09:45.590]  They made me go there.
+[09:47.550 --> 09:49.230]  They made me go there.
+[10:02.030 --> 10:04.490]  The box is almost empty.
+[10:22.030 --> 10:25.330]  I had breakfast at 7.30.
+[10:37.290 --> 10:39.990]  I had breakfast at 7.30.
+[10:43.350 --> 10:45.090]  Some boys came into the classroom.
+[10:46.570 --> 10:48.510]  Some boys came into the classroom.
+[11:02.250 --> 11:04.650]  I like to travel by myself.
+[11:06.410 --> 11:12.190]  I like to travel by myself.
+[11:21.070 --> 11:22.830]  I'm sorry to hear that.
+[11:38.950 --> 11:41.370]  Is this ball yours or hers?
+[11:42.910 --> 11:45.130]  Is this ball yours or hers?
+[11:46.790 --> 11:49.190]  Is this ball yours or hers?
+[11:59.350 --> 12:02.050]  We sat down face to face.
+[12:16.370 --> 12:18.830]  We sat down face to face.
+[12:22.270 --> 12:23.710]  Let's split the bill.
+[12:29.570 --> 12:31.210]  Let's split the bill.
+[12:35.170 --> 12:36.830]  Let's split the bill.
+[12:39.750 --> 12:41.590]  My brother can read English.
+[12:46.710 --> 12:49.450]  My little brother can read English.
+[12:58.870 --> 13:01.190]  Is this your first trip abroad?
+[13:06.870 --> 13:09.270]  Is this your first trip abroad?
+[13:19.390 --> 13:21.610]  Will you have another cup of milk?
+[13:26.330 --> 13:28.590]  Will you have another cup of milk?
+[13:33.110 --> 13:35.390]  Will you have another cup of milk?
+[13:38.750 --> 13:40.310]  Can you come for dinner tonight?
+[13:46.670 --> 13:48.810]  Can you come for dinner tonight?
+[13:58.590 --> 14:00.550]  Everybody likes him.
+[14:14.850 --> 14:18.090]  Is he your teacher?
+[14:28.590 --> 14:30.110]  Is he your teacher?
+[14:33.710 --> 14:36.190]  Due to bad weather, the plane was late.
+[14:43.370 --> 14:46.370]  Due to bad weather, the plane was late.
+[14:47.090 --> 14:54.970]  Due to bad weather, the plane was late.
+[14:57.610 --> 15:01.890]  I'm gaining weight.
+[15:03.470 --> 15:05.090]  I'm gaining weight.
+[15:13.790 --> 15:16.630]  The girl's eyes were filled with tears.
+[15:22.090 --> 15:25.210]  The girl's eyes were filled with tears.
+[15:36.230 --> 15:37.870]  He played tennis.
+[15:39.690 --> 15:41.090]  He played tennis.
+[15:42.990 --> 15:44.550]  He played tennis.
+[15:53.050 --> 15:54.930]  Why do you say that?
+[15:57.010 --> 15:57.910]  Why do you say that?
+[15:59.950 --> 16:01.550]  Why do you say that?
+[16:06.150 --> 16:07.770]  Why do you say that?
+[16:10.770 --> 16:12.430]  Does this bus go to the beach?
+[16:17.590 --> 16:19.810]  Does this bus go to the beach?
+[16:24.750 --> 16:27.050]  Does this bus go to the beach?
+[16:30.010 --> 16:31.330]  Tell me what you want.
+[16:36.250 --> 16:37.830]  Tell me what you want.
+[16:41.990 --> 16:43.930]  Tell me what you want.
+[16:46.730 --> 16:48.430]  I don't like coffee.
+[16:53.190 --> 16:55.250]  I don't like coffee.
+[16:59.170 --> 17:00.750]  I don't like coffee.
+[17:04.070 --> 17:05.210]  Why did you do that?
+[17:07.190 --> 17:08.050]  Why did you do that?
+[17:09.650 --> 17:11.350]  Why did you do that?
+[17:19.850 --> 17:21.830]  He didn't answer my question.
+[17:26.530 --> 17:28.850]  He didn't answer my question.
+[17:39.010 --> 17:40.190]  That boy is running.
+[17:42.470 --> 17:43.690]  That boy is running.
+[17:56.910 --> 17:58.310]  They are pretty.
+[18:00.590 --> 18:01.490]  They are pretty.
+[18:05.830 --> 18:07.870]  They are pretty.
+[18:13.710 --> 18:15.450]  We will keep it for you until you leave.
+[18:16.950 --> 18:18.970]  We will keep it for you until you leave.
+[18:29.990 --> 18:32.830]  We will keep it for you until you leave.
+[18:35.590 --> 18:37.410]  The girls began to laugh.
+[18:42.530 --> 18:44.490]  The girls began to laugh.
+[18:48.750 --> 18:51.110]  The girls began to laugh.
+[18:54.190 --> 18:56.010]  I am terribly hungry.
+[19:01.510 --> 19:03.730]  I am terribly hungry.
+[19:06.470 --> 19:08.830]  I am terribly hungry.
+[19:11.350 --> 19:13.190]  I often see him.
+[19:18.410 --> 19:20.510]  I often see him.
+[19:21.470 --> 19:23.270]  I often see him.
+[19:24.090 --> 19:26.010]  I often see him.
+[19:28.770 --> 19:30.430]  I play video games.
+[19:32.210 --> 19:33.250]  I play video games.
+[19:34.590 --> 19:36.550]  I play video games.
+[19:44.070 --> 19:47.410]  We have few opportunities to speak German.
+[19:49.010 --> 19:51.990]  We have few opportunities to speak German.
+[19:53.630 --> 19:57.230]  We have few opportunities to speak German.
+[19:57.850 --> 20:06.490]  We have few opportunities to speak German.
+[20:09.490 --> 20:11.410]  What a beautiful flower.
+[20:16.850 --> 20:19.550]  What a beautiful flower.
+[20:23.510 --> 20:25.730]  What a beautiful flower.
+[20:29.030 --> 20:30.170]  Count me in.
+[20:32.410 --> 20:35.130]  Count me in.
+[20:35.130 --> 20:37.670]  Count me in.
+[20:43.670 --> 20:46.510]  My father died of lung cancer.
+[20:59.310 --> 21:02.630]  My father died of lung cancer.
+[21:06.150 --> 21:07.450]  I'll tell you a secret.
+[21:12.670 --> 21:14.110]  I'll tell you a secret.
+[21:23.370 --> 21:25.370]  I quit smoking two years ago.
+[21:37.570 --> 21:40.070]  I quit smoking two years ago.
+[21:43.430 --> 21:44.930]  This is Mary's dog.
+[21:50.190 --> 21:52.010]  This is Mary's dog.
+[21:52.650 --> 21:57.230]  This is Mary's dog.
+[21:59.870 --> 22:01.750]  He is always short of money.
+[22:03.710 --> 22:05.590]  He is always short of money.
+[22:07.710 --> 22:09.810]  He's always short of money.
+[22:13.570 --> 22:15.730]  He's always short of money.
+[22:18.770 --> 22:20.130]  How did you make it?
+[22:21.810 --> 22:22.910]  How did you make it?
+[22:24.130 --> 22:26.190]  How did you make it?
+[22:32.890 --> 22:35.490]  He died recently.
+[22:39.510 --> 22:41.410]  He died recently.
+[22:42.790 --> 22:43.690]  He died recently.
+[22:43.690 --> 22:46.750]  He died recently.
+[22:49.250 --> 22:51.630]  Children should play outside.
+[22:53.770 --> 23:00.030]  Children should play outside.
+[23:09.010 --> 23:11.690]  She plays the guitar.
+[23:13.690 --> 23:15.370]  She plays the guitar.
+[23:17.330 --> 23:19.310]  She plays the guitar.
+[23:22.890 --> 23:24.690]  She plays the guitar.
+[23:28.110 --> 23:29.350]  I'll come back.
+[23:31.210 --> 23:34.890]  I'll come back.
+[23:35.050 --> 23:38.350]  I'll come back.
+[23:43.770 --> 23:45.210]  Tell me about it.
+[23:47.030 --> 23:48.330]  Tell me about it.
+[23:59.370 --> 24:00.970]  I received your letter.
+[24:06.090 --> 24:07.810]  I received your letter.
+[24:11.190 --> 24:13.270]  I received your letter.
+[24:16.490 --> 24:18.370]  Paris is the capital of France.
+[24:23.190 --> 24:25.670]  Paris is the capital of France.
+[24:31.030 --> 24:32.890]  Paris is the capital of France.
+[24:44.310 --> 24:47.190]  She is practicing the violin now.
+[24:52.470 --> 24:55.350]  She is practicing the violin now.
+[24:57.750 --> 25:00.270]  The new museum is worth visiting.
+[25:05.130 --> 25:08.610]  The New Museum is worth visiting.
+[25:12.670 --> 25:16.670]  The New Museum is worth visiting.
+[25:18.430 --> 25:19.410]  I'm free now.
+[25:21.270 --> 25:22.270]  I'm free now.
+[25:24.170 --> 25:25.370]  I'm free now.
+[25:33.090 --> 25:35.610]  The island is warm all year.
+[25:41.590 --> 25:44.210]  The island is warm all year.
+[25:44.910 --> 25:51.170]  The island is warm all year.
+[25:54.070 --> 25:56.330]  I persuaded him to take pardon it.
+[25:57.810 --> 26:00.110]  I persuaded him to take pardon it.
+[26:01.610 --> 26:05.470]  I persuaded him to take part in it.
+[26:15.110 --> 26:17.090]  She is about to leave.
+[26:18.970 --> 26:20.430]  She is about to leave.
+[26:28.710 --> 26:30.570]  She is about to leave.
+[26:33.910 --> 26:35.690]  She spoke as though nothing had happened.
+[26:41.610 --> 26:44.490]  She spoke as though nothing had happened.
+[26:51.730 --> 26:54.650]  She spoke as though nothing had happened.
+[26:57.230 --> 26:58.890]  This cake is sweet.
+[27:00.870 --> 27:02.390]  This cake is sweet.
+[27:04.530 --> 27:06.170]  This cake is sweet.
+[27:14.690 --> 27:17.350]  They visit us from time to time.
+[27:19.270 --> 27:21.570]  They visit us from time to time.
+[27:30.630 --> 27:33.390]  They visit us from time to time.
+[27:36.310 --> 27:37.670]  What is in this box?
+[27:39.510 --> 27:40.830]  What is in this box?
+[27:53.870 --> 27:55.490]  I don't like her.
+[27:59.490 --> 28:01.150]  I don't like her.
+[28:05.130 --> 28:06.730]  I don't like her.
+[28:10.210 --> 28:11.890]  Did you have a good time yesterday?
+[28:13.970 --> 28:15.310]  Did you have a good time yesterday?
+[28:17.410 --> 28:19.610]  Did you have a good time yesterday?
+[28:30.270 --> 28:31.910]  I will give it to you.
+[28:33.430 --> 28:34.770]  I will give it to you.
+[28:45.770 --> 28:47.630]  I have been studying for two hours.
+[29:01.910 --> 29:04.230]  I have been studying for two hours.
+[29:07.330 --> 29:09.070]  She is a wealthy woman.
+[29:14.970 --> 29:17.010]  She is a wealthy woman.
+[29:20.950 --> 29:23.110]  She is a wealthy woman.
+[29:25.950 --> 29:27.190]  I went hiking.
+[29:31.890 --> 29:33.250]  I went hiking.
+[29:40.730 --> 29:44.210]  She has been absent from school for five days.
+[29:45.810 --> 29:48.750]  She has been absent from school for five days.
+[29:50.430 --> 29:53.990]  She has been absent from school for five days.
+
+Transcription speed: 3.15 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 585 seconds
+

@@ -1,0 +1,218 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（中級篇）_slices\高效練耳朵英語聽力（中級篇）_000.mp3
+
+[00:05.100 --> 00:07.360]  Let's practice listening in English.
+[00:18.900 --> 00:21.340]  She will be glad if you go to see her in person.
+[00:23.760 --> 00:26.180]  She will be glad if you go to see her in person.
+[00:28.780 --> 00:32.120]  She will be glad if you go to see her in person.
+[00:37.380 --> 00:39.940]  She will be glad if you go to see her in person.
+[00:43.800 --> 00:45.820]  Is it all right to take pictures in this building?
+[00:54.490 --> 00:57.470]  Is it all right to take pictures in this building?
+[01:02.030 --> 01:04.510]  Is it all right to take pictures in this building?
+[01:09.170 --> 01:11.650]  He returned home for the first time in ten years.
+[01:13.830 --> 01:16.370]  He returned home for the first time in ten years.
+[01:26.730 --> 01:29.290]  He returned home for the first time in ten years.
+[01:32.870 --> 01:35.130]  I wanted to thank you for what you did today.
+[01:41.550 --> 01:44.270]  I wanted to thank you for what you did today.
+[01:49.690 --> 01:58.350]  I have been living in Canada for almost five years.
+[01:59.970 --> 02:08.290]  I have been living in Canada for almost five years.
+[02:12.890 --> 02:15.730]  I have been living in Canada for almost five years.
+[02:18.750 --> 02:21.190]  It is believed that whales have their own language.
+[02:28.450 --> 02:32.210]  It is believed that whales have their own language.
+[02:37.210 --> 02:39.870]  It is believed that whales have their own language.
+[02:43.910 --> 02:46.650]  This is the most beautiful sight that I have ever seen.
+[02:53.350 --> 02:57.090]  This is the most beautiful sight that I have ever seen.
+[03:01.630 --> 03:04.410]  This is the most beautiful sight that I have ever seen.
+[03:07.850 --> 03:10.910]  I'd gladly pay more for something if it's of higher quality.
+[03:12.830 --> 03:15.810]  I'd gladly pay more for something if it's of high quality.
+[03:36.090 --> 03:42.170]  Are you planning to take part in the meeting?
+[03:51.190 --> 03:53.210]  Are you planning to take part in the meeting?
+[03:56.670 --> 03:59.730]  You continue making the same mistakes time after time.
+[04:01.450 --> 04:11.510]  You continue making the same mistakes time after time.
+[04:15.970 --> 04:20.950]  You continue making the same mistakes time after time.
+[04:22.230 --> 04:25.690]  A bookstore in that location wouldn't make enough money to survive.
+[04:27.750 --> 04:38.010]  A bookstore in that location wouldn't make enough money to survive.
+[04:45.210 --> 04:55.270]  A beautiful woman was seated one row in front of me.
+[05:01.530 --> 05:05.110]  A beautiful woman was seated one row in front of me.
+[05:06.210 --> 05:13.290]  A beautiful woman was seated one row in front of me.
+[05:16.470 --> 05:18.370]  I don't know what I'm going to do next.
+[05:24.490 --> 05:32.990]  I don't know what I'm going to do next.
+[05:36.250 --> 05:38.830]  The bus stopped suddenly in the middle of the street.
+[05:44.830 --> 05:48.230]  The bus stopped suddenly in the middle of the street.
+[05:52.690 --> 05:55.410]  The bus stopped suddenly in the middle of the street.
+[05:58.710 --> 06:00.910]  Florence is the most beautiful city in Italy.
+[06:06.230 --> 06:09.510]  Florence is the most beautiful city in Italy.
+[06:11.230 --> 06:17.610]  Florence is the most beautiful city in Italy.
+[06:20.530 --> 06:23.430]  Tsunami swept through the rice fields and flooded the towns.
+[06:30.970 --> 06:39.530]  Tsunami swept through the rice fields and flooded the towns.
+[06:40.490 --> 06:43.270]  Tsunami swept through the rice fields and flooded the towns.
+[06:46.750 --> 06:49.010]  The top of the mountain is covered in snow.
+[06:51.690 --> 06:59.690]  The top of the mountain is covered in snow.
+[07:04.190 --> 07:06.250]  The top of the mountain is covered in snow.
+[07:10.610 --> 07:12.410]  Give me a chance to make you proud of me.
+[07:17.490 --> 07:20.290]  Give me a chance to make you proud of me.
+[07:30.150 --> 07:33.390]  Every time I read the Bible, I am deeply moved.
+[07:39.870 --> 07:49.070]  Every time I read the Bible, I am deeply moved.
+[07:49.070 --> 08:05.570]  The child had no overcoat on, although it was very cold.
+[08:08.010 --> 08:12.710]  The child had no overcoat on, although it was very cold.
+[08:18.850 --> 08:22.330]  The child had no overcoat on, although it was very cold.
+[08:26.490 --> 08:28.710]  Have you ever seen such a beautiful sunset?
+[08:35.050 --> 08:38.270]  Have you ever seen such a beautiful sunset?
+[08:43.190 --> 08:45.570]  Have you ever seen such a beautiful sunset?
+[08:49.190 --> 08:52.370]  Several cottages have been isolated by the flood water.
+[08:54.450 --> 09:03.810]  Several cottages have been isolated by the flood water.
+[09:04.550 --> 09:12.350]  Several cottages have been isolated by the flood water.
+[09:16.170 --> 09:18.230]  Give him an inch and he'll take a yard.
+[09:20.510 --> 09:22.190]  Give him an inch and he'll take a yard.
+[09:23.970 --> 09:26.650]  Give him an inch and he'll take a yard.
+[09:34.670 --> 09:37.110]  I can't tell you how to pronounce the word.
+[09:43.330 --> 09:46.150]  I can't tell you how to pronounce the word.
+[09:51.490 --> 09:53.570]  I can't tell you how to pronounce the word.
+[09:57.090 --> 09:59.110]  I did not expect it to be that big.
+[10:07.670 --> 10:10.290]  I did not expect it to be that big.
+[10:21.190 --> 10:23.710]  The offer is too good to be turned down.
+[10:25.510 --> 10:32.490]  The offer is too good to be turned down.
+[10:37.610 --> 10:40.170]  The offer is too good to be turned down.
+[10:43.090 --> 10:45.670]  We must learn to live in harmony with nature.
+[10:52.050 --> 10:54.790]  We must learn to live in harmony with nature.
+[10:59.510 --> 11:02.130]  We must learn to live in harmony with nature.
+[11:05.570 --> 11:08.090]  He sleeps during the day and works at night.
+[11:09.930 --> 11:12.390]  He sleeps during the day and works at night.
+[11:21.310 --> 11:24.030]  He sleeps during the day and works at night.
+[11:27.290 --> 11:29.810]  The bus is full. You'll have to wait for the next one.
+[11:31.790 --> 11:34.190]  The bus is full. You'll have to wait for the next one.
+[11:45.770 --> 11:48.450]  The bus is full. You'll have to wait for the next one.
+[11:51.970 --> 11:53.770]  While you're young, you should read a lot.
+[11:56.150 --> 11:57.970]  While you're young, you should read a lot.
+[12:00.370 --> 12:03.130]  While you're young, you should read a lot.
+[12:14.670 --> 12:17.070]  She told him that she believed in astrology.
+[12:19.870 --> 12:21.870]  She told him that she believed in astrology.
+[12:32.570 --> 12:34.530]  She told him that she believed in astrology.
+[12:38.310 --> 12:41.270]  An old man was resting in the shade of a tree.
+[12:47.630 --> 12:51.070]  An old man was resting in the shade of a tree.
+[12:56.650 --> 12:59.110]  An old man was resting in the shade of a tree.
+[13:02.530 --> 13:04.830]  You have to study hard to catch up with your class.
+[13:10.670 --> 13:13.810]  You have to study hard to catch up with your class.
+[13:18.990 --> 13:21.270]  You have to study hard to catch up with your class.
+[13:24.470 --> 13:26.690]  The firm went under due to lack of capital.
+[13:28.590 --> 13:31.110]  The firm went under due to lack of capital.
+[13:46.150 --> 13:49.690]  As more paper money came into use, the value fell.
+[13:51.770 --> 13:55.030]  As more paper money came into use, the value fell.
+[13:57.370 --> 14:01.050]  As more paper money came into use, the value fell.
+[14:13.170 --> 14:16.830]  I had never seen a windmill until I visited the Netherlands.
+[14:25.410 --> 14:29.170]  I had never seen a windmill until I visited the Netherlands.
+[14:35.070 --> 14:38.030]  I had never seen a windmill until I visited the Netherlands.
+[14:42.070 --> 14:44.630]  I worked in a post office during the summer vacation.
+[14:46.490 --> 14:54.250]  I worked in a post office during the summer vacation.
+[14:58.950 --> 15:01.790]  I worked in a post office during the summer vacation.
+[15:04.690 --> 15:06.870]  Do you have any idea who would do this?
+[15:08.730 --> 15:10.650]  Do you have any idea who would do this?
+[15:12.910 --> 15:15.770]  Do you have any idea who would do this?
+[15:25.010 --> 15:27.510]  I had no choice but to accept the offer.
+[15:33.370 --> 15:36.190]  I had no choice but to accept the offer.
+[15:41.470 --> 15:43.130]  I had no choice but to accept the offer.
+[15:46.450 --> 15:48.830]  English is an important language in today's world.
+[15:54.010 --> 15:58.050]  English is an important language in today's world.
+[16:04.910 --> 16:07.610]  English is an important language in today's world.
+[16:10.290 --> 16:13.450]  Is it right for a doctor to decide when someone should die?
+[16:20.030 --> 16:24.050]  Is it right for a doctor to decide when someone should die?
+[16:26.850 --> 16:34.010]  Is it right for a doctor to decide when someone should die?
+[16:37.630 --> 16:39.730]  The ice on the lake is too thin to bear your weight.
+[16:45.210 --> 16:48.750]  The ice on the lake is too thin to bear your weight.
+[16:59.770 --> 17:02.130]  You needn't have taken an umbrella with you.
+[17:03.730 --> 17:06.050]  You needn't have taken an umbrella with you.
+[17:20.010 --> 17:22.610]  I have too many things on my mind these days.
+[17:24.630 --> 17:31.810]  I have too many things on my mind these days.
+[17:38.190 --> 17:40.230]  I have too many things on my mind these days.
+[17:43.670 --> 17:45.870]  I want to get a haircut before I go on the trip.
+[17:52.710 --> 18:00.770]  I want to get a haircut before I go on the trip.
+[18:01.450 --> 18:03.730]  I want to get a haircut before I go on the trip.
+[18:07.450 --> 18:09.670]  You should look after the children from time to time.
+[18:12.410 --> 18:19.690]  You should look after the children from time to time.
+[18:24.790 --> 18:27.110]  You should look after the children from time to time.
+[18:30.770 --> 18:32.770]  I don't feel like taking a walk this morning.
+[18:39.050 --> 18:42.250]  I don't feel like taking a walk this morning.
+[18:51.870 --> 19:03.230]  Did you enjoy yourself at the party last night?
+[19:07.950 --> 19:10.090]  Did you enjoy yourself at the party last night?
+[19:12.610 --> 19:16.430]  The senator was censored by the Congressional Ethics Committee.
+[19:18.190 --> 19:21.530]  The senator was censored by the Congressional Ethics Committee.
+[19:23.410 --> 19:27.510]  The senator was censored by the Congressional Ethics Committee.
+[19:33.030 --> 19:36.730]  The senator was censored by the Congressional Ethics Committee.
+[19:40.110 --> 19:42.850]  After she had lunch, she got ready to go out.
+[19:44.970 --> 19:47.490]  After she had lunch, she got ready to go out.
+[19:54.370 --> 20:01.370]  After she had lunch, she got ready to go out.
+[20:04.830 --> 20:06.970]  It seems that you are not having a good time here.
+[20:13.590 --> 20:16.690]  It seems that you are not having a good time here.
+[20:21.890 --> 20:24.070]  It seems that you are not having a good time here.
+[20:27.770 --> 20:31.370]  According to my calculation, she should be in India by now.
+[20:39.970 --> 20:44.190]  According to my calculation, she should be in India by now.
+[20:57.350 --> 21:01.070]  He visited his hometown for the first time in 10 years.
+[21:03.350 --> 21:12.050]  He visited his hometown for the first time in 10 years.
+[21:23.110 --> 21:36.110]  There is no admission fee for children under 5.
+[21:41.030 --> 21:43.290]  There is no admission fee for children under 5.
+[21:46.910 --> 21:49.250]  He wishes he had gone to the theater last night.
+[21:50.770 --> 21:58.190]  He wishes he had gone to the theater last night.
+[22:08.570 --> 22:12.110]  A slip of the tongue is sometimes fatal to a politician.
+[22:18.890 --> 22:22.590]  A slip of the tongue is sometimes fatal to a politician.
+[22:34.830 --> 22:37.650]  It is less muggy today than it was yesterday.
+[22:39.610 --> 22:41.790]  It is less muggy today than it was yesterday.
+[22:56.470 --> 22:58.770]  My uncle comes to see me from time to time.
+[23:09.110 --> 23:14.650]  My uncle comes to see me from time to time.
+[23:17.890 --> 23:19.990]  He fell in love with her at first sight.
+[23:26.690 --> 23:29.370]  He fell in love with her at first sight.
+[23:33.890 --> 23:35.770]  He fell in love with her at first sight.
+[23:39.590 --> 23:42.090]  He had his sister help him paint the wall of his room.
+[23:44.170 --> 23:46.710]  He had his sister help him paint the wall of his room.
+[23:48.650 --> 23:52.730]  He had his sister help him paint the wall of his room.
+[23:58.130 --> 24:00.350]  He had his sister help him paint the wall of his room.
+[24:03.870 --> 24:06.170]  Scientists haven't found a cure for cancer yet.
+[24:16.130 --> 24:20.710]  Scientists haven't found a cure for cancer yet.
+[24:26.150 --> 24:29.610]  The police assembled a lot of evidence against him.
+[24:45.150 --> 24:48.050]  The police assembled a lot of evidence against him.
+[24:51.610 --> 24:54.090]  I think it's better for us to adopt his plan.
+[25:00.910 --> 25:04.110]  I think it's better for us to adopt his plan.
+[25:09.910 --> 25:12.310]  I think it's better for us to adopt his plan.
+[25:15.930 --> 25:19.690]  He devoted the last 10 years of his life to writing his autobiography.
+[25:21.410 --> 25:26.630]  He devoted the last 10 years of his life to writing his autobiography.
+[25:36.050 --> 25:39.770]  He devoted the last 10 years of his life to writing his autobiography.
+[25:42.870 --> 25:49.210]  The girl was afraid to jump down from the roof.
+[25:51.430 --> 25:54.130]  The girl was afraid to jump down from the roof.
+[25:59.050 --> 26:01.290]  The girl was afraid to jump down from the roof.
+[26:04.470 --> 26:07.630]  You speak so softly that I cannot quite hear what you say.
+[26:09.830 --> 26:13.210]  You speak so softly that I cannot quite hear what you say.
+[26:15.230 --> 26:19.410]  You speak so softly that I cannot quite hear what you say.
+[26:32.650 --> 26:35.270]  I'll always love you no matter what happens.
+[26:42.190 --> 26:45.270]  I'll always love you no matter what happens.
+[26:50.770 --> 26:53.330]  I'll always love you no matter what happens.
+[26:56.570 --> 26:59.870]  A good many people have told me to take a holiday.
+[27:06.390 --> 27:09.890]  A good many people have told me to take a holiday.
+[27:14.810 --> 27:17.730]  A good many people have told me to take a holiday.
+[27:21.130 --> 27:23.690]  I don't see any reason why I have to apologize.
+[27:30.450 --> 27:33.830]  I don't see any reason why I have to apologize.
+[27:38.790 --> 27:41.430]  I don't see any reason why I have to apologize.
+[27:44.870 --> 27:47.930]  It is extremely hot and humid in Bali in December.
+[27:54.890 --> 28:00.110]  It is extremely hot and humid in Bali in December.
+[28:12.450 --> 28:19.870]  We were astonished to hear about what had happened.
+[28:21.950 --> 28:24.870]  We were astonished to hear what had happened.
+[28:30.290 --> 28:32.590]  We were astonished to hear about what had happened.
+[28:36.190 --> 28:38.610]  I have to go shopping. I'll be back in an hour.
+[28:41.250 --> 28:49.630]  I have to go shopping. I'll be back in an hour.
+[28:56.110 --> 28:58.550]  I have to go shopping. I'll be back in an hour.
+[29:02.610 --> 29:05.010]  He said he was tired so he would go home early.
+[29:06.750 --> 29:14.130]  He said he was tired so he would go home early.
+[29:15.110 --> 29:22.510]  He said he was tired so he would go home early.
+[29:25.990 --> 29:29.370]  The man sitting next to me spoke to me.
+[29:30.350 --> 29:44.150]  The man sitting next to me spoke to me.
+[29:48.490 --> 29:50.870]  He is going to be a doctor when he grows up.
+[29:52.670 --> 29:54.610]  He is going to be a doctor when he grows up.
+
+Transcription speed: 0.21 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 8640 seconds
+

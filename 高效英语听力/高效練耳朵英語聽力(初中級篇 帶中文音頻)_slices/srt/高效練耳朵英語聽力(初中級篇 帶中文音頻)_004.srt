@@ -1,0 +1,262 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初中級篇 帶中文音頻）_slices\高效練耳朵英語聽力（初中級篇 帶中文音頻）_004.mp3
+
+[00:00.000 --> 00:04.860]  The lady's funeral was held at the local church.
+[00:12.680 --> 00:13.240]  那位女士的葬禮在当地教堂举行。
+[00:13.240 --> 00:15.900]  The lady's funeral was held at the local church.
+[00:19.520 --> 00:22.300]  Which do you like better? The sea or the mountains?
+[00:24.560 --> 00:27.400]  Which do you like better? The sea or the mountains?
+[00:29.580 --> 00:32.660]  Which do you like better? The sea or the mountains?
+[00:35.100 --> 00:37.620]  你更喜欢哪一个? 大海还是高山?
+[00:38.000 --> 00:40.480]  Which do you like better? The sea or the mountains?
+[00:44.220 --> 00:46.940]  It's good to talk things over before you buy something.
+[00:49.080 --> 00:52.020]  It's good to talk things over before you buy something.
+[00:53.900 --> 00:57.280]  It's good to talk things over before you buy something.
+[01:00.540 --> 01:03.260]  在你买东西之前,把事情商量一下,是有好处的。
+[01:03.260 --> 01:05.700]  It's good to talk things over before you buy something.
+[01:09.220 --> 01:11.640]  He said that he was afraid it would be rainy.
+[01:13.760 --> 01:16.140]  He said that he was afraid it would be rainy.
+[01:18.300 --> 01:24.260]  He said that he was afraid it would be rainy.
+[01:24.720 --> 01:26.780]  He said that he was afraid it would be rainy.
+[01:30.400 --> 01:33.280]  If it were not for air and water, nothing could live.
+[01:35.380 --> 01:38.380]  If it were not for air and water, nothing could live.
+[01:48.680 --> 01:49.520]  如果没有空气和水,万物将无法生存。
+[01:49.800 --> 01:52.420]  If it were not for air and water, nothing could live.
+[01:56.000 --> 01:59.780]  American films are more popular than those of any other country.
+[02:01.920 --> 02:05.900]  American films are more popular than those of any other country.
+[02:07.780 --> 02:12.080]  American films are more popular than those of any other country.
+[02:17.180 --> 02:17.900]  美国电影比其他任何国家的电影都受欢迎。
+[02:17.900 --> 02:21.500]  American films are more popular than those of any other country.
+[02:24.920 --> 02:28.340]  More often than not, famine is accompanied by plague.
+[02:30.420 --> 02:33.900]  More often than not, famine is accompanied by plague.
+[02:36.040 --> 02:39.500]  More often than not, famine is accompanied by plague.
+[02:42.660 --> 02:43.340]  饥荒往往伴随着瘟疫。
+[02:43.340 --> 02:46.240]  More often than not, famine is accompanied by plague.
+[02:49.680 --> 02:52.160]  Is there any space for one more person?
+[02:54.280 --> 02:56.540]  Is there any space for one more person?
+[02:58.780 --> 03:01.000]  Is there any space for one more person?
+[03:03.620 --> 03:04.100]  还有一个人的位置吗?
+[03:04.400 --> 03:06.340]  Is there any space for one more person?
+[03:09.940 --> 03:12.940]  You do such a thing once too often and get punished.
+[03:15.440 --> 03:18.000]  You do such a thing once too often and get punished.
+[03:19.960 --> 03:23.680]  You do such a thing once too often and get punished.
+[03:27.720 --> 03:28.880]  你做这种事太平凡了,会受到惩罚。
+[03:28.880 --> 03:31.540]  You do such a thing once too often and get punished.
+[03:34.980 --> 03:38.040]  The candidate waved his hand to whomever he saw.
+[03:40.520 --> 03:43.120]  The candidate waved his hand to whomever he saw.
+[03:45.160 --> 03:47.920]  The candidate waved his hand to whomever he saw.
+[03:51.320 --> 03:52.280]  候选人见到人,就向人挥手。
+[03:52.280 --> 03:54.820]  The candidate waved his hand to whomever he saw.
+[03:58.560 --> 04:00.280]  It's time you went to the barbers.
+[04:02.680 --> 04:04.240]  It's time you went to the barbers.
+[04:06.540 --> 04:08.240]  It's time you went to the barbers.
+[04:10.700 --> 04:11.220]  你该去理发了。
+[04:11.220 --> 04:12.700]  It's time you went to the barbers.
+[04:16.660 --> 04:19.180]  Such a teacher may as well retire from his work.
+[04:21.300 --> 04:24.200]  Such a teacher may as well retire from his work.
+[04:26.060 --> 04:29.340]  Such a teacher may as well retire from his work.
+[04:33.760 --> 04:36.160]  Such a teacher may as well retire from his work.
+[04:39.600 --> 04:43.080]  Bad weather discouraged them from going on a picnic.
+[04:45.340 --> 04:48.980]  Bad weather discouraged them from going on a picnic.
+[04:50.840 --> 04:54.200]  Bad weather discouraged them from going on a picnic.
+[04:59.360 --> 05:00.000]  恶劣的天气是他们打消了去野餐的念头。
+[05:00.000 --> 05:03.120]  Bad weather discouraged them from going on a picnic.
+[05:06.660 --> 05:09.000]  We must work as long as we live.
+[05:15.260 --> 05:17.580]  We must work as long as we live.
+[05:18.480 --> 05:19.040]  We must work as long as we live.
+[05:20.800 --> 05:21.920]  只要我们活着,就必须工作。
+[05:21.920 --> 05:23.800]  We must work as long as we live.
+[05:27.280 --> 05:30.340]  I usually gas up the car at this service station.
+[05:37.480 --> 05:40.980]  I usually gas up the car at this service station.
+[05:45.200 --> 05:45.800]  我一般都在这个加油站给汽车加油。
+[05:45.800 --> 05:48.540]  I usually gas up the car at this service station.
+[05:52.060 --> 05:55.320]  This medicine, properly used, will do you a lot of good.
+[05:57.500 --> 06:00.660]  This medicine, properly used, will do you a lot of good.
+[06:03.100 --> 06:06.700]  This medicine, properly used, will do you a lot of good.
+[06:11.320 --> 06:12.280]  这种药如果使用得当,会对你大有好处。
+[06:12.280 --> 06:15.140]  This medicine, properly used, will do you a lot of good.
+[06:18.700 --> 06:21.240]  The stadium was flooded with baseball fans.
+[06:23.220 --> 06:27.240]  The stadium was flooded with baseball fans.
+[06:28.420 --> 06:30.740]  The stadium was flooded with baseball fans.
+[06:34.280 --> 06:34.920]  体育场挤满了棒球迷。
+[06:34.920 --> 06:37.080]  The stadium was flooded with baseball fans.
+[06:40.520 --> 06:42.960]  This is the key which I have been looking for.
+[06:45.280 --> 06:47.420]  This is the key which I have been looking for.
+[06:49.500 --> 06:51.980]  This is the key which I have been looking for.
+[06:55.860 --> 06:56.340]  这就是我一直在找的钥匙。
+[06:56.340 --> 06:58.380]  This is the key which I have been looking for.
+[07:01.960 --> 07:04.580]  I must apologize to you for breaking the vase.
+[07:06.780 --> 07:09.420]  I must apologize to you for breaking the vase.
+[07:11.760 --> 07:14.360]  I must apologize to you for breaking the vase.
+[07:17.960 --> 07:19.240]  我打碎了花瓶,必须向你道歉。
+[07:25.080 --> 07:27.740]  That country is rich in mineral resources.
+[07:30.040 --> 07:32.540]  That country is rich in mineral resources.
+[07:35.100 --> 07:37.280]  That country is rich in mineral resources.
+[07:43.060 --> 07:44.340]  那个国家,矿产资源丰富。
+[07:47.700 --> 07:50.120]  What languages do they speak in Canada?
+[07:52.700 --> 07:54.480]  What languages do they speak in Canada?
+[07:59.840 --> 08:00.560]  What languages do they speak in Canada?
+[08:02.040 --> 08:02.760]  加拿大说什么语言。
+[08:02.760 --> 08:04.680]  What languages do they speak in Canada?
+[08:08.220 --> 08:11.620]  Lincoln is one of the greatest figures in American history.
+[08:13.860 --> 08:17.240]  Lincoln is one of the greatest figures in American history.
+[08:19.620 --> 08:22.980]  Lincoln is one of the greatest figures in American history.
+[08:27.880 --> 08:28.560]  林肯是美国历史上最伟大的人物之一。
+[08:28.560 --> 08:31.560]  Lincoln is one of the greatest figures in American history.
+[08:35.020 --> 08:38.460]  The story was so complicated that I couldn't follow it.
+[08:40.220 --> 08:43.880]  The story was so complicated that I couldn't follow it.
+[08:52.740 --> 08:56.760]  The story was so complicated that I couldn't follow it.
+[09:00.220 --> 09:04.260]  Mount Everest is 29,002 feet above sea level.
+[09:06.160 --> 09:10.400]  Mount Everest is 29,002 feet above sea level.
+[09:12.200 --> 09:17.040]  Mount Everest is 29,002 feet above sea level.
+[09:18.180 --> 09:22.200]  Zhumu Lang Ma Feng, Hai Ba, 29,002 inch.
+[09:22.620 --> 09:26.380]  Mount Everest is 29,002 feet above sea level.
+[09:29.640 --> 09:32.600]  I really appreciate all the trouble you've gone to.
+[09:34.620 --> 09:37.500]  I really appreciate all the trouble you've gone to.
+[09:39.920 --> 09:42.580]  I really appreciate all the trouble you've gone to.
+[09:46.840 --> 09:50.040]  I really appreciate all the trouble you've gone to.
+[09:53.640 --> 09:56.300]  English is spoken in many parts of the world.
+[09:58.380 --> 10:01.040]  English is spoken in many parts of the world.
+[10:03.020 --> 10:05.880]  English is spoken in many parts of the world.
+[10:10.080 --> 10:12.740]  English is spoken in many parts of the world.
+[10:16.160 --> 10:19.240]  That might be the most painful experience in my life.
+[10:21.200 --> 10:29.240]  That might be the most painful experience in my life.
+[10:34.140 --> 10:36.940]  That might be the most painful experience in my life.
+[10:40.420 --> 10:42.260]  Stay here and wait for him, please.
+[10:44.520 --> 10:46.360]  Stay here and wait for him, please.
+[10:48.520 --> 10:55.860]  Stay here and wait for him, please.
+[10:59.020 --> 11:01.960]  It is difficult to finish the work in a day.
+[11:04.060 --> 11:08.080]  It is difficult to finish the work in a day.
+[11:16.200 --> 11:18.760]  It is difficult to finish the work in a day.
+[11:22.280 --> 11:23.880]  I will be glad to help you.
+[11:25.840 --> 11:27.480]  I will be glad to help you.
+[11:29.380 --> 11:31.200]  I will be glad to help you.
+[11:38.780 --> 11:42.240]  There are many kinds of animals inside this enclosure.
+[11:44.380 --> 11:47.580]  There are many kinds of animals inside this enclosure.
+[11:56.740 --> 11:59.840]  There are many kinds of animals inside this enclosure.
+[12:03.400 --> 12:06.280]  The view from the top of that building was magnificent.
+[12:08.500 --> 12:25.060]  The view from the top of that building was magnificent.
+[12:37.380 --> 12:39.940]  The plan calls for a lot of money.
+[12:43.540 --> 12:46.060]  The plan calls for a lot of money.
+[12:49.460 --> 12:51.740]  Are any of these within walking distance?
+[12:53.640 --> 12:56.040]  Are any of these within walking distance?
+[13:10.500 --> 13:14.660]  If she should come to Japan, Jane would be very happy.
+[13:22.160 --> 13:30.760]  If she should come to Japan, Jane would be very happy.
+[13:36.760 --> 13:41.440]  The curve extends from point A to point B.
+[13:55.060 --> 13:59.500]  The curve extends from point A to point B.
+[14:03.000 --> 14:05.960]  It was so hot that she felt like eating ice cream.
+[14:07.960 --> 14:10.980]  It was so hot that she felt like eating ice cream.
+[14:12.900 --> 14:16.000]  It was so hot that she felt like eating ice cream.
+[14:26.260 --> 14:28.460]  I wish I were a little taller.
+[14:37.500 --> 14:41.600]  I wish I were a little taller.
+[14:45.100 --> 14:49.920]  I felt relieved when all the troubles were taken care of.
+[14:55.480 --> 15:02.760]  I felt relieved when all the troubles were taken care of.
+[15:10.600 --> 15:13.240]  It is really quite a good story.
+[15:15.280 --> 15:17.200]  It is really quite a good story.
+[15:29.260 --> 15:31.900]  You are not entitled to attend the meeting.
+[15:44.120 --> 15:46.380]  You are not entitled to attend the meeting.
+[15:49.520 --> 15:52.620]  I consulted with my father about the plan.
+[15:54.480 --> 16:08.460]  I consulted with my father about the plan.
+[16:11.840 --> 16:14.900]  This medicine should be taken every three hours.
+[16:16.920 --> 16:19.980]  This medicine should be taken every three hours.
+[16:21.960 --> 16:29.560]  This medicine should be taken every three hours.
+[16:36.000 --> 16:38.820]  The hen was sitting on the eggs in the nest.
+[16:40.880 --> 16:43.620]  The hen was sitting on the eggs in the nest.
+[16:57.640 --> 17:01.240]  Of these two options, I prefer the latter to the former.
+[17:03.480 --> 17:06.840]  Of these two options, I prefer the latter to the former.
+[17:17.260 --> 17:20.900]  Of these two options, I prefer the latter to the former.
+[17:24.380 --> 17:27.160]  I had my camera repaired at that shop.
+[17:40.580 --> 17:43.260]  I had my camera repaired at that shop.
+[17:46.760 --> 17:49.580]  This dog is trained to save people in the mountains.
+[17:56.840 --> 18:00.240]  This dog is trained to save people in the mountains.
+[18:04.900 --> 18:07.620]  This dog is trained to save people in the mountains.
+[18:11.320 --> 18:13.560]  There were few children in the classroom.
+[18:25.940 --> 18:28.080]  There were few children in the classroom.
+[18:31.500 --> 18:34.360]  The air is bad here. Will you open the window?
+[18:36.560 --> 18:39.180]  The air is bad here. Will you open the window?
+[18:41.220 --> 18:44.160]  The air is bad here. Will you open the window?
+[18:55.420 --> 18:58.940]  If you want a hotel, look, it's just down there.
+[19:01.020 --> 19:04.000]  If you want a hotel, look, it's just down there.
+[19:05.860 --> 19:09.620]  If you want a hotel, look, it's just down there.
+[19:20.420 --> 19:23.220]  The child heard something fall with a crash.
+[19:25.220 --> 19:27.960]  The child heard something fall with a crash.
+[19:29.780 --> 19:32.860]  The child heard something fall with a crash.
+[19:44.220 --> 19:46.740]  Since there was no bus, I had to walk.
+[19:53.400 --> 19:56.420]  Since there was no bus, I had to walk.
+[20:01.260 --> 20:03.760]  Since there was no bus, I had to walk.
+[20:07.300 --> 20:09.640]  This music reminds me of that girl.
+[20:11.600 --> 20:25.380]  This music reminds me of that girl.
+[20:28.740 --> 20:30.640]  It is time you went to school.
+[20:32.720 --> 20:34.460]  It is time you went to school.
+[20:46.140 --> 20:49.360]  These potato chips are good enough to make you want more.
+[20:51.440 --> 20:54.640]  These potato chips are good enough to make you want more.
+[20:56.580 --> 21:00.080]  These potato chips are good enough to make you want more.
+[21:11.660 --> 21:14.740]  This will serve as a check on their work.
+[21:27.920 --> 21:30.020]  This will serve as a check on their work.
+[21:32.480 --> 21:36.200]  You should make sure of the facts before you write something.
+[21:38.360 --> 21:46.280]  You should make sure of the facts before you write something.
+[21:51.880 --> 21:54.560]  You should make sure of the facts before you write something.
+[21:58.180 --> 22:01.000]  These problems will be solved in the near future.
+[22:03.140 --> 22:10.780]  These problems will be solved in the near future.
+[22:15.940 --> 22:18.900]  These problems will be solved in the near future.
+[22:22.260 --> 22:25.000]  I went through my money in a very short time.
+[22:27.460 --> 22:34.520]  I went through my money in a very short time.
+[22:45.560 --> 22:47.660]  What's the best way for me to get a passport?
+[22:50.080 --> 22:52.140]  What's the best way for me to get a passport?
+[23:02.080 --> 23:04.320]  What's the best way for me to get a passport?
+[23:08.000 --> 23:10.980]  Please state your opinion with relation to this project.
+[23:12.800 --> 23:21.080]  Please state your opinion with relation to this project.
+[23:30.940 --> 23:34.580]  There ought to be more buses during the rush hours.
+[23:36.660 --> 23:39.600]  There ought to be more buses during the rush hours.
+[23:41.360 --> 23:44.340]  There ought to be more buses during the rush hours.
+[23:55.660 --> 23:59.060]  While I understand what you say, I can't agree with you.
+[24:01.200 --> 24:04.240]  While I understand what you say, I can't agree with you.
+[24:06.180 --> 24:09.800]  While I understand what you say, I can't agree with you.
+[24:21.580 --> 24:23.660]  You need not have helped my son with his homework.
+[24:37.040 --> 24:39.320]  You need not have helped my son with his homework.
+[24:42.820 --> 24:45.360]  It began to rain and she got wet.
+[24:47.280 --> 24:49.780]  It began to rain and she got wet.
+[25:03.480 --> 25:06.200]  Jim is learning how to drive a car.
+[25:08.140 --> 25:14.800]  Jim is learning how to drive a car.
+[25:24.760 --> 25:27.760]  One sunny day in April, I went out for a walk.
+[25:29.920 --> 25:32.860]  One sunny day in April, I went out for a walk.
+[25:34.780 --> 25:38.240]  One sunny day in April, I went out for a walk.
+[25:49.180 --> 25:51.820]  Do you feel any pain in your stomach?
+[25:53.800 --> 25:55.940]  Do you feel any pain in your stomach?
+[26:08.080 --> 26:10.300]  Choose the color you like best.
+[26:22.120 --> 26:24.720]  Choose the color you like best.
+[26:28.280 --> 26:32.160]  That TV station is on the air 24 hours a day.
+[26:33.880 --> 26:39.540]  That TV station is on the air 24 hours a day.
+[26:39.540 --> 26:44.360]  That TV station is on the air 24 hours a day.
+[26:53.680 --> 26:56.900]  He suddenly noticed his wallet was missing.
+[27:03.200 --> 27:06.180]  He suddenly noticed his wallet was missing.
+[27:15.780 --> 27:19.340]  I have decided not to support the plan.
+[27:21.360 --> 27:24.060]  I have decided not to support the plan.
+[27:32.740 --> 27:35.060]  I have decided not to support the plan.
+[27:38.500 --> 27:40.740]  I am glad that you have returned safe.
+[27:42.860 --> 27:45.200]  I am glad that you have returned safe.
+[27:47.060 --> 27:49.440]  I am glad that you have returned safe.
+[27:59.060 --> 28:01.120]  Tom called to her across the street.
+[28:13.400 --> 28:15.560]  Tom called to her across the street.
+[28:18.860 --> 28:21.800]  I'm sorry, but I don't feel like going out today.
+[28:24.020 --> 28:26.620]  I'm sorry, but I don't feel like going out today.
+[28:28.760 --> 28:31.800]  I'm sorry, but I don't feel like going out today.
+[28:41.740 --> 28:44.660]  He hoped it would lead to a basis for negotiation.
+[28:47.380 --> 28:49.520]  He hoped it would lead to a basis for negotiation.
+[28:51.700 --> 28:55.140]  He hoped it would lead to a basis for negotiation.
+[29:05.760 --> 29:09.360]  Due to bad weather, the plane arrived three hours late.
+[29:16.660 --> 29:25.960]  Due to bad weather, the plane arrived three hours late.
+[29:32.820 --> 29:43.380]  George put a chain on the dog.
+[29:47.140 --> 29:48.940]  George put a chain on the dog.
+[29:52.720 --> 29:55.760]  What must be done if the plan proves unworkable?
+
+Transcription speed: 2.68 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 683 seconds
+

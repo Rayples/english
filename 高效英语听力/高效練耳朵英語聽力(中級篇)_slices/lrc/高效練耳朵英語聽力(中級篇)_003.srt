@@ -1,0 +1,229 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（中級篇）_slices\高效練耳朵英語聽力（中級篇）_003.mp3
+
+[00:00.000 --> 00:03.920]  Since my mother was sick, I stayed home from school.
+[00:09.960 --> 00:12.660]  Since my mother was sick, I stayed home from school.
+[00:15.740 --> 00:18.140]  Our music teacher advised me to visit Vienna.
+[00:20.380 --> 00:22.600]  Our music teacher advised me to visit Vienna.
+[00:24.480 --> 00:28.400]  Our music teacher advised me to visit Vienna.
+[00:29.420 --> 00:36.600]  Our music teacher advised me to visit Vienna.
+[00:40.000 --> 00:42.960]  Fluency in English is a very marketable skill today.
+[00:49.480 --> 00:53.460]  Fluency in English is a very marketable skill today.
+[00:58.800 --> 00:59.640]  琉璃的英语在今天是一种十分抢手的技能.
+[01:00.440 --> 01:03.120]  Fluency in English is a very marketable skill today.
+[01:06.340 --> 01:08.940]  My father has been in good shape since his operation.
+[01:10.860 --> 01:19.080]  My father has been in good shape since his operation.
+[01:23.520 --> 01:24.560]  自从手术后,我父亲一直处于良好的状态.
+[01:30.620 --> 01:32.920]  Would you like to have a drink before dinner?
+[01:34.480 --> 01:36.380]  Would you like to have a drink before dinner?
+[01:37.940 --> 01:40.640]  Would you like to have a drink before dinner?
+[01:44.460 --> 01:46.920]  Would you like to have a drink before dinner?
+[01:49.960 --> 01:52.980]  Finishing the report by tomorrow is next to impossible.
+[01:54.900 --> 01:57.760]  Finishing the report by tomorrow is next to impossible.
+[02:16.720 --> 02:29.460]  Honesty is the primary reason for his success.
+[02:35.180 --> 02:37.760]  Honesty is the primary reason for his success.
+[02:41.160 --> 02:43.200]  I was a high school student at that time.
+[02:48.380 --> 02:51.280]  I was a high school student at that time.
+[02:54.900 --> 02:56.940]  I was a high school student at that time.
+[02:59.860 --> 03:02.200]  She doesn't have as much patience as you do.
+[03:07.260 --> 03:10.360]  She doesn't have as much patience as you do.
+[03:15.000 --> 03:16.920]  She doesn't have as much patience as you do.
+[03:20.020 --> 03:21.940]  You'd better wear a sweater under your jacket.
+[03:24.320 --> 03:26.100]  You'd better wear a sweater under your jacket.
+[03:28.340 --> 03:30.980]  You'd better wear a sweater under your jacket.
+[03:41.480 --> 03:43.880]  I was just about to come looking for you.
+[03:46.160 --> 03:48.080]  I was just about to come looking for you.
+[03:56.840 --> 03:58.760]  I was just about to come looking for you.
+[04:02.480 --> 04:04.820]  I always have to wear a tie because of my job.
+[04:10.240 --> 04:13.520]  I always have to wear a tie because of my job.
+[04:19.440 --> 04:22.100]  I always have to wear a tie because of my job.
+[04:25.040 --> 04:27.020]  You have to turn in the reports on Monday.
+[04:28.740 --> 04:30.680]  You have to turn in the reports on Monday.
+[04:44.480 --> 04:46.880]  What will you be doing at this time tomorrow?
+[04:49.060 --> 04:51.200]  What will you be doing at this time tomorrow?
+[05:00.320 --> 05:02.840]  What will you be doing at this time tomorrow?
+[05:16.860 --> 05:19.540]  It is definite that he will go to America.
+[05:20.900 --> 05:23.180]  It is definite that he will go to America.
+[05:24.380 --> 05:26.120]  It is definite that he will go to America.
+[05:30.260 --> 05:33.140]  The weather was not only cold, it was also damp.
+[05:35.360 --> 05:37.520]  The weather was not only cold, it was also damp.
+[05:39.220 --> 05:43.100]  The weather was not only cold, it was also damp.
+[05:52.320 --> 05:55.220]  To tell the truth, I don't agree with you.
+[05:57.380 --> 06:05.000]  To tell the truth, I don't agree with you.
+[06:09.100 --> 06:11.520]  To tell the truth, I don't agree with you.
+[06:15.060 --> 06:17.360]  I took it for granted that he would keep his word.
+[06:24.200 --> 06:27.260]  I took it for granted that he would keep his word.
+[06:32.540 --> 06:34.840]  I took it for granted that he would keep his word.
+[06:38.600 --> 06:40.460]  I don't know if I'll have time to do it.
+[06:42.520 --> 06:44.420]  I don't know if I'll have time to do it.
+[06:46.460 --> 06:49.220]  I don't know if I'll have time to do it.
+[06:54.240 --> 06:56.440]  I don't know if I'll have time to do it.
+[06:59.860 --> 07:02.300]  We should have taken the schedule into consideration.
+[07:09.900 --> 07:13.400]  We should have taken the schedule into consideration.
+[07:18.380 --> 07:20.580]  We should have taken the schedule into consideration.
+[07:24.560 --> 07:27.260]  The job looked quite simple, but it took me a week.
+[07:34.120 --> 07:37.640]  The job looked quite simple, but it took me a week.
+[07:51.120 --> 07:53.220]  Our teacher has a wonderful sense of humor.
+[07:59.060 --> 08:02.160]  Our teacher has a wonderful sense of humor.
+[08:11.600 --> 08:14.920]  You can't drink seawater because it is too salty.
+[08:16.820 --> 08:19.720]  You can't drink seawater because it is too salty.
+[08:21.780 --> 08:25.440]  You can't drink seawater because it is too salty.
+[08:37.200 --> 08:39.760]  Is it always a sin to tell a lie?
+[08:42.340 --> 08:44.260]  Is it always a sin to tell a lie?
+[08:53.800 --> 08:56.040]  Is it always a sin to tell a lie?
+[08:59.940 --> 09:03.800]  English is a universal language and is used all over the world.
+[09:05.640 --> 09:09.540]  English is a universal language and is used all over the world.
+[09:11.520 --> 09:16.340]  English is a universal language and is used all over the world.
+[09:29.180 --> 09:32.160]  This book is too difficult for you to read.
+[09:38.600 --> 09:48.340]  This book is too difficult for you to read.
+[09:51.740 --> 09:54.240]  The red flag indicated the presence of danger.
+[09:59.660 --> 10:03.080]  The red flag indicated the presence of danger.
+[10:07.800 --> 10:10.860]  The red flag indicated the presence of danger.
+[10:13.840 --> 10:16.060]  Let's divide this money between you and me.
+[10:18.140 --> 10:20.160]  Let's divide this money between you and me.
+[10:34.900 --> 10:37.240]  I wish we could all spend more time together.
+[10:39.180 --> 10:41.200]  I wish we could all spend more time together.
+[10:51.500 --> 10:53.500]  I wish we could all spend more time together.
+[10:57.180 --> 10:59.600]  Leaving something unfinished is the worst thing you could do.
+[11:02.020 --> 11:04.820]  Leaving something unfinished is the worst thing you could do.
+[11:07.360 --> 11:11.380]  Leaving something unfinished is the worst thing you could do.
+[11:22.320 --> 11:24.580]  I wish I could go to the party with you.
+[11:30.080 --> 11:32.400]  I wish I could go to the party with you.
+[11:37.760 --> 11:39.520]  I wish I could go to the party with you.
+[11:42.840 --> 11:45.420]  People are more educated now than they used to be.
+[11:47.340 --> 11:50.160]  People are more educated now than they used to be.
+[11:52.360 --> 11:56.100]  People are more educated now than they used to be.
+[12:00.800 --> 12:03.420]  People are more educated now than they used to be.
+[12:07.220 --> 12:09.440]  She can sing better than anyone else in her class.
+[12:15.720 --> 12:19.440]  She can sing better than anyone else in her class.
+[12:29.580 --> 12:32.720]  He studied hard in order to get into college.
+[12:38.540 --> 12:41.920]  He studied hard in order to get into college.
+[12:47.440 --> 12:50.040]  He studied hard in order to get into college.
+[12:53.120 --> 12:55.840]  I can speak Chinese, but I can't read it.
+[12:57.420 --> 13:00.020]  I can speak Chinese, but I can't read it.
+[13:01.740 --> 13:05.220]  I can speak Chinese, but I can't read it.
+[13:15.740 --> 13:18.820]  She wrote him a long letter, but he didn't read it.
+[13:20.840 --> 13:23.540]  She wrote him a long letter, but he didn't read it.
+[13:25.440 --> 13:28.980]  She wrote him a long letter, but he didn't read it.
+[13:41.240 --> 13:43.360]  She liked tennis and became a tennis coach.
+[13:49.540 --> 13:52.600]  She liked tennis and became a tennis coach.
+[13:58.720 --> 14:01.160]  She liked tennis and became a tennis coach.
+[14:04.440 --> 14:06.520]  I hope everything will be fine in the end.
+[14:11.700 --> 14:14.660]  I hope everything will be fine in the end.
+[14:23.820 --> 14:26.320]  We lost sight of the man in the crowd.
+[14:38.000 --> 14:40.740]  We lost sight of the man in the crowd.
+[14:41.500 --> 14:43.460]  We lost sight of the man in the crowd.
+[14:47.260 --> 14:49.320]  I'm sure I can find something for you to do.
+[14:55.680 --> 14:58.640]  I'm sure I can find something for you to do.
+[15:03.240 --> 15:05.360]  I'm sure I can find something for you to do.
+[15:08.800 --> 15:10.820]  There are a lot of new buildings here now.
+[15:21.300 --> 15:23.780]  There are a lot of new buildings here now.
+[15:24.520 --> 15:26.540]  There are a lot of new buildings here now.
+[15:29.940 --> 15:32.140]  I walk my dog in the park every morning.
+[15:34.220 --> 15:41.420]  I walk my dog in the park every morning.
+[15:46.060 --> 15:48.220]  I walk my dog in the park every morning.
+[15:51.800 --> 15:53.800]  My son is now as tall as I am.
+[15:59.340 --> 16:02.100]  My son is now as tall as I am.
+[16:11.600 --> 16:14.540]  A woman visited us while you were sleeping.
+[16:16.540 --> 16:24.040]  A woman visited us while you were sleeping.
+[16:29.540 --> 16:32.260]  A woman visited us while you were sleeping.
+[16:44.820 --> 16:47.820]  I swear I will never do such a thing.
+[16:51.960 --> 16:54.180]  I swear I will never do such a thing.
+[17:05.920 --> 17:08.700]  I don't think I can help you very much.
+[17:13.140 --> 17:15.400]  I don't think I can help you very much.
+[17:18.840 --> 17:21.120]  I got up early enough to catch the first train.
+[17:26.940 --> 17:30.220]  I got up early enough to catch the first train.
+[17:41.080 --> 17:43.800]  I didn't expect to see you at a place like this.
+[17:46.200 --> 17:48.740]  I didn't expect to see you at a place like this.
+[17:51.180 --> 17:55.620]  I didn't expect to see you at a place like this.
+[18:05.260 --> 18:08.140]  He has three times as many books as I have.
+[18:10.000 --> 18:12.380]  He has three times as many books as I have.
+[18:26.900 --> 18:29.560]  I can't believe your parents let you come here by yourself.
+[18:35.460 --> 18:44.980]  I can't believe your parents let you come here by yourself.
+[18:50.620 --> 18:53.060]  Did you forget to lock the door last night?
+[18:55.020 --> 19:01.580]  Did you forget to lock the door last night?
+[19:06.060 --> 19:08.220]  Did you forget to lock the door last night?
+[19:11.640 --> 19:13.740]  I always take a bath before going to bed.
+[19:15.480 --> 19:17.720]  I always take a bath before going to bed.
+[19:19.560 --> 19:22.760]  I always take a bath before going to bed.
+[19:32.440 --> 19:34.780]  She got all dolled up for her big date.
+[19:40.440 --> 19:43.320]  She got all dolled up for her big date.
+[19:48.880 --> 19:51.260]  She got all dolled up for her big date.
+[19:54.480 --> 19:57.720]  Plastics have taken the place of many conventional materials.
+[20:05.640 --> 20:17.660]  Plastics have taken the place of many conventional materials.
+[20:21.460 --> 20:23.340]  What time does the train for New York depart?
+[20:26.020 --> 20:27.580]  What time does the train for New York depart?
+[20:29.920 --> 20:32.900]  What time does the train for New York depart?
+[20:42.920 --> 20:45.720]  You should try to form the habit of using your dictionaries.
+[20:47.740 --> 20:56.320]  You should try to form the habit of using your dictionaries.
+[21:07.480 --> 21:09.980]  Prices are double what they were ten years ago.
+[21:23.860 --> 21:26.060]  Prices are double what they were ten years ago.
+[21:28.520 --> 21:32.560]  The dolphin and trainer communicated much better than we expected.
+[21:39.160 --> 21:44.560]  The dolphin and trainer communicated much better than we expected.
+[21:51.840 --> 21:54.900]  The dolphin and trainer communicated much better than we expected.
+[21:58.540 --> 22:01.280]  She was at a loss for words to express her feeling.
+[22:03.560 --> 22:06.260]  She was at a loss for words to express her feeling.
+[22:08.800 --> 22:12.160]  She was at a loss for words to express her feeling.
+[22:24.460 --> 22:26.400]  I've been waiting for you since two o'clock.
+[22:28.360 --> 22:32.020]  I've been waiting for you since two o'clock.
+[22:32.500 --> 22:35.220]  I've been waiting for you since two o'clock.
+[22:45.040 --> 22:48.080]  I wouldn't be too surprised if this song became a hit.
+[22:50.680 --> 22:53.400]  I wouldn't be too surprised if this song became a hit.
+[22:56.060 --> 22:59.720]  I wouldn't be too surprised if this song became a hit.
+[23:12.140 --> 23:14.120]  I felt a drop of rain on my head.
+[23:19.780 --> 23:22.180]  I felt a drop of rain on my head.
+[23:31.440 --> 23:34.160]  You should not have lent the money to such a person.
+[23:39.900 --> 23:43.200]  You should not have lent the money to such a person.
+[23:52.620 --> 23:55.120]  I've done bad things I should be punished for.
+[23:56.600 --> 24:03.500]  I've done bad things I should be punished for.
+[24:12.760 --> 24:15.300]  I can't go with you because I am very busy.
+[24:17.180 --> 24:19.520]  I can't go with you because I am very busy.
+[24:21.520 --> 24:33.120]  I can't go with you because I am very busy.
+[24:36.520 --> 24:38.580]  I can't put up with that noise any longer.
+[24:41.280 --> 24:49.000]  I can't put up with that noise any longer.
+[24:59.420 --> 25:01.900]  You may as well tell me all about it.
+[25:08.780 --> 25:11.320]  You may as well tell me all about it.
+[25:15.340 --> 25:17.400]  You may as well tell me all about it.
+[25:21.260 --> 25:23.880]  A good cook doesn't throw out yesterday's soup.
+[25:30.360 --> 25:33.520]  A good cook doesn't throw out yesterday's soup.
+[25:39.260 --> 25:41.900]  A good cook doesn't throw out yesterday's soup.
+[25:45.220 --> 25:47.560]  I couldn't enter because the door was closed.
+[25:52.620 --> 25:55.680]  I couldn't enter because the door was closed.
+[26:04.400 --> 26:07.980]  For some reason, the microphone didn't work earlier.
+[26:14.560 --> 26:18.540]  For some reason, the microphone didn't work earlier.
+[26:24.820 --> 26:28.540]  For some reason, the microphone didn't work earlier.
+[26:32.020 --> 26:34.700]  The weather was so cold that the lake froze over.
+[26:36.440 --> 26:45.100]  The weather was so cold that the lake froze over.
+[26:49.420 --> 26:52.080]  The weather was so cold that the lake froze over.
+[26:55.340 --> 26:57.660]  How come you know so much about Japanese history?
+[27:04.360 --> 27:07.860]  How come you know so much about Japanese history?
+[27:17.880 --> 27:21.540]  The coral reef is the region's prime attraction.
+[27:23.700 --> 27:26.280]  The coral reef is the region's prime attraction.
+[27:28.460 --> 27:32.020]  The coral reef is the region's prime attraction.
+[27:42.820 --> 27:46.080]  Their contract is to run out at the end of this month.
+[27:52.980 --> 27:56.560]  Their contract is to run out at the end of this month.
+[28:07.640 --> 28:10.900]  Some people like red wine and some people like white wine.
+[28:12.960 --> 28:17.540]  Some people like red wine and some people like white wine.
+[28:17.540 --> 28:22.980]  Some people like red wine and some people like white wine.
+[28:33.820 --> 28:36.240]  There is no point in pretending to be sick.
+[28:38.040 --> 28:40.380]  There is no point in pretending to be sick.
+[28:54.060 --> 28:56.600]  This is the best book I've ever read.
+[28:58.560 --> 29:00.680]  This is the best book I've ever read.
+[29:09.980 --> 29:12.060]  This is the best book I've ever read.
+[29:15.360 --> 29:17.440]  He wrote this book at the age of 20.
+[29:19.340 --> 29:26.240]  He wrote this book at the age of 20.
+[29:31.440 --> 29:33.620]  He wrote this book at the age of 20.
+[29:37.080 --> 29:39.840]  Don't translate English into Japanese word for word.
+[29:41.700 --> 29:44.820]  Don't translate English into Japanese word for word.
+[29:46.800 --> 29:51.040]  Don't translate English into Japanese word for word.
+
+Transcription speed: 2.54 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 722 seconds
+

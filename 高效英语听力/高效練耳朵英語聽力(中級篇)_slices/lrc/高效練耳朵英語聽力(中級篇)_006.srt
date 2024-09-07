@@ -1,0 +1,133 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（中級篇）_slices\高效練耳朵英語聽力（中級篇）_006.mp3
+
+[00:00.980 --> 00:03.720]  In a crisis, you must get in touch with your teacher.
+[00:07.260 --> 00:09.940]  To the best of my knowledge, the rumor is not true.
+[00:16.380 --> 00:20.200]  To the best of my knowledge, the rumor is not true.
+[00:25.700 --> 00:28.480]  To the best of my knowledge, the rumor is not true.
+[00:31.680 --> 00:34.580]  He crashed his car because someone tampered with the brakes.
+[00:36.660 --> 00:39.520]  He crashed his car because someone tampered with the brakes.
+[00:41.720 --> 00:45.460]  He crashed his car because someone tampered with the brakes.
+[00:57.960 --> 01:00.660]  I met him just as he was coming out of school.
+[01:07.140 --> 01:10.020]  I met him just as he was coming out of school.
+[01:15.620 --> 01:17.900]  I met him just as he was coming out of school.
+[01:21.380 --> 01:23.660]  I know an English teacher who comes from Canada.
+[01:25.600 --> 01:28.040]  I know an English teacher who comes from Canada.
+[01:30.120 --> 01:41.900]  I know an English teacher who comes from Canada.
+[01:45.440 --> 01:47.940]  If you can't have children, you could always adopt.
+[01:49.920 --> 01:57.820]  If you can't have children, you could always adopt.
+[01:58.720 --> 02:05.760]  If you can't have children, you could always adopt.
+[02:09.040 --> 02:11.640]  His absence gave birth to all sorts of rumors.
+[02:17.600 --> 02:21.220]  His absence gave birth to all sorts of rumors.
+[02:27.300 --> 02:29.720]  His absence gave birth to all sorts of rumors.
+[02:33.000 --> 02:36.280]  I go to the office by bicycle except on rainy days.
+[02:43.140 --> 02:51.980]  I go to the office by bicycle except on rainy days.
+[03:07.900 --> 03:10.440]  Do you think he is good for the position?
+[03:15.060 --> 03:17.020]  Do you think he is good for the position?
+[03:28.880 --> 03:31.660]  I'm not as stupid as you think I am.
+[03:35.120 --> 03:37.260]  I'm not as stupid as you think I am.
+[03:40.440 --> 03:42.900]  She's been absent from school for five days.
+[03:49.540 --> 03:52.580]  She's been absent from school for five days.
+[03:57.560 --> 03:59.920]  She's been absent from school for five days.
+[04:03.380 --> 04:05.980]  We promised to stand by him in case of trouble.
+[04:12.540 --> 04:16.100]  We promised to stand by him in case of trouble.
+[04:22.360 --> 04:24.820]  We promised to stand by him in case of trouble.
+[04:28.420 --> 04:32.660]  The average height of the girls in class is over 155 cm.
+[04:41.340 --> 04:46.420]  The average height of the girls in class is over 155 cm.
+[05:01.340 --> 05:04.320]  The enemy dropped many bombs on the factory.
+[05:10.300 --> 05:13.420]  The enemy dropped many bombs on the factory.
+[05:23.660 --> 05:26.700]  I admit this may not be the best way of doing it.
+[05:28.940 --> 05:31.380]  I admit this may not be the best way of doing it.
+[05:43.080 --> 05:45.540]  I admit this may not be the best way of doing it.
+[05:49.000 --> 05:51.220]  I ran across an old friend near the bank.
+[05:57.320 --> 06:04.620]  I ran across an old friend near the bank.
+[06:20.180 --> 06:24.320]  It's been a long time since we last saw each other.
+[06:34.460 --> 06:38.100]  I slept a little during lunch break because I was so tired.
+[06:39.920 --> 06:43.200]  I slept a little during lunch break because I was so tired.
+[06:45.060 --> 06:48.880]  I slept a little during lunch break because I was so tired.
+[07:01.080 --> 07:03.780]  You do your part and I'll do the rest.
+[07:09.720 --> 07:12.360]  You do your part and I'll do the rest.
+[07:22.640 --> 07:25.540]  The man reading a paper over there is my uncle.
+[07:27.680 --> 07:30.240]  The man reading a paper over there is my uncle.
+[07:40.580 --> 07:43.160]  The man reading a paper over there is my uncle.
+[07:46.800 --> 07:49.200]  As soon as I opened the door, they ran away.
+[07:55.660 --> 07:59.220]  As soon as the door opened, they ran away.
+[08:03.740 --> 08:06.260]  As soon as I opened the door, they ran away.
+[08:09.840 --> 08:12.720]  We take it for granted that he will succeed in his business.
+[08:14.520 --> 08:23.000]  We take it for granted that he will succeed in his business.
+[08:34.980 --> 08:38.000]  I don't care what color ink, just bring me a pen.
+[08:44.080 --> 08:47.680]  I don't care what color ink, just bring me a pen.
+[08:53.840 --> 08:56.620]  I don't care what color ink, just bring me a pen.
+[08:59.740 --> 09:02.480]  The internet is an invaluable source of information.
+[09:04.280 --> 09:13.000]  The internet is an invaluable source of information.
+[09:25.260 --> 09:27.180]  I don't want to be involved in that matter.
+[09:39.720 --> 09:41.400]  I don't want to be involved in that matter.
+[09:54.220 --> 09:58.360]  The show was very interesting. You should have seen it.
+[09:58.860 --> 10:06.380]  The show was very interesting. You should have seen it.
+[10:10.060 --> 10:12.620]  I'm going to run a couple of errands. Want to tag along?
+[10:15.020 --> 10:23.800]  I'm going to run a couple of errands. Want to tag along?
+[10:34.980 --> 10:37.800]  I'd like to try this on. Where are the fitting rooms?
+[10:39.820 --> 10:42.360]  I'd like to try this on. Where are the fitting rooms?
+[10:44.500 --> 10:47.800]  I'd like to try this on. Where are the fitting rooms?
+[10:59.580 --> 11:02.740]  The old church on the hill dates back to the 12th century.
+[11:10.140 --> 11:13.800]  The old church on the hill dates back to the 12th century.
+[11:27.060 --> 11:29.100]  This guidebook may be of use to you on your trip.
+[11:35.120 --> 11:38.040]  This guidebook may be of use to you on your trip.
+[11:49.840 --> 11:52.200]  I can't get at the exact meaning of the sentence.
+[11:57.280 --> 12:00.560]  I can't get at the exact meaning of the sentence.
+[12:05.160 --> 12:07.620]  I can't get at the exact meaning of the sentence.
+[12:10.480 --> 12:12.380]  I do not want to live my life in fear.
+[12:18.660 --> 12:21.300]  I do not want to live my life in fear.
+[12:25.760 --> 12:27.740]  I do not want to live my life in fear.
+[12:31.260 --> 12:34.100]  A caged cricket eats just as much as a free cricket.
+[12:40.640 --> 12:44.500]  A caged cricket eats just as much as a free cricket.
+[12:56.860 --> 12:59.440]  I'd like to live in the suburbs, like Kobe.
+[13:06.300 --> 13:09.040]  I'd like to live in the suburbs of Kobe.
+[13:13.760 --> 13:15.980]  I'd like to live in the suburbs, like Kobe.
+[13:20.100 --> 13:22.340]  I found the secret compartment quite by accident.
+[13:29.300 --> 13:32.780]  I found the secret compartment quite by accident.
+[13:33.660 --> 13:40.920]  I found the secret compartment quite by accident.
+[13:44.440 --> 13:46.780]  Weather permitting, we will leave in an hour.
+[13:48.700 --> 13:50.880]  Weather permitting, we will leave in an hour.
+[13:53.060 --> 13:55.900]  Weather permitting, we will leave in an hour.
+[14:07.480 --> 14:10.700]  They wanted a wedding picture in front of the Eiffel Tower.
+[14:12.580 --> 14:21.040]  They wanted a wedding picture in front of the Eiffel Tower.
+[14:22.180 --> 14:29.580]  They wanted a wedding picture in front of the Eiffel Tower.
+[14:33.080 --> 14:34.780]  I have a lot of friends to help me.
+[14:40.460 --> 14:42.860]  I have a lot of friends to help me.
+[14:51.660 --> 14:54.840]  He amassed a fortune in stock trading during the last boom.
+[15:01.920 --> 15:06.300]  He amassed a fortune in stock trading during the last boom.
+[15:19.620 --> 15:23.000]  Everyone is anxious to know what has become of the former champion.
+[15:29.760 --> 15:34.020]  Everyone is anxious to know what has become of the former champion.
+[15:40.640 --> 15:43.400]  Everyone is anxious to know what has become of the former champion.
+[15:46.880 --> 15:49.180]  Sorry, but can you show me the way to the next village?
+[15:51.640 --> 15:53.980]  Sorry, but can you show me the way to the next village?
+[15:56.460 --> 16:00.060]  Sorry, but can you show me the way to the next village?
+[16:05.740 --> 16:08.180]  Sorry, but can you show me the way to the next village?
+[16:11.800 --> 16:13.720]  Are you going to visit any other countries?
+[16:19.740 --> 16:22.300]  Are you going to visit any other countries?
+[16:26.220 --> 16:28.620]  Are you going to visit any other countries?
+[16:32.000 --> 16:34.980]  The entire sales staff has worked around the clock for a week.
+[16:42.260 --> 16:46.480]  The entire sales staff has worked around the clock for a week.
+[16:52.900 --> 16:55.800]  The entire sales staff has worked around the clock for a week.
+[16:59.500 --> 17:01.900]  Will you please explain the meaning of this sentence to me?
+[17:03.500 --> 17:05.940]  Will you please explain the meaning of this sentence to me?
+[17:07.620 --> 17:11.100]  Will you please explain the meaning of this sentence to me?
+[17:15.840 --> 17:18.680]  Will you please explain the meaning of this sentence to me?
+[17:21.700 --> 17:23.760]  Please remind me to mail the report tomorrow.
+[17:34.360 --> 17:37.740]  Please remind me to mail the report tomorrow.
+[17:38.320 --> 17:40.480]  Please remind me to mail the report tomorrow.
+[17:43.980 --> 17:46.020]  Would you like to go to the zoo this afternoon?
+[17:48.420 --> 17:50.420]  Would you like to go to the zoo this afternoon?
+[17:52.940 --> 17:55.800]  Would you like to go to the zoo this afternoon?
+
+Transcription speed: 2.58 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 435 seconds
+

@@ -1,0 +1,191 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初中級篇 帶中文音頻）_slices\高效練耳朵英語聽力（初中級篇 帶中文音頻）_001.mp3
+
+[00:00.000 --> 00:00.920]  In a few minutes,
+[00:04.200 --> 00:07.760]  the company has three hospitals of its own.
+[00:09.180 --> 00:21.440]  The company has three hospitals of its own.
+[00:21.840 --> 00:24.360]  The company has three hospitals of its own.
+[00:27.760 --> 00:35.700]  It is outrageous that you should spend so much money.
+[00:37.580 --> 00:44.200]  It is outrageous that you should spend so much money.
+[00:46.000 --> 00:48.980]  It is outrageous that you should spend so much money.
+[00:52.440 --> 00:54.600]  You should make the most of your ability.
+[01:04.140 --> 01:09.020]  You should make the most of your ability.
+[01:12.400 --> 01:15.420]  The place is worth visiting at least once.
+[01:21.720 --> 01:32.620]  The place is worth visiting at least once.
+[01:45.180 --> 01:48.940]  The professor's boring lecture put me to sleep.
+[01:53.280 --> 01:56.200]  The professor's boring lecture put me to sleep.
+[01:59.760 --> 02:03.600]  Since then, he had put his whole soul into his work.
+[02:05.720 --> 02:09.540]  Since then, he had put his whole soul into his work.
+[02:11.440 --> 02:14.880]  Since then, he had put his whole soul into his work.
+[02:27.540 --> 02:30.620]  Your new dress becomes you very well.
+[02:32.380 --> 02:36.820]  Your new dress becomes you very well.
+[02:48.980 --> 02:52.260]  The tree cast a shadow across the road.
+[02:54.200 --> 03:02.060]  The tree cast a shadow across the road.
+[03:12.200 --> 03:15.020]  I'd like to know when you can send it out.
+[03:17.260 --> 03:19.220]  I'd like to know when you can send it out.
+[03:21.320 --> 03:23.580]  I'd like to know when you can send it out.
+[03:34.340 --> 03:35.880]  I'd like to have cake for dessert.
+[03:37.980 --> 03:39.780]  I'd like to have cake for dessert.
+[03:52.240 --> 03:55.420]  The press is interested in his private life.
+[03:57.260 --> 04:11.860]  The press is interested in his private life.
+[04:14.840 --> 04:17.220]  Which shoes are you going to put on?
+[04:19.360 --> 04:21.260]  Which shoes are you going to put on?
+[04:34.480 --> 04:37.100]  Sonia had a very amused look on her face.
+[04:39.240 --> 04:43.780]  Sonia had a very amused look on her face.
+[04:43.780 --> 04:47.880]  Sonia had a very amused look on her face.
+[04:59.200 --> 05:00.980]  Either you or your brother is wrong.
+[05:18.420 --> 05:30.940]  Your new hat is very becoming on you.
+[05:34.460 --> 05:37.000]  Your new hat is very becoming on you.
+[05:40.400 --> 05:42.900]  You must come to the party by all means.
+[05:49.360 --> 05:52.020]  You must come to the party by all means.
+[06:02.340 --> 06:05.280]  There are a lot of students in the library.
+[06:18.420 --> 06:20.860]  There are a lot of students in the library.
+[06:24.320 --> 06:27.220]  That work will be finished at the end of this week.
+[06:29.380 --> 06:31.960]  That work will be finished at the end of this week.
+[06:33.840 --> 06:36.760]  That work will be finished at the end of this week.
+[06:47.260 --> 06:50.820]  The street lined with trees provided a vista of the sea.
+[06:58.340 --> 07:02.640]  The street lined with trees provided a vista of the sea.
+[07:08.540 --> 07:12.320]  The street lined with trees provided a vista of the sea.
+[07:15.760 --> 07:18.140]  The boy was used to being scolded.
+[07:27.920 --> 07:33.220]  The boy was used to being scolded.
+[07:36.560 --> 07:39.300]  The cold north wind was roaring outside.
+[07:41.100 --> 07:43.960]  The cold north wind was roaring outside.
+[07:57.760 --> 08:01.700]  You win and I cook dinner for the entire family.
+[08:09.300 --> 08:12.520]  You win and I cook dinner for the entire family.
+[08:22.500 --> 08:25.080]  I would like to see Mr. Smith.
+[08:41.260 --> 08:43.880]  Have you ever had cheese with apple pie?
+[08:45.760 --> 08:48.560]  Have you ever had cheese with apple pie?
+[09:02.660 --> 09:06.180]  The building looks down on the whole town.
+[09:19.120 --> 09:22.260]  The building looks down on the whole town.
+[09:30.260 --> 09:37.520]  The baby can stand but can't walk.
+[09:41.600 --> 09:43.880]  The baby can stand but can't walk.
+[09:47.240 --> 09:49.560]  Can you explain how this machine works?
+[09:51.680 --> 09:53.840]  Can you explain how this machine works?
+[10:09.180 --> 10:11.340]  Would you like to turn it down a little?
+[10:13.460 --> 10:15.200]  Would you like to turn it down a little?
+[10:28.360 --> 10:30.980]  Mary didn't refer to the accident she had seen.
+[10:37.780 --> 10:40.960]  Mary didn't refer to the accident she had seen.
+[10:51.440 --> 10:53.960]  What time will the bus pick us up?
+[10:56.080 --> 10:58.240]  What time will the bus pick us up?
+[11:11.640 --> 11:14.460]  If it's not too much trouble, I would like some help.
+[11:16.820 --> 11:19.200]  If it's not too much trouble, I would like some help.
+[11:21.260 --> 11:25.200]  If it's not too much trouble, I would like some help.
+[11:35.760 --> 11:38.680]  On arriving at the station, I called a friend of mine.
+[11:40.820 --> 11:44.120]  On arriving at the station, I called a friend of mine.
+[11:46.040 --> 11:49.760]  On arriving at the station, I called a friend of mine.
+[12:01.320 --> 12:03.660]  You could see the roof of the house from there.
+[12:14.540 --> 12:19.720]  You could see the roof of the house from there.
+[12:21.920 --> 12:25.320]  In the meantime, he went to sleep.
+[12:27.140 --> 12:29.640]  In the meantime, he went to sleep.
+[12:42.100 --> 12:45.420]  The river flows between the two countries.
+[12:58.580 --> 13:01.160]  The river flows between the two countries.
+[13:04.540 --> 13:07.080]  The question was too difficult to answer.
+[13:19.780 --> 13:22.360]  The question was too difficult to answer.
+[13:25.400 --> 13:28.800]  My son disarranged the papers on the desk.
+[13:30.880 --> 13:38.840]  My son disarranged the papers on the desk.
+[13:49.480 --> 13:51.840]  What was it that caused you to change your mind?
+[13:53.900 --> 13:56.240]  What was it that caused you to change your mind?
+[14:09.980 --> 14:12.180]  Have you ever been to an exhibition?
+[14:14.200 --> 14:16.240]  Have you ever been to an exhibition?
+[14:28.500 --> 14:32.180]  The girl is getting over mountains of difficulties.
+[14:34.000 --> 14:42.620]  The girl is getting over mountains of difficulties.
+[14:47.020 --> 14:49.960]  The girl is getting over mountains of difficulties.
+[14:53.820 --> 14:57.020]  I've warned you over and over again not to do it.
+[15:04.260 --> 15:07.560]  I've warned you over and over again not to do it.
+[15:18.160 --> 15:21.860]  I can't study anywhere in my house. It's too noisy.
+[15:23.920 --> 15:27.300]  I can't study anywhere in my house. It's too noisy.
+[15:29.140 --> 15:33.180]  I can't study anywhere in my house. It's too noisy.
+[15:38.860 --> 15:42.240]  I can't study anywhere in my house. It's too noisy.
+[15:45.820 --> 15:49.360]  If anything goes wrong, I'll answer for the consequences.
+[16:09.840 --> 16:15.840]  I need to find out exactly what went wrong.
+[16:22.400 --> 16:25.780]  I need to find out exactly what went wrong.
+[16:35.600 --> 16:37.980]  We made a date to meet soon.
+[16:39.800 --> 16:42.180]  We made a date to meet soon.
+[16:43.920 --> 16:46.660]  We made a date to meet soon.
+[16:55.560 --> 16:57.760]  Instead of a shirt, Brian bought a jacket.
+[16:59.900 --> 17:02.440]  Instead of a shirt, Brian bought a jacket.
+[17:04.420 --> 17:07.400]  Instead of a shirt, Brian bought a jacket.
+[17:19.500 --> 17:22.540]  We give foreign tourists the privilege of tax exemption.
+[17:24.480 --> 17:28.020]  We give foreign tourists the privilege of tax exemption.
+[17:29.820 --> 17:33.500]  We give foreign tourists the privilege of tax exemption.
+[17:44.600 --> 17:47.900]  I'd like the most inexpensive room you have for four nights.
+[17:55.360 --> 18:08.360]  I'd like the most inexpensive room you have for four nights.
+[18:11.840 --> 18:14.780]  Talk of a quick election was pure speculation.
+[18:21.860 --> 18:25.300]  Talk of a quick election was pure speculation.
+[18:31.220 --> 18:33.980]  Talk of a quick election was pure speculation.
+[18:37.740 --> 18:40.280]  Thank you for coming all the way in this rain.
+[18:46.680 --> 18:49.700]  Thank you for coming all the way in this rain.
+[19:10.460 --> 19:13.760]  They deal in fruit and vegetables at that store.
+[19:17.900 --> 19:20.960]  They deal in fruit and vegetables at that store.
+[19:24.620 --> 19:26.880]  It's two miles from here to the station.
+[19:29.180 --> 19:31.460]  It's two miles from here to the station.
+[19:33.540 --> 19:36.040]  It's two miles from here to the station.
+[19:46.180 --> 19:49.180]  She's intent on going to New York to study fashion.
+[19:51.440 --> 19:54.580]  She's intent on going to New York to study fashion.
+[19:56.700 --> 19:59.840]  She's intent on going to New York to study fashion.
+[20:10.480 --> 20:12.980]  I saw him at one time or another.
+[20:25.020 --> 20:27.260]  I saw him at one time or another.
+[20:30.900 --> 20:33.860]  Wales are said to have lived on land long ago.
+[20:36.280 --> 20:39.000]  Wales are said to have lived on land long ago.
+[21:05.780 --> 21:08.540]  Every time I see him, he is smiling.
+[21:09.680 --> 21:12.660]  Every time I see him, he is smiling.
+[21:19.060 --> 21:21.140]  Feeling chilly, I turned on the heater.
+[21:34.240 --> 21:36.280]  Feeling chilly, I turned on the heater.
+[21:39.580 --> 21:42.140]  Is this what you've wanted for a long time?
+[21:44.320 --> 21:46.540]  Is this what you've wanted for a long time?
+[21:48.440 --> 21:51.180]  Is this what you've wanted for a long time?
+[22:00.200 --> 22:02.720]  We all agreed that the plan made sense.
+[22:22.380 --> 22:26.000]  These goods are greater in quantity than in quality.
+[22:28.120 --> 22:36.960]  These goods are greater in quantity than in quality.
+[22:58.580 --> 23:02.640]  The more we learn, the better we realize our ignorance.
+[23:12.820 --> 23:26.560]  Wherever you may go, you'll be welcomed.
+[23:30.680 --> 23:33.280]  Wherever you may go, you'll be welcomed.
+[23:36.800 --> 23:39.560]  Please pick me up at the airport at five.
+[23:41.600 --> 23:44.640]  Please pick me up at the airport at five.
+[23:46.240 --> 23:49.220]  Please pick me up at the airport at five.
+[23:58.500 --> 24:01.200]  It was nothing less than a miracle.
+[24:03.240 --> 24:05.360]  It was nothing less than a miracle.
+[24:06.980 --> 24:12.960]  It was nothing less than a miracle.
+[24:17.970 --> 24:20.980]  A glass of orange juice refreshed me.
+[24:22.980 --> 24:29.880]  A glass of orange juice refreshed me.
+[24:39.820 --> 24:42.080]  Weather permitting, let's go on a picnic.
+[24:44.480 --> 24:46.600]  Weather permitting, let's go on a picnic.
+[25:02.020 --> 25:04.980]  However you do it, the result will be the same.
+[25:12.120 --> 25:15.000]  However you do it, the result will be the same.
+[25:25.900 --> 25:28.560]  Judging from his accent, he must be from Texas.
+[25:35.840 --> 25:46.740]  Judging from his accent, he must be from Texas.
+[25:49.780 --> 25:52.060]  May as well go at once.
+[25:57.760 --> 25:59.840]  We may as well go at once.
+[26:08.520 --> 26:11.460]  Viewed from a distance, the island looked like a cloud.
+[26:18.920 --> 26:22.360]  Viewed from a distance, the island looked like a cloud.
+[26:27.020 --> 26:30.320]  Viewed from a distance, the island looked like a cloud.
+[26:33.600 --> 26:37.120]  Those officials don't understand finance at all.
+[26:38.760 --> 26:44.040]  Those officials don't understand finance at all.
+[26:44.040 --> 26:54.500]  Those officials don't understand finance at all.
+[26:58.360 --> 27:00.440]  The man you met at the station is my father.
+[27:02.480 --> 27:05.080]  The man you met at the station is my father.
+[27:20.000 --> 27:24.000]  When it comes to dancing, nobody can move like Michael Jackson.
+[27:31.500 --> 27:35.960]  When it comes to dancing, nobody can move like Michael Jackson.
+[27:47.400 --> 27:51.560]  He is a tall and handsome young man.
+[27:53.620 --> 28:00.540]  He is a tall and handsome young man.
+[28:10.140 --> 28:12.780]  The trunk was too heavy for him to manage.
+[28:14.860 --> 28:21.920]  The trunk was too heavy for him to manage.
+[28:31.600 --> 28:34.000]  Can you tell me what this word means?
+[28:36.080 --> 28:38.120]  Can you tell me what this word means?
+[28:52.340 --> 28:54.720]  You must work hard if you are to succeed.
+[28:56.840 --> 28:59.180]  You must work hard if you are to succeed.
+[29:13.860 --> 29:16.980]  Excuse me, but would you kindly lift that box for me?
+[29:24.720 --> 29:27.780]  Excuse me, but would you kindly lift that box for me?
+[29:38.380 --> 29:41.620]  The newly married couple walked hand in hand.
+[29:43.420 --> 29:48.180]  The newly married couple walked hand in hand.
+
+Transcription speed: 2.9 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 633 seconds
+

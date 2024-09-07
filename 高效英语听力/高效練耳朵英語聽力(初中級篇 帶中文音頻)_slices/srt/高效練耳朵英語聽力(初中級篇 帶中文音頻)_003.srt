@@ -1,0 +1,227 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初中級篇 帶中文音頻）_slices\高效練耳朵英語聽力（初中級篇 帶中文音頻）_003.mp3
+
+[00:00.000 --> 00:03.500]  This is the same pencil that I lost the other day.
+[00:06.840 --> 00:10.280]  The hardness of a diamond is such that it can cut glass.
+[00:17.780 --> 00:21.640]  The hardness of a diamond is such that it can cut glass.
+[00:25.560 --> 00:26.680]  金钢石的硬度非常高,可以切割玻璃.
+[00:26.680 --> 00:30.140]  The hardness of a diamond is such that it can cut glass.
+[00:34.100 --> 00:36.740]  The scientist gave a lecture on the structure of the universe.
+[00:44.080 --> 00:47.780]  The scientist gave a lecture on the structure of the universe.
+[00:58.300 --> 00:58.940]  科学家做了一个关于宇宙结构的讲座。
+[00:59.780 --> 01:02.300]  You are certain to be moved deeply by the movie.
+[01:04.280 --> 01:06.920]  You are certain to be moved deeply by the movie.
+[01:09.260 --> 01:12.040]  You are certain to be moved deeply by the movie.
+[01:16.100 --> 01:16.740]  你一定会被这部电影深深打动。
+[01:16.740 --> 01:18.960]  You are certain to be moved deeply by the movie.
+[01:22.620 --> 01:25.200]  Give me a telephone call when you get back.
+[01:27.520 --> 01:29.960]  Give me a telephone call when you get back.
+[01:32.180 --> 01:34.360]  Give me a telephone call when you get back.
+[01:37.720 --> 01:38.200]  你回来后给我打个电话。
+[01:38.200 --> 01:40.460]  Give me a telephone call when you get back.
+[01:43.940 --> 01:46.560]  This is the worst movie I have ever seen.
+[01:49.180 --> 01:53.500]  This is the worst movie I have ever seen.
+[01:53.600 --> 01:56.020]  This is the worst movie I have ever seen.
+[01:59.780 --> 02:00.380]  这是我看过的最差的电影。
+[02:00.380 --> 02:02.480]  This is the worst movie I have ever seen.
+[02:05.960 --> 02:09.400]  The company has branches in all large cities.
+[02:11.240 --> 02:15.000]  The company has branches in all large cities.
+[02:17.560 --> 02:20.240]  The company has branches in all large cities.
+[02:24.540 --> 02:25.420]  这家公司在所有大城市都有分布。
+[02:25.420 --> 02:28.380]  The company has branches in all large cities.
+[02:32.080 --> 02:34.860]  The explanation is by no means satisfactory.
+[02:37.160 --> 02:40.580]  The explanation is by no means satisfactory.
+[02:43.060 --> 02:45.180]  The explanation is by no means satisfactory.
+[02:49.620 --> 02:50.340]  这解释一点也不令人满意。
+[02:50.340 --> 02:52.900]  The explanation is by no means satisfactory.
+[02:56.820 --> 02:59.440]  Gravity binds the planets to the sun.
+[03:01.460 --> 03:04.020]  Gravity binds the planets to the sun.
+[03:06.300 --> 03:08.820]  Gravity binds the planets to the sun.
+[03:19.080 --> 03:21.860]  I would rather stay at home than go out.
+[03:23.860 --> 03:26.220]  I would rather stay at home than go out.
+[03:28.200 --> 03:30.680]  I would rather stay at home than go out.
+[03:34.860 --> 03:37.120]  I would rather stay at home than go out.
+[03:40.680 --> 03:42.720]  Let's get together and talk it over.
+[03:44.940 --> 03:47.030]  Let's get together and talk it over.
+[03:52.640 --> 03:55.360]  Let's get together and talk it over.
+[03:55.360 --> 03:57.440]  Let's get together and talk it over.
+[04:01.080 --> 04:03.920]  Jack is the most intelligent boy in the class.
+[04:06.180 --> 04:08.880]  Jack is the most intelligent boy in the class.
+[04:18.480 --> 04:21.200]  Jack is the most intelligent boy in the class.
+[04:24.640 --> 04:26.680]  I will see him after I get back.
+[04:29.280 --> 04:30.740]  I will see him after I get back.
+[04:32.720 --> 04:36.240]  I will see him after I get back.
+[04:38.720 --> 04:40.580]  I will see him after I get back.
+[04:43.980 --> 04:46.020]  Do you ever smoke at mealtimes?
+[04:48.640 --> 04:50.100]  Do you ever smoke at mealtimes?
+[04:52.080 --> 04:54.560]  Do you ever smoke at mealtimes?
+[04:58.700 --> 05:00.280]  Do you ever smoke at mealtimes?
+[05:03.820 --> 05:06.120]  It took them two years to build the house.
+[05:08.240 --> 05:10.560]  It took them two years to build the house.
+[05:26.000 --> 05:30.920]  If anything, my new job is harder than my old one.
+[05:30.920 --> 05:34.680]  If anything, my new job is harder than my old one.
+[05:36.100 --> 05:41.000]  If anything, my new job is harder than my old one.
+[05:53.600 --> 05:56.380]  Steak and caviar are my favorite dishes.
+[05:58.360 --> 06:01.740]  Steak and caviar are my favorite dishes.
+[06:03.560 --> 06:06.220]  Steak and caviar are my favorite dishes.
+[06:16.880 --> 06:20.240]  Mike happened to have been absent from school.
+[06:22.320 --> 06:25.280]  Mike happened to have been absent from school.
+[06:27.000 --> 06:30.140]  Mike happened to have been absent from school.
+[06:39.100 --> 06:43.400]  The number of traffic accidents has increased in recent years.
+[06:50.880 --> 06:55.000]  The number of traffic accidents has increased in recent years.
+[06:59.160 --> 07:03.040]  The number of traffic accidents has increased in recent years.
+[07:06.580 --> 07:09.300]  We have enjoyed peace for more than 40 years.
+[07:15.980 --> 07:19.200]  We have enjoyed peace for more than 40 years.
+[07:24.400 --> 07:27.280]  We have enjoyed peace for more than 40 years.
+[07:30.860 --> 07:34.380]  Because the surroundings were so dark, he could not see anything.
+[07:36.560 --> 07:40.040]  Because the surroundings were so dark, he could not see anything.
+[07:57.760 --> 08:00.600]  I may as well go out, then stay at home.
+[08:13.960 --> 08:16.420]  I may as well go out, then stay at home.
+[08:19.720 --> 08:23.400]  It was obvious that the driver had not been careful enough.
+[08:25.160 --> 08:28.880]  It was obvious that the driver had not been careful enough.
+[08:30.660 --> 08:34.240]  It was obvious that the driver had not been careful enough.
+[08:44.640 --> 08:47.820]  The plan was a good one, apart from its cost.
+[08:49.860 --> 08:52.820]  The plan was a good one, apart from its cost.
+[09:01.780 --> 09:04.920]  The plan was a good one, apart from its cost.
+[09:08.560 --> 09:11.920]  However, fast you may walk, you can't catch up with him.
+[09:14.120 --> 09:22.980]  However, fast you may walk, you can't catch up with him.
+[09:27.360 --> 09:30.660]  However, fast you may walk, you can't catch up with him.
+[09:34.180 --> 09:36.420]  You don't need to go unless you want to.
+[09:38.520 --> 09:40.740]  You don't need to go unless you want to.
+[09:42.580 --> 09:45.280]  You don't need to go unless you want to.
+[09:55.060 --> 09:57.840]  Be sure to telephone by Friday, okay?
+[09:59.980 --> 10:02.300]  Be sure to telephone by Friday, okay?
+[10:17.740 --> 10:19.760]  How and why did you come here?
+[10:21.980 --> 10:23.660]  How and why did you come here?
+[10:33.340 --> 10:35.260]  How and why did you come here?
+[10:38.840 --> 10:41.140]  You should think before you begin to speak.
+[10:53.720 --> 10:56.100]  You should think before you begin to speak.
+[10:59.240 --> 11:03.100]  If anything, the economy in our country is going up.
+[11:04.980 --> 11:08.560]  If anything, the economy in our country is going up.
+[11:10.320 --> 11:14.240]  If anything, the economy in our country is going up.
+[11:27.300 --> 11:29.780]  Kate was frightened to see the big dog.
+[11:31.920 --> 11:34.340]  Kate was frightened to see the big dog.
+[11:48.820 --> 11:51.460]  We haven't seen you in the past four years.
+[12:02.460 --> 12:06.720]  We haven't seen you in the past four years.
+[12:09.760 --> 12:12.660]  It is clear that Mike took the wrong bus.
+[12:14.680 --> 12:21.720]  It is clear that Mike took the wrong bus.
+[12:31.420 --> 12:33.880]  This table is just as large as ours.
+[12:47.540 --> 12:49.800]  This table is just as large as ours.
+[12:53.580 --> 12:56.220]  This is a good exercise to help you lose weight.
+[13:02.940 --> 13:05.840]  This is a good exercise to help you lose weight.
+[13:10.820 --> 13:13.600]  This is a good exercise to help you lose weight.
+[13:17.060 --> 13:20.680]  Mr. and Mrs. Williams adopted a child whose parents were dead.
+[13:22.760 --> 13:27.700]  Mr. and Mrs. Williams adopted a child whose parents were dead.
+[13:27.700 --> 13:33.260]  Mr. and Mrs. Williams adopted a child whose parents were dead.
+[13:44.520 --> 13:47.260]  It hardly ever rains in the area.
+[14:00.000 --> 14:02.340]  It hardly ever rains in the area.
+[14:05.920 --> 14:09.040]  Whatever you may say, I won't give it up.
+[14:11.400 --> 14:14.120]  Whatever you may say, I won't give it up.
+[14:16.160 --> 14:19.300]  Whatever you may say, I won't give it up.
+[14:29.480 --> 14:33.060]  This is the pipeline which supplies the town with gas.
+[14:40.220 --> 14:43.740]  This is the pipeline which supplies the town with gas.
+[14:48.020 --> 14:51.220]  This is the pipeline which supplies the town with gas.
+[14:55.160 --> 14:57.980]  This right must be protected at all costs.
+[15:05.000 --> 15:08.400]  This right must be protected at all costs.
+[15:12.960 --> 15:16.340]  This right must be protected at all costs.
+[15:19.700 --> 15:23.000]  But earthquakes are still as frightening as ever.
+[15:24.780 --> 15:28.280]  But earthquakes are still as frightening as ever.
+[15:30.060 --> 15:33.240]  But earthquakes are still as frightening as ever.
+[15:44.280 --> 15:47.020]  The bed takes up a lot of room.
+[16:03.320 --> 16:06.420]  It was used only from time to time.
+[16:17.540 --> 16:20.700]  It was used only from time to time.
+[16:24.380 --> 16:26.180]  How did you get tickets for the concert?
+[16:28.120 --> 16:30.240]  How did you get tickets for the concert?
+[16:43.300 --> 16:47.260]  This camel is so tame that anyone can ride it.
+[16:48.880 --> 16:52.560]  This camel is so tame that anyone can ride it.
+[16:54.020 --> 16:58.800]  This camel is so tame that anyone can ride it.
+[17:09.240 --> 17:11.700]  The lion is the king of the jungle.
+[17:13.620 --> 17:16.140]  The lion is the king of the jungle.
+[17:29.440 --> 17:33.000]  They accomplished their task without any difficulty.
+[17:35.040 --> 17:43.500]  They accomplished their task without any difficulty.
+[17:53.940 --> 17:55.860]  I'll take two hours to go there.
+[18:07.780 --> 18:09.520]  I'll take two hours to go there.
+[18:12.900 --> 18:16.140]  This medicine must not be placed within the reach of children.
+[18:23.040 --> 18:26.640]  This medicine must not be placed within the reach of children.
+[18:31.620 --> 18:34.680]  This medicine must not be placed within the reach of children.
+[18:38.220 --> 18:41.420]  The last time I saw Kent, he was very well.
+[18:48.880 --> 18:51.780]  The last time I saw Kent, he was very well.
+[19:02.240 --> 19:05.560]  Her last question is about her other interest.
+[19:07.420 --> 19:20.600]  Her last question is about her other interest.
+[19:36.500 --> 19:39.660]  A boy sleeping in bed seems to be an angel.
+[19:44.280 --> 19:47.300]  A boy sleeping in bed seems to be an angel.
+[19:50.920 --> 19:53.240]  I think I will have one more ice cream cone.
+[19:55.460 --> 19:57.700]  I think I will have one more ice cream cone.
+[19:59.640 --> 20:02.460]  I think I will have one more ice cream cone.
+[20:12.020 --> 20:15.620]  This tree is the tallest and oldest in this forest.
+[20:17.600 --> 20:21.040]  This tree is the tallest and oldest in this forest.
+[20:22.980 --> 20:27.600]  This tree is the tallest and oldest in the forest.
+[20:38.480 --> 20:40.420]  It's still too early to get up.
+[20:51.880 --> 20:53.720]  It's still too early to get up.
+[20:57.300 --> 21:00.040]  It's really hard to drive on the bumpy roads around here.
+[21:06.940 --> 21:10.560]  It's really hard to drive on the bumpy roads around here.
+[21:16.340 --> 21:19.200]  It's really hard to drive on the bumpy roads around here.
+[21:22.660 --> 21:25.160]  We have five English classes a week.
+[21:27.080 --> 21:29.680]  We have five English classes a week.
+[21:43.300 --> 21:46.760]  I must keep a secret with regard to the fact.
+[21:48.700 --> 21:56.460]  I must keep a secret with regard to the fact.
+[22:06.840 --> 22:09.120]  You may as well begin at once.
+[22:11.240 --> 22:13.060]  You may as well begin at once.
+[22:26.080 --> 22:28.760]  You may have swelling, but don't worry about it.
+[22:30.500 --> 22:33.400]  You may have swelling, but don't worry about it.
+[22:47.400 --> 22:51.620]  I'd like to spend my holidays reading history books or classics.
+[22:59.460 --> 23:03.440]  I'd like to spend my holidays reading history books or classics.
+[23:08.260 --> 23:12.400]  I'd like to spend my holidays reading history books or classics.
+[23:16.020 --> 23:18.460]  This room is too hot for us to work in.
+[23:24.800 --> 23:27.740]  This room is too hot for us to work in.
+[23:28.580 --> 23:35.480]  This room is too hot for us to work in.
+[23:38.780 --> 23:41.080]  Hurry up and you'll catch the bus.
+[23:42.980 --> 23:49.380]  Hurry up and you'll catch the bus.
+[23:59.300 --> 24:01.720]  All the family got out of the car.
+[24:13.240 --> 24:15.580]  All the family got out of the car.
+[24:18.600 --> 24:22.260]  I never see this picture without thinking of my father.
+[24:24.340 --> 24:27.580]  I never see this picture without thinking of my father.
+[24:29.560 --> 24:33.040]  I never see this picture without thinking of my father.
+[24:45.160 --> 24:47.540]  I was about to go out when the phone rang.
+[24:49.680 --> 24:52.000]  I was about to go out when the phone rang.
+[24:53.880 --> 24:56.680]  I was about to go out when the phone rang.
+[25:07.060 --> 25:10.140]  You should especially not drink on an empty stomach.
+[25:17.340 --> 25:20.800]  You should especially not drink on an empty stomach.
+[25:30.640 --> 25:33.220]  Can you give me a ride to the station?
+[25:35.400 --> 25:37.280]  Can you give me a ride to the station?
+[25:50.140 --> 25:53.680]  Now that you're in Italy, you must absolutely see Naples.
+[25:55.740 --> 25:59.140]  Now that you're in Italy, you must absolutely see Naples.
+[26:01.060 --> 26:05.360]  Now that you're in Italy, you must absolutely see Naples.
+[26:11.160 --> 26:14.520]  Now that you're in Italy, you must absolutely see Naples.
+[26:18.060 --> 26:20.620]  I prefer going out to staying at home.
+[26:22.560 --> 26:29.900]  I prefer going out to staying at home.
+[26:33.940 --> 26:36.460]  I prefer going out to staying at home.
+[26:39.980 --> 26:42.500]  Few were at the seaside because it was raining.
+[26:49.320 --> 26:52.260]  Few were at the seaside because it was raining.
+[27:02.220 --> 27:07.340]  The boy can handle a knife and fork very well.
+[27:24.860 --> 27:27.620]  They give good service at that restaurant.
+[27:29.900 --> 27:36.340]  They give good service at that restaurant.
+[27:44.960 --> 27:49.440]  We hope you will understand the difficult circumstances we're working under.
+[27:51.280 --> 28:12.440]  We hope you will understand the difficult circumstances we're working under.
+[28:14.220 --> 28:17.340]  Mike and I had a hamburger this afternoon and we talk.
+[28:19.300 --> 28:22.520]  Mike and I had a hamburger this afternoon and we talk.
+[28:40.320 --> 28:45.180]  There are a number of shops selling foreign books and periodicals.
+[28:47.340 --> 28:57.500]  There are a number of shops selling foreign books and periodicals.
+[29:01.440 --> 29:07.800]  There are a number of shops selling foreign books and periodicals.
+[29:09.380 --> 29:12.280]  Whatever you say, he won't change his mind.
+[29:19.180 --> 29:22.460]  Whatever you say, he won't change his mind.
+[29:27.100 --> 29:30.000]  Whatever you say, he won't change his mind.
+[29:33.460 --> 29:36.000]  I am sending a copy of my letter to you.
+[29:49.100 --> 29:51.680]  I am sending a copy of my letter to you.
+[29:54.960 --> 29:58.040]  The lady's funeral was held at the local church.
+
+Transcription speed: 2.9 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 634 seconds
+

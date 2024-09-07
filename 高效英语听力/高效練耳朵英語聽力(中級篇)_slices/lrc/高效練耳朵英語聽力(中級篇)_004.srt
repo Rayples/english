@@ -1,0 +1,272 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（中級篇）_slices\高效練耳朵英語聽力（中級篇）_004.mp3
+
+[00:03.260 --> 00:05.580]  You didn't come to school yesterday, did you?
+[00:18.640 --> 00:19.760]  你昨天没来学校,是吗?
+[00:20.700 --> 00:22.700]  You didn't come to school yesterday, did you?
+[00:26.400 --> 00:29.720]  The date of the festival coincides with that of the exam.
+[00:31.700 --> 00:34.870]  The date of the festival coincides with that of the exam.
+[00:37.540 --> 00:40.900]  The date of the festival coincides with that of the exam.
+[00:44.980 --> 00:45.480]  节日和考试碰巧在同一天.
+[00:46.180 --> 00:49.460]  The date of the festival coincides with that of the exam.
+[00:52.960 --> 00:55.460]  I like swimming, but I don't like to swim here.
+[00:57.300 --> 00:59.800]  I like swimming, but I don't like to swim here.
+[01:07.640 --> 01:10.440]  我喜欢游泳,但我不想在这里游.
+[01:15.680 --> 01:19.700]  We all consider your idea to be impractical.
+[01:21.440 --> 01:24.520]  We all consider your idea to be impractical.
+[01:34.080 --> 01:34.840]  我们都认为你的想法是行不通的.
+[01:35.380 --> 01:38.180]  We all consider your idea to be impractical.
+[01:41.640 --> 01:44.000]  She went into her room to change her dress.
+[01:49.800 --> 01:52.760]  She went into her room to change her dress.
+[01:57.880 --> 01:59.720]  She went into her room to change her dress.
+[02:02.840 --> 02:05.660]  The town was destroyed by the flood after the storm.
+[02:12.680 --> 02:16.440]  The town was destroyed by the flood after the storm.
+[02:21.980 --> 02:22.540]  小镇被暴风雨后的洪水摧毁了.
+[02:23.080 --> 02:25.760]  The town was destroyed by the flood after the storm.
+[02:29.340 --> 02:32.260]  She came to Japan for the purpose of studying Japanese.
+[02:34.180 --> 02:37.060]  She came to Japan for the purpose of studying Japanese.
+[02:39.240 --> 02:43.080]  She came to Japan for the purpose of studying Japanese.
+[02:47.700 --> 02:50.560]  She came to Japan for the purpose of studying Japanese.
+[02:53.980 --> 02:56.080]  I am going to stay here for a couple of days.
+[03:03.080 --> 03:06.240]  I am going to stay here for a couple of days.
+[03:09.640 --> 03:10.240]  我将要在这里待几天.
+[03:10.960 --> 03:13.020]  I am going to stay here for a couple of days.
+[03:16.960 --> 03:19.560]  Make sure to turn off all the lights before going out.
+[03:22.260 --> 03:31.160]  Make sure to turn off all the lights before going out.
+[03:36.300 --> 03:36.720]  出去之前确认一下所有的灯都关了.
+[03:37.380 --> 03:40.060]  Make sure to turn off all the lights before going out.
+[03:44.160 --> 03:46.720]  If I had taken that plane, I would be dead now.
+[03:48.580 --> 03:51.180]  If I had taken that plane, I would be dead now.
+[03:53.020 --> 03:56.620]  If I had taken that plane, I would be dead now.
+[04:02.460 --> 04:05.440]  If I had taken that plane, I would be dead now.
+[04:08.580 --> 04:10.880]  A fire broke out in my neighborhood last night.
+[04:16.780 --> 04:20.240]  A fire broke out in my neighborhood last night.
+[04:29.320 --> 04:32.860]  I had to abstain from smoking while I was in the hospital.
+[04:34.820 --> 04:39.200]  I had to abstain from smoking while I was in the hospital.
+[04:39.660 --> 04:43.400]  I had to abstain from smoking while I was in the hospital.
+[04:48.860 --> 04:51.640]  I had to abstain from smoking while I was in the hospital.
+[04:55.100 --> 04:56.800]  I've had a lot of work to do lately.
+[05:03.160 --> 05:05.440]  I've had a lot of work to do lately.
+[05:16.000 --> 05:18.360]  Marriage is the main cause of all divorces.
+[05:20.240 --> 05:28.360]  Marriage is the main cause of all divorces.
+[05:38.140 --> 05:41.360] 结婚是所有离婚的主要原因.
+[05:36.360 --> 05:46.360]  Let me help you. Your bag looks very heavy.
+[05:51.760 --> 05:56.420]  Let me help you. Your bag looks very heavy.
+[05:56.880 --> 05:59.660]  Let me help you. Your bag looks very heavy.
+[06:02.800 --> 06:06.620]  A trip to America was equivalent to a two-year salary for her.
+[06:14.600 --> 06:19.600]  A trip to America was equivalent to a two-year salary for her.
+[06:24.520 --> 06:25.180]  去美国旅行一次相当于她两年的工资.
+[06:25.680 --> 06:29.520]  A trip to America was equivalent to a two-year salary for her.
+[06:33.120 --> 06:35.920]  He has just published an interesting series of articles.
+[06:37.940 --> 06:40.880]  He has just published an interesting series of articles.
+[06:43.020 --> 06:46.820]  He has just published an interesting series of articles.
+[06:51.320 --> 06:51.980]  他刚发表一系列有趣的文章.
+[06:52.480 --> 06:55.420]  He has just published an interesting series of articles.
+[06:59.120 --> 07:01.200]  What makes you think I won't be able to do it?
+[07:03.240 --> 07:05.240]  What makes you think I won't be able to do it?
+[07:07.360 --> 07:10.260]  What makes you think I won't be able to do it?
+[07:14.300 --> 07:16.560]  What makes you think I won't be able to do it?
+[07:20.000 --> 07:21.920]  I wonder if you'll have something to write with.
+[07:27.460 --> 07:30.520]  I wonder if you'll have something to write with.
+[07:34.380 --> 07:34.900]  我怀疑你是否有东西可写?
+[07:35.640 --> 07:37.560]  I wonder if you'll have something to write with.
+[07:40.700 --> 07:43.200]  I would like to leave this town and never come back.
+[07:45.340 --> 07:47.840]  I would like to leave this town and never come back.
+[07:58.440 --> 07:58.920]  我希望离开这个村子并且再也不要回来.
+[07:59.440 --> 08:01.920]  I would like to leave this town and never come back.
+[08:05.040 --> 08:08.540]  It makes sense to pay off your credit card balance every month.
+[08:14.220 --> 08:18.700]  It makes sense to pay off your credit card balance every month.
+[08:22.820 --> 08:23.380]  每个月还清信用卡负债很重要.
+[08:24.000 --> 08:27.040]  It makes sense to pay off your credit card balance every month.
+[08:31.080 --> 08:32.480]  每个月还清信用卡负债很重要.
+[08:32.480 --> 08:32.660]  每个月还清信用卡负债很重要.
+[08:34.760 --> 08:35.460]  每个月还清信用卡负债很重要.
+[08:36.160 --> 08:36.700]  每个月还清信用卡负债很重要.
+[08:36.700 --> 08:37.880]  每个月还清信用卡负债很重要.
+[08:38.260 --> 08:39.660]  每个月还清信用卡负债很重要.
+[08:42.620 --> 08:44.020]  每个月还清信用卡负债很重要.
+[08:47.380 --> 08:48.780]  每个月还清信用卡负债很重要.
+[08:51.220 --> 08:52.620]  每个月还清信用卡负债很重要.
+[08:56.860 --> 08:59.020]  What is the total amount of money you spend?
+[09:09.000 --> 09:10.880]  What is the total amount of money you spend?
+[09:12.180 --> 09:13.980]  What is the total amount of money you spend?
+[09:17.360 --> 09:19.360]  I don't know what to say to make you feel better.
+[09:25.640 --> 09:28.780]  I don't know what to say to make you feel better.
+[09:29.820 --> 09:30.320]  I don't know what to say to make you feel better.
+[09:32.940 --> 09:33.440]  我不知道該說什麼來安慰你.
+[09:34.160 --> 09:36.220]  I don't know what to say to make you feel better.
+[09:39.800 --> 09:42.800]  He always plans things out carefully before he does it.
+[09:44.800 --> 09:48.720]  He always plans things out carefully before he does it.
+[09:50.580 --> 09:54.780]  He always plans a thing out carefully before he does it.
+[09:58.520 --> 09:59.100]  他做每件事之前都會細心計劃.
+[09:59.660 --> 10:02.900]  He always plans things out carefully before he does it.
+[10:06.460 --> 10:09.440]  The crane, unlike the dog, has never dreamed of flying.
+[10:16.660 --> 10:26.620]  The crane, unlike the dog, has never dreamed of flying.
+[10:27.380 --> 10:28.200]  The crane, unlike the dog, has never dreamed of flying.
+[10:28.200 --> 10:30.560]  The crane, unlike the dog, has never dreamed of flying.
+[10:33.980 --> 10:36.940]  The tigers lost the game, which was a surprise to us.
+[10:43.120 --> 10:47.220]  The tigers lost the game, which was a surprise to us.
+[10:50.160 --> 10:52.480]  The tigers lost the game, which was a surprise to us.
+[10:52.600 --> 10:56.140]  The tigers lost the game, which was a surprise to us.
+[10:59.280 --> 11:01.540]  If you hurry, we will catch up with him.
+[11:04.500 --> 11:06.700]  If you hurry, we will catch up with him.
+[11:09.690 --> 11:12.290]  If you hurry, you will catch up with him.
+[11:15.510 --> 11:16.470]  如果你快一點,還能趕上他.
+[11:17.110 --> 11:19.330]  If you hurry, we will catch up with him.
+[11:23.680 --> 11:26.220]  He amazed everyone by passing his driving test.
+[11:33.140 --> 11:37.000]  He amazed everyone by passing his driving test.
+[11:37.000 --> 11:37.180]  He amazed everyone by passing his driving test.
+[11:41.560 --> 11:43.080]  他通過駕駛考試的事,讓每一個人都覺得驚訝.
+[11:43.600 --> 11:46.300]  He amazed everyone by passing his driving test.
+[11:49.700 --> 11:51.880]  I want to stay here until I get back.
+[11:54.300 --> 11:56.180]  I want to stay here until I get back.
+[11:58.680 --> 12:01.840]  I want you to stay here until I get back.
+[12:06.320 --> 12:06.760]  我希望你待在這裡直到我回來.
+[12:07.580 --> 12:09.480]  I want to stay here until I get back.
+[12:13.340 --> 12:15.880]  All of a sudden, three dogs appeared in front of us.
+[12:17.720 --> 12:25.900]  All of a sudden, three dogs appeared in front of us.
+[12:29.640 --> 12:30.720]  突然之間,三隻狗出現在我們面前.
+[12:31.630 --> 12:34.000]  All of a sudden, three dogs appeared in front of us.
+[12:37.280 --> 12:39.580]  I am going to my room where I can study.
+[12:42.000 --> 12:44.280]  I am going to my room where I can study.
+[12:46.780 --> 12:49.520]  I am going to my room where I can study.
+[12:54.340 --> 12:55.220]  我要回房間了,在那兒我可以學習.
+[12:56.020 --> 12:58.220]  I am going to my room where I can study.
+[13:02.160 --> 13:03.940]  Don't forget to put a stamp on your letter.
+[13:06.180 --> 13:07.960]  Don't forget to put a stamp on your letter.
+[13:10.420 --> 13:13.040]  Don't forget to put a stamp on your letter.
+[13:16.680 --> 13:17.560]  別忘了,在你的信上貼張郵票.
+[13:19.000 --> 13:20.780]  Don't forget to put a stamp on your letter.
+[13:24.420 --> 13:26.620]  She told me that she would go to Paris in August.
+[13:28.520 --> 13:30.600]  She told me that she would go to Paris in August.
+[13:32.480 --> 13:35.960]  She told me that she would go to Paris in August.
+[13:38.120 --> 13:40.480]  她跟我說,八月份,她會去巴黎.
+[13:41.480 --> 13:43.440]  She told me that she would go to Paris in August.
+[13:46.920 --> 13:49.140]  You should know better than to ask a lady her age.
+[13:51.320 --> 13:53.740]  You should know better than to ask a lady her age.
+[13:56.400 --> 13:59.160]  You should know better than to ask a lady her age.
+[14:02.420 --> 14:03.300]  你應該知道,不要問小姐的年齡.
+[14:03.960 --> 14:06.520]  You should know better than to ask a lady her age.
+[14:26.600 --> 14:27.100]  我父親總是說話很大聲.
+[14:33.720 --> 14:35.580]  Did you have a good time on your trip to London?
+[14:42.520 --> 14:45.420]  Did you have a good time on your trip to London?
+[14:49.340 --> 14:51.480]  Did you have a good time on your trip to London?
+[14:55.420 --> 14:57.500]  Let me give you a lift as far as the station.
+[15:03.860 --> 15:06.900]  Let me give you a lift as far as the station.
+[15:08.380 --> 15:08.940]  Let me give you a lift as far as the station.
+[15:10.500 --> 15:13.800]  让我送你到车站吧. Let me give you a lift as far as the station.
+[15:17.340 --> 15:20.420]  China is about 25 times as large as Japan.
+[15:26.820 --> 15:30.920]  China is about 25 times as large as Japan.
+[15:36.380 --> 15:37.260]  中国的版图大概是日本的二十五倍。
+[15:37.260 --> 15:40.140]  China is about 25 times as large as Japan.
+[15:43.340 --> 15:45.340]  How long would it take to swim across the river?
+[15:47.360 --> 15:49.340]  How long would it take to swim across the river?
+[15:58.820 --> 16:00.520]  How long would it take to swim across the river?
+[16:03.860 --> 16:06.380]  I love her so much that I can't leave her.
+[16:12.560 --> 16:16.900]  I love her so much that I can't leave her.
+[16:16.900 --> 16:24.080]  I love her so much that I can't leave her.
+[16:27.240 --> 16:30.000]  What is the distance between New York and London?
+[16:36.280 --> 16:39.820]  What is the distance between New York and London?
+[16:43.780 --> 16:46.840]  What is the distance between New York and London?
+[16:50.180 --> 16:52.260]  It's very big of you to admit you're wrong.
+[16:57.980 --> 17:00.900]  It's very big of you to admit you're wrong.
+[17:06.600 --> 17:08.580]  It's very big of you to admit you're wrong.
+[17:11.940 --> 17:13.960]  Let's go and see as many things as we can.
+[17:21.240 --> 17:24.100]  Let's go and see as many things as we can.
+[17:29.780 --> 17:31.660]  Let's go and see as many things as we can.
+[17:35.680 --> 17:38.580]  There are a lot of things you don't know about my personality.
+[17:45.400 --> 17:54.680]  There are a lot of things you don't know about my personality.
+[17:54.680 --> 17:58.520]  There are a lot of things you don't know about my personality.
+[18:01.840 --> 18:04.040]  I couldn't put up with her arrogant behavior.
+[18:09.780 --> 18:12.780]  I couldn't put up with her arrogant behavior.
+[18:17.260 --> 18:19.740]  I couldn't put up with her arrogant behavior.
+[18:23.020 --> 18:26.420]  You shouldn't share too much private information on the social networks.
+[18:28.300 --> 18:31.940]  You shouldn't share too much private information on the social networks.
+[18:33.940 --> 18:38.820]  You shouldn't share too much private information on the social networks.
+[18:45.120 --> 18:48.520]  You shouldn't share too much private information on the social networks.
+[18:52.080 --> 18:54.680]  She waved her hand until the train was out of sight.
+[18:57.120 --> 19:05.360]  She waved her hand until the train was out of sight.
+[19:17.540 --> 19:20.640]  In a way, you are right, but I still have doubts.
+[19:27.140 --> 19:30.580]  In a way, you are right, but I still have doubts.
+[19:37.560 --> 19:40.200]  In a way, you are right, but I still have doubts.
+[19:43.680 --> 19:46.000]  That's the computer on which he writes his articles.
+[19:52.680 --> 19:55.720]  That's the computer on which he writes his articles.
+[20:07.020 --> 20:09.740]  He said he did not know the man, which was a lie.
+[20:11.380 --> 20:13.780]  He said he did not know the man, which was a lie.
+[20:15.520 --> 20:18.700]  He said he did not know the man, which was a lie.
+[20:25.040 --> 20:27.800]  He said he did not know the man, which was a lie.
+[20:30.980 --> 20:33.460]  English is not easy, but it is interesting.
+[20:35.560 --> 20:43.400]  English is not easy, but it is interesting.
+[20:48.700 --> 20:51.160]  English is not easy, but it is interesting.
+[20:54.500 --> 20:56.220]  I don't like the way you laugh at her.
+[21:03.080 --> 21:05.600]  I don't like the way you laugh at her.
+[21:10.080 --> 21:11.800]  I don't like the way you laugh at her.
+[21:15.760 --> 21:17.960]  He is not as intelligent as his older brother.
+[21:23.920 --> 21:26.840]  He is not as intelligent as his older brother.
+[21:32.020 --> 21:34.220]  He is not as intelligent as his older brother.
+[21:37.540 --> 21:40.420]  It took me a little more time than usual to fall asleep.
+[21:47.580 --> 21:56.220]  It took me a little more time than usual to fall asleep.
+[21:56.960 --> 21:59.840]  It took me a little more time than usual to fall asleep.
+[22:03.440 --> 22:05.320]  Are you aware of how much she loved you?
+[22:11.420 --> 22:14.220]  Are you aware of how much she loves you?
+[22:18.240 --> 22:20.580]  Are you aware of how much she loved you?
+[22:24.080 --> 22:26.180]  My room is three times as large as yours.
+[22:32.940 --> 22:35.900]  My room is three times as large as yours.
+[22:40.340 --> 22:42.420]  My room is three times as large as yours.
+[22:46.220 --> 22:48.460]  Our eyes take time to adjust to the dark.
+[22:54.320 --> 22:57.060]  Our eyes take time to adjust to the dark.
+[23:02.560 --> 23:04.840]  Our eyes take time to adjust to the dark.
+[23:07.980 --> 23:10.000]  You had better take an umbrella with you today.
+[23:15.400 --> 23:18.140]  You had better take an umbrella with you today.
+[23:27.760 --> 23:30.760]  This space race was an exciting time in history.
+[23:32.700 --> 23:35.320]  This space race was an exciting time in history.
+[23:46.120 --> 23:49.020]  This space race was an exciting time in history.
+[23:52.080 --> 23:54.780]  I always rely on him in times of trouble.
+[24:04.100 --> 24:10.420]  I always rely on him in times of trouble.
+[24:13.020 --> 24:15.980]  If he studied hard, he would pass the test.
+[24:17.840 --> 24:20.520]  If he studied hard, he would pass the test.
+[24:26.760 --> 24:34.180]  If he studied hard, he would pass the test.
+[24:37.360 --> 24:40.240]  You can get from Washington to New York by train.
+[24:47.600 --> 24:51.380]  You can get from Washington to New York by train.
+[24:52.140 --> 24:59.460]  You can get from Washington to New York by train.
+[25:03.460 --> 25:05.840]  Thanks very much for having me to dinner the other night.
+[25:12.140 --> 25:15.720]  Thanks very much for having me to dinner the other night.
+[25:25.540 --> 25:28.080]  It is fine tomorrow. We'll go on a picnic.
+[25:35.220 --> 25:38.120]  If it is fine tomorrow, we'll go on a picnic.
+[25:43.760 --> 25:46.020]  It is fine tomorrow. We'll go on a picnic.
+[25:49.840 --> 25:52.320]  Take off your hat when you enter a house of worship.
+[25:59.440 --> 26:02.180]  Take your hat off when you enter a house of worship.
+[26:08.580 --> 26:11.140]  Take off your hat when you enter a house of worship.
+[26:14.840 --> 26:16.840]  Is this ladder strong enough to bear my weight?
+[26:22.200 --> 26:25.420]  Is this ladder strong enough to bear my weight?
+[26:31.560 --> 26:33.640]  Is this ladder strong enough to bear my weight?
+[26:36.700 --> 26:39.020]  One million people lost their lives in the war.
+[26:46.560 --> 26:49.760]  One million people lost their lives in the war.
+[26:55.160 --> 26:57.660]  One million people lost their lives in the war.
+[27:01.680 --> 27:04.680]  I had hoped that my mother would live until I got married.
+[27:14.000 --> 27:17.440]  I had hoped that my mother would live until I got married.
+[27:23.980 --> 27:26.880]  I had hoped that my mother would live until I got married.
+[27:31.540 --> 27:33.440]  You have to get this work finished by noon.
+[27:35.920 --> 27:37.820]  You have to get this work finished by noon.
+[27:48.840 --> 27:50.760]  You have to get this work finished by noon.
+[27:54.480 --> 27:56.860]  The doctor told her that she should take a rest.
+[28:03.060 --> 28:06.340]  The doctor told her that she should take a rest.
+[28:10.760 --> 28:13.020]  The doctor told her that she should take a rest.
+[28:16.760 --> 28:19.040]  If you buy me an ice cream, I'll give you a kiss.
+[28:26.220 --> 28:29.620]  If you buy me an ice cream, I'll give you a kiss.
+[28:31.040 --> 28:34.980]  If you buy me an ice cream, I'll give you a kiss.
+[28:42.160 --> 28:44.140]  You are free to do as you please with your money.
+[28:52.840 --> 28:55.680]  You are free to do as you please with your money.
+[29:07.530 --> 29:10.390]  The young man put out his hand and I shook it.
+[29:12.270 --> 29:16.250]  The young man put out his hand and I shook it.
+[29:25.490 --> 29:28.130]  The young man put out his hand and I shook it.
+[29:31.510 --> 29:33.170]  He is going to drive you to the airport.
+[29:39.330 --> 29:45.430]  He is going to drive you to the airport.
+[29:46.170 --> 29:48.010]  He is going to drive you to the airport.
+[29:51.530 --> 29:54.190]  A doctor told me that eating eggs was bad for me.
+
+Transcription speed: 2.33 audio seconds/s
+

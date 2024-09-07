@@ -1,0 +1,272 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（中級篇）_slices\高效練耳朵英語聽力（中級篇）_001.mp3
+
+[00:04.270 --> 00:04.790]  他长大了会成为一名医生。
+[00:04.790 --> 00:06.730]  He is going to be a doctor when he grows up.
+[00:10.170 --> 00:12.470]  They awarded her first prize at the flower show.
+[00:14.410 --> 00:22.490]  They awarded her first prize at the flower show.
+[00:26.930 --> 00:27.450]  他们在画展上授予了她一等奖。
+[00:27.450 --> 00:30.210]  They awarded her first prize at the flower show.
+[00:33.510 --> 00:35.910]  The end does not always justify the means.
+[00:38.510 --> 00:47.190]  The end does not always justify the means.
+[00:52.410 --> 00:53.690]  为了正当目的,并非总是可以不择手段。
+[00:53.690 --> 00:55.990]  The end does not always justify the means.
+[00:59.970 --> 01:02.390]  He couldn't stand the bitterness of the coffee.
+[01:04.770 --> 01:07.190]  He couldn't stand the bitterness of the coffee.
+[01:09.610 --> 01:12.750]  He couldn't stand the bitterness of the coffee.
+[01:22.350 --> 01:25.330]  I knocked on the door, but nobody answered.
+[01:27.170 --> 01:34.210]  I knocked on the door, but nobody answered.
+[01:38.370 --> 01:39.250]  我敲门,但是没有人回应。
+[01:39.250 --> 01:41.410]  I knocked on the door, but nobody answered.
+[01:44.830 --> 01:47.550]  Judging from the look of the sky, it may rain this afternoon.
+[01:49.770 --> 01:52.550]  Judging from the look of the sky, it may rain this afternoon.
+[01:54.970 --> 01:58.670]  Judging from the look of the sky, it may rain this afternoon.
+[02:01.930 --> 02:05.170]  从天色上判断,今天下午,可能会下雨。
+[02:05.170 --> 02:08.090]  Judging from the look of the sky, it may rain this afternoon.
+[02:11.550 --> 02:13.990]  The prices are double what they were two years ago.
+[02:16.130 --> 02:18.730]  The prices are double what they were two years ago.
+[02:20.850 --> 02:24.090]  The prices are double what they were two years ago.
+[02:25.170 --> 02:30.650]  The prices are double what they were two years ago.
+[02:34.350 --> 02:37.230]  After a couple drinks, the guy was feeling no pain.
+[02:39.430 --> 02:42.350]  After a couple drinks, the guy was feeling no pain.
+[02:44.670 --> 02:48.170]  After a couple of drinks, the guy was feeling no pain.
+[02:53.190 --> 02:54.310]  喝了几杯酒后,这个家伙就感觉不痛了。
+[02:54.310 --> 02:57.210]  After a couple drinks, the guy was feeling no pain.
+[03:00.850 --> 03:03.150]  You must be at the station by 5 o'clock.
+[03:09.270 --> 03:12.310]  You must be at the station by 5 o'clock.
+[03:12.890 --> 03:13.330]  You must be at the station by 5 o'clock.
+[03:16.230 --> 03:17.110]  五点以前,你必须在车站。
+[03:17.110 --> 03:19.150]  You must be at the station by 5 o'clock.
+[03:22.650 --> 03:24.590]  This is the house I lived in when I was young.
+[03:26.770 --> 03:28.630]  This is the house I lived in when I was young.
+[03:30.870 --> 03:33.330]  This is the house I lived in when I was young.
+[03:37.510 --> 03:37.870]  这是我年轻时候住的房子。
+[03:37.870 --> 03:40.030]  This is the house I lived in when I was young.
+[03:43.590 --> 03:46.070]  A rabbit has long ears and a short tail.
+[03:47.870 --> 03:52.070]  A rabbit has long ears and a short tail.
+[04:00.150 --> 04:00.670]  兔子长着长耳朵和短尾巴。
+[04:00.670 --> 04:03.270]  A rabbit has long ears and a short tail.
+[04:06.470 --> 04:08.950]  He should apologize for being rude to the guests.
+[04:16.210 --> 04:19.650]  He should apologize for being rude to the guests.
+[04:20.390 --> 04:21.030]  He should apologize for being rude to the guests.
+[04:24.890 --> 04:25.210]  他应该为自己对客人的粗魯无礼而道歉。
+[04:25.630 --> 04:28.230]  He should apologize for being rude to the guests.
+[04:31.970 --> 04:34.330]  I remember my mother teaching me the alphabet.
+[04:41.090 --> 04:44.150]  I remember my mother teaching me the alphabet.
+[04:45.690 --> 04:46.330]  I remember my mother teaching me the alphabet.
+[04:48.730 --> 04:49.370]  我记得我母亲教我认字。
+[04:49.370 --> 04:51.430]  I remember my mother teaching me the alphabet.
+[04:55.510 --> 04:56.990]  There are not many books on these shelves.
+[05:02.250 --> 05:05.110]  There are not many books on these shelves.
+[05:09.430 --> 05:09.950]  这些书架上没有很多书。
+[05:09.950 --> 05:11.650]  There are not many books on these shelves.
+[05:14.710 --> 05:16.990]  A blast of cold air swept through the house.
+[05:19.330 --> 05:23.670]  A blast of cold air swept through the house.
+[05:24.550 --> 05:27.330]  A blast of cold air swept through the house.
+[05:31.670 --> 05:34.350]  A blast of cold air swept through the house.
+[05:38.270 --> 05:40.570]  After you read it, give the book back to me.
+[05:42.850 --> 05:45.150]  After you read it, give the book back to me.
+[05:47.510 --> 05:50.710]  After you have read it, give the book back to me.
+[05:54.690 --> 05:55.570]  在你读完后,把书还给我。
+[05:55.570 --> 05:57.890]  After you read it, give the book back to me.
+[06:01.430 --> 06:03.330]  Her house is at the foot of a mountain.
+[06:05.230 --> 06:07.210]  Her house is at the foot of a mountain.
+[06:09.750 --> 06:11.930]  Her house is at the foot of a mountain.
+[06:16.270 --> 06:16.810]  她家在一座山德山角下。
+[06:17.180 --> 06:18.890]  Her house is at the foot of a mountain.
+[06:22.390 --> 06:25.590]  Nobody understood why the elephant suddenly turned on its owner.
+[06:28.090 --> 06:31.030]  Nobody understood why the elephant suddenly turned on its owner.
+[06:33.390 --> 06:34.110]  没有人明白为什么大象突然攻击了他的主人。
+[06:34.110 --> 06:37.470]  Nobody understood why the elephant suddenly turned on its owner.
+[06:43.450 --> 06:44.170]  没有人明白为什么大象突然攻击了他的主人。
+[06:44.170 --> 06:47.490]  Nobody understood why the elephant suddenly turned on its owner.
+[06:50.930 --> 06:53.490]  I have to take my medicine every six hours.
+[06:55.290 --> 06:57.850]  I have to take my medicine every six hours.
+[06:59.770 --> 07:01.010]  I have to take my medicine every six hours.
+[07:01.010 --> 07:02.990]  I have to take my medicine every six hours.
+[07:06.950 --> 07:07.390]  我每六小时要服一次药。
+[07:07.390 --> 07:09.710]  I have to take my medicine every six hours.
+[07:13.230 --> 07:15.290]  How long does it take to walk to the station?
+[07:17.350 --> 07:19.410]  How long does it take to walk to the station?
+[07:21.870 --> 07:24.050]  How long does it take to walk to the station?
+[07:27.210 --> 07:27.650]  走着去火车站要多久?
+[07:28.270 --> 07:30.390]  How long does it take to walk to the station?
+[07:33.910 --> 07:36.190]  You're the one who decided to do this job, right?
+[07:43.490 --> 07:46.890]  You're the one who decided to do this job, right?
+[07:48.270 --> 07:48.370]  You're the one who decided to do this job, right?
+[07:50.950 --> 07:51.910]  你是决定做这个工作的那个人,对吗?
+[07:52.750 --> 07:54.850]  You're the one who decided to do this job, right?
+[07:58.670 --> 08:05.590]  You will soon get accustomed to your new school.
+[08:07.690 --> 08:10.710]  You will soon get accustomed to your new school.
+[08:11.470 --> 08:11.810]  You will soon get accustomed to your new school.
+[08:14.990 --> 08:15.550]  你很快就会适应你的新学校。
+[08:15.550 --> 08:17.730]  You will soon get accustomed to your new school.
+[08:21.150 --> 08:23.710]  Between you and me, I think our boss is stupid.
+[08:30.510 --> 08:33.930]  Between you and me, I think our boss is stupid.
+[08:40.090 --> 08:41.090]  我觉得我们老板很蠢,这我就只跟你说。
+[08:41.090 --> 08:43.570]  Between you and me, I think our boss is stupid.
+[08:46.950 --> 08:49.210]  His death was a great loss to our firm.
+[08:51.190 --> 08:53.150]  His death was a great loss to our firm.
+[08:54.870 --> 08:57.610]  His death was a great loss to our firm.
+[09:03.270 --> 09:03.870]  他的死对我们公司是一个巨大的损失。
+[09:03.870 --> 09:06.030]  His death was a great loss to our firm.
+[09:09.110 --> 09:12.230]  You've both been very impressive today. I'm proud of you.
+[09:19.510 --> 09:23.130]  You've both been very impressive today. I'm proud of you.
+[09:28.790 --> 09:29.310]  今天你们俩给人留下了很深的印象。
+[09:31.250 --> 09:31.770]  我为你们感到骄傲。
+[09:31.770 --> 09:34.970]  You've both been very impressive today. I'm proud of you.
+[09:38.450 --> 09:41.790]  I'm not a university student, but I'm brighter than them.
+[09:43.610 --> 09:46.950]  I'm not a university student, but I'm brighter than them.
+[09:48.910 --> 09:52.310]  I'm not a university student, but I'm brighter than them.
+[09:57.450 --> 09:58.490]  我不是一个大学生,但我比他们更聪明。
+[09:58.910 --> 10:02.010]  I'm not a university student, but I'm brighter than them.
+[10:05.630 --> 10:07.770]  Having lived in Tokyo, I know the city well.
+[10:09.390 --> 10:11.930]  Having lived in Tokyo, I know the city well.
+[10:13.910 --> 10:16.870]  Having lived in Tokyo, I know the city well.
+[10:23.330 --> 10:25.750]  Having lived in Tokyo, I know the city well.
+[10:28.830 --> 10:30.850]  I waited in the park for a long time.
+[10:33.450 --> 10:35.290]  I waited in the park for a long time.
+[10:37.830 --> 10:40.530]  We waited in the park for a long time.
+[10:44.930 --> 10:45.370]  我们在公园等了好久。
+[10:45.370 --> 10:47.170]  I waited in the park for a long time.
+[10:51.030 --> 10:53.570]  It's next to impossible to finish it in a day.
+[11:00.370 --> 11:03.710]  It's next to impossible to finish it in a day.
+[11:04.970 --> 11:05.350]  It's next to impossible to finish it in a day.
+[11:08.970 --> 11:09.490]  在一天之内完成它几乎是不可能的。
+[11:09.490 --> 11:12.210]  It's next to impossible to finish it in a day.
+[11:26.090 --> 11:29.210]  He looked for every possible means of escape.
+[11:29.210 --> 11:29.330]  He looked for every possible means of escape.
+[11:30.190 --> 11:30.870]  He looked for every possible means of escape.
+[11:33.450 --> 11:34.130]  他寻找一切可能的逃生途径。
+[11:34.130 --> 11:36.730]  He looked for every possible means of escape.
+[11:41.110 --> 11:43.310]  It took us half an hour to set up the tent.
+[11:45.150 --> 11:48.510]  It took us half an hour to set up the tent.
+[11:49.210 --> 11:51.750]  It took us half an hour to set up the tent.
+[11:56.330 --> 11:56.750]  大帐篷花了我们半小时。
+[11:56.750 --> 11:58.830]  It took us half an hour to set up the tent.
+[12:01.850 --> 12:05.270]  I have two dogs, one is white and the other is black.
+[12:06.870 --> 12:10.250]  I have two dogs, one is white and the other is black.
+[12:12.430 --> 12:15.990]  I have two dogs, one is white and the other black.
+[12:20.050 --> 12:22.830]  我有两条狗,一条是白色的,另一条是黑色的。
+[12:24.030 --> 12:27.430]  I have two dogs. One is white and the other is black.
+[12:30.550 --> 12:32.810]  My cell phone has a built-in digital camera.
+[12:40.070 --> 12:43.370]  My cell phone has a built-in digital camera.
+[12:48.150 --> 12:50.670]  My cell phone has a built-in digital camera.
+[12:54.350 --> 12:57.150]  My husband reads the newspaper while eating breakfast.
+[13:05.010 --> 13:08.610]  My husband reads the newspaper while eating breakfast.
+[13:13.750 --> 13:16.330]  My husband reads the newspaper while eating breakfast.
+[13:20.330 --> 13:22.850]  I live near the sea, so I often go to the beach.
+[13:29.670 --> 13:38.250]  I live near the sea, so I often go to the beach.
+[13:45.210 --> 13:48.410]  My wife's part-time job brings in a little extra money.
+[13:54.870 --> 13:58.850]  My wife's part-time job brings in a little extra money.
+[14:04.950 --> 14:07.950]  My wife's part-time job brings in a little extra money.
+[14:11.550 --> 14:13.530]  I vowed that I would never speak to her again.
+[14:22.850 --> 14:26.050]  I vowed that I would never speak to her again.
+[14:31.010 --> 14:33.370]  I vowed that I would never speak to her again.
+[14:38.140 --> 14:40.780]  The teacher lined the children up in order of height.
+[14:47.400 --> 14:51.120]  The teacher lined the children up in order of height.
+[14:52.920 --> 14:59.580]  The teacher lined the children up in order of height.
+[15:02.780 --> 15:05.940]  The train for Birmingham leaves from Platform 3.
+[15:07.320 --> 15:15.600]  The train for Birmingham leaves from Platform 3.
+[15:20.500 --> 15:24.120]  The train for Birmingham leaves from Platform 3.
+[15:27.000 --> 15:38.320]  It took her a long time to choose a hat.
+[15:47.140 --> 15:50.740]  He is as smart as any other boy in the class.
+[15:57.760 --> 16:00.840]  He is as smart as any other boy in the class.
+[16:06.480 --> 16:08.800]  He is as smart as any other boy in the class.
+[16:12.640 --> 16:14.980]  I agree with what you say to some extent.
+[16:21.280 --> 16:24.340]  I agree with what you say to some extent.
+[16:35.620 --> 16:48.240]  As soon as she wakes up, we'll turn on the music.
+[16:52.780 --> 16:55.080]  As soon as she wakes up, we'll turn on the music.
+[16:58.820 --> 17:01.160]  The fish he caught yesterday is still alive.
+[17:07.020 --> 17:10.240]  The fish he caught yesterday is still alive.
+[17:20.880 --> 17:23.880]  If I'd known the truth, I'd have told you.
+[17:25.680 --> 17:28.520]  If I'd known the truth, I'd have told you.
+[17:35.100 --> 17:42.160]  If I'd known the truth, I'd have told you.
+[17:45.460 --> 17:47.640]  It is easy to make a monkey climb a tree.
+[17:53.720 --> 17:56.580]  It is easy for a monkey to climb a tree.
+[18:01.960 --> 18:04.140]  It is easy to make a monkey climb a tree.
+[18:07.960 --> 18:09.880]  I don't feel very well. I should go home.
+[18:16.240 --> 18:19.320]  I don't feel very well. I should go home.
+[18:24.020 --> 18:26.840]  I don't feel very well. I should go home.
+[18:30.140 --> 18:32.560]  Were you able to do everything you wanted to get done?
+[18:38.780 --> 18:42.120]  Were you able to do everything you wanted to get done?
+[18:47.100 --> 18:49.600]  Were you able to do everything you wanted to get done?
+[18:52.920 --> 18:55.600]  One good friend is better than ten relatives.
+[19:04.340 --> 19:07.120]  One good friend is better than ten relatives.
+[19:12.240 --> 19:14.980]  One good friend is better than ten relatives.
+[19:19.200 --> 19:21.740]  I couldn't prevent Tom from eating all the cookies.
+[19:28.740 --> 19:31.980]  I couldn't prevent Tom from eating all the cookies.
+[19:38.060 --> 19:40.520]  I couldn't prevent Tom from eating all the cookies.
+[19:44.540 --> 19:46.400]  I have to sing at an old folks home today.
+[19:52.640 --> 19:55.760]  We have to sing at an old folks home today.
+[20:04.480 --> 20:17.940]  We are looking forward to seeing you and your family.
+[20:18.860 --> 20:23.120]  We are looking forward to seeing you and your family.
+[20:24.040 --> 20:26.140]  We are looking forward to seeing you and your family.
+[20:29.720 --> 20:32.900]  What do you want to be when you grow up?
+[20:43.800 --> 20:45.440]  What do you want to be when you grow up?
+[20:56.380 --> 20:59.580]  I would like to retract my previous statement.
+[21:03.820 --> 21:06.200]  I would like to retract my previous statement.
+[21:17.340 --> 21:20.900]  She spends a lot of time practicing the piano.
+[21:25.480 --> 21:27.920]  She spends a lot of time practicing the piano.
+[21:38.980 --> 21:44.880]  The boss has a good opinion of your work.
+[21:50.960 --> 22:04.300]  Their trip was postponed because of the rain.
+[22:09.840 --> 22:11.980]  Their trip was postponed because of the rain.
+[22:15.880 --> 22:19.100]  The fire broke out after the staff went home.
+[22:19.100 --> 22:26.680]  The fire broke out after the staff went home.
+[22:32.640 --> 22:35.120]  The fire broke out after the staff went home.
+[22:38.180 --> 22:40.860]  I told you not to talk about the matter in her presence.
+[22:43.700 --> 22:46.480]  I told you not to talk about the matter in her presence.
+[22:49.400 --> 22:53.060]  I told you not to talk about the matter in her presence.
+[22:59.240 --> 23:01.940]  I told you not to talk about the matter in her presence.
+[23:06.280 --> 23:09.260]  My grandfather sometimes talks to himself when he is alone.
+[23:11.640 --> 23:14.840]  My grandfather sometimes talks to himself when he is alone.
+[23:17.340 --> 23:22.860]  My grandfather sometimes talks to himself when he is alone.
+[23:34.120 --> 23:46.180]  He picked up a mirror and examined his tongue.
+[23:51.680 --> 23:53.980]  He picked up a mirror and examined his tongue.
+[23:57.260 --> 23:59.120]  Can you put up with the way he behaves?
+[24:12.900 --> 24:14.740]  Can you put up with the way he behaves?
+[24:26.920 --> 24:30.660]  It was raining heavily when I got up this morning.
+[24:31.340 --> 24:38.540]  It was raining heavily when I got up this morning.
+[24:50.280 --> 24:52.660]  I'll come and see you one of these days.
+[24:58.200 --> 24:59.860]  I'll come and see you one of these days.
+[25:11.920 --> 25:15.140]  He was moved to tears when he heard the news.
+[25:21.220 --> 25:23.580]  He was moved to tears when he heard the news.
+[25:27.020 --> 25:30.220]  Water is liquid. When it freezes, it becomes solid.
+[25:36.920 --> 25:46.600]  Water is liquid. When it freezes, it becomes solid.
+[25:53.520 --> 26:06.980]  You have changed so much that I can hardly recognize you.
+[26:07.860 --> 26:16.120]  You have changed so much that I can hardly recognize you.
+[26:19.180 --> 26:22.640]  Hey, I may have no money, but I still have my pride.
+[26:25.360 --> 26:28.680]  Hey, I may have no money, but I still have my pride.
+[26:31.460 --> 26:35.560]  Hey, I may have no money, but I still have my pride.
+[26:36.260 --> 26:40.600]  Hey, I may have no money, but I still have my pride.
+[26:48.700 --> 26:51.280]  It is necessary for you to go there immediately.
+[26:58.020 --> 27:01.420]  It is necessary for you to go there immediately.
+[27:11.040 --> 27:13.360]  I'd like to ask you a few more questions.
+[27:16.240 --> 27:17.880]  I'd like to ask you a few more questions.
+[27:27.860 --> 27:29.460]  I'd like to ask you a few more questions.
+[27:33.500 --> 27:36.460]  The accident seemed to have something to do with the heavy snow.
+[27:43.580 --> 27:55.620]  The accident seemed to have something to do with the heavy snow.
+[28:09.160 --> 28:12.780]  I hate when other people make me wait a long time.
+[28:16.580 --> 28:19.820]  I hate when other people make me wait a long time.
+[28:23.460 --> 28:29.860]  The rivers were flooded by the heavy rain.
+[28:39.400 --> 28:41.620]  The rivers were flooded by the heavy rain.
+[28:44.500 --> 28:47.920]  This assignment took me longer than I had expected.
+[28:54.340 --> 28:58.120]  The assignment took me longer than I had expected.
+[29:06.260 --> 29:13.560]  Does he go to school on foot or by bicycle?
+[29:16.340 --> 29:18.800]  Does he go to school on foot or by bicycle?
+[29:21.740 --> 29:24.600]  Does he go to school on foot or by bicycle?
+[29:36.800 --> 29:39.120]  I would like to have a look at your collection of stamps.
+[29:43.920 --> 29:48.060]  I would like to have a look at your collection of stamps.
+[29:53.200 --> 29:55.460]  I would like to have a look at your collection of stamps.
+[29:58.500 --> 29:59.940]  Will you listen to me for a few minutes?
+
+Transcription speed: 2.28 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 805 seconds
+

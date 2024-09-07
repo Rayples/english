@@ -1,0 +1,285 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初級篇）_slices\高效練耳朵英語聽力（初級篇）_003.mp3
+
+[00:00.000 --> 00:03.080]  She has been absent from school for five days.
+[00:06.740 --> 00:08.900]  My wife is preparing dinner right now.
+[00:10.680 --> 00:14.980]  My wife is preparing dinner right now.
+[00:15.320 --> 00:17.480]  My wife is preparing dinner right now.
+[00:20.640 --> 00:21.320]  我妻子正在准备晚饭.
+[00:22.220 --> 00:24.820]  My wife is preparing dinner right now.
+[00:27.860 --> 00:29.440]  I love this picture.
+[00:31.580 --> 00:33.120]  I love this picture.
+[00:35.840 --> 00:37.100]  I love this picture.
+[00:40.180 --> 00:40.900]  我喜欢这张照片.
+[00:42.020 --> 00:43.660]  I love this picture.
+[00:47.060 --> 00:48.820]  Bread is made from wheat.
+[00:51.160 --> 00:52.480]  Bread is made from wheat.
+[00:54.720 --> 00:56.600]  Bread is made from wheat.
+[01:00.320 --> 01:01.000]  面包是用小麦做成的.
+[01:02.040 --> 01:03.920]  Bread is made from wheat.
+[01:07.360 --> 01:08.400]  He has got a good camera.
+[01:10.360 --> 01:11.640]  He has got a good camera.
+[01:13.760 --> 01:15.700]  He has got a good camera.
+[01:19.600 --> 01:20.460]  他有一个很好的照相机.
+[01:28.120 --> 01:30.160]  They are not interested in saving money.
+[01:31.780 --> 01:35.600]  They are not interested in saving money.
+[01:37.100 --> 01:39.360]  They are not interested in saving money.
+[01:42.460 --> 01:43.320]  他们对存钱不感兴趣.
+[01:44.400 --> 01:47.440]  They are not interested in saving money.
+[01:50.280 --> 01:52.240]  This is an automatic door.
+[01:57.400 --> 01:59.840]  This is an automatic door.
+[02:00.740 --> 02:06.980]  This is an automatic door.
+[02:09.900 --> 02:11.860]  All of my friends like soccer.
+[02:13.680 --> 02:15.560]  All of my friends like soccer.
+[02:17.460 --> 02:19.740]  All of my friends like soccer.
+[02:23.640 --> 02:24.020]  我所有的朋友都喜欢足球.
+[02:25.220 --> 02:27.420]  All of my friends like soccer.
+[02:30.680 --> 02:32.300]  I'll give you a prescription.
+[02:34.080 --> 02:35.440]  I'll give you a prescription.
+[02:37.460 --> 02:38.960]  I'll give you a prescription.
+[02:41.480 --> 02:42.500]  我会给你开个药方.
+[02:43.340 --> 02:45.140]  I'll give you a prescription.
+[02:47.920 --> 02:50.060]  She rejected my proposal.
+[02:52.200 --> 02:53.840]  She rejected my proposal.
+[02:56.520 --> 02:58.160]  She rejected my proposal.
+[03:01.420 --> 03:02.440]  他拒绝了我的建议.
+[03:03.920 --> 03:05.600]  She rejected my proposal.
+[03:08.960 --> 03:11.440]  What is the difference between A and B?
+[03:18.000 --> 03:21.040]  What is the difference between A and B?
+[03:25.940 --> 03:29.480]  What is the difference between A and B?
+[03:32.600 --> 03:34.020]  I'm tired of reading.
+[03:43.280 --> 03:44.000]  我厌倦了阅读.
+[03:44.420 --> 03:46.360]  I am tired of reading.
+[03:49.660 --> 03:51.440]  That shop has many customers.
+[03:53.440 --> 03:55.120]  That shop has many customers.
+[04:05.320 --> 04:07.160]  That shop has many customers.
+[04:14.400 --> 04:17.020]  He returned from Holland in June.
+[04:18.560 --> 04:21.060]  He returned from Holland in June.
+[04:21.720 --> 04:22.340]  He returned from Holland in June.
+[04:24.660 --> 04:25.420]  他六月份从荷兰回来了.
+[04:25.980 --> 04:28.460]  He returned from Holland in June.
+[04:30.700 --> 04:33.580]  Do it right now before you forget.
+[04:35.640 --> 04:37.840]  Do it right now before you forget.
+[04:40.020 --> 04:43.660]  Do it right now before you forget.
+[04:46.240 --> 04:47.520]  趁你还没忘记,现在就去做.
+[04:48.320 --> 04:51.000]  Do it right now before you forget.
+[04:54.380 --> 04:55.820]  I don't like this watch.
+[04:58.000 --> 04:59.060]  I don't like this watch.
+[05:00.860 --> 05:02.740]  I don't like this watch.
+[05:05.240 --> 05:05.980]  我不喜欢这块表.
+[05:07.520 --> 05:09.240]  I don't like this watch.
+[05:12.160 --> 05:14.000]  There are five pencils here.
+[05:16.400 --> 05:17.920]  There are five pencils here.
+[05:20.640 --> 05:22.340]  There are five pencils here.
+[05:25.400 --> 05:26.140]  这里有五支签笔.
+[05:27.000 --> 05:29.140]  There are five pencils here.
+[05:32.660 --> 05:34.560]  I'd like to see you again next week.
+[05:36.360 --> 05:38.340]  I'd like to see you again next week.
+[05:40.620 --> 05:42.880]  I'd like to see you again next week.
+[05:45.900 --> 05:46.480]  我想下周再见到你.
+[05:47.660 --> 05:50.340]  I'd like to see you again next week.
+[05:53.420 --> 05:54.540]  I'm not a student.
+[05:56.620 --> 05:57.680]  I'm not a student.
+[06:00.280 --> 06:01.300]  I'm not a student.
+[06:03.340 --> 06:03.900]  我不是学生.
+[06:04.940 --> 06:06.280]  I'm not a student.
+[06:09.140 --> 06:10.760]  I don't know French.
+[06:13.340 --> 06:14.320]  I don't know French.
+[06:16.440 --> 06:18.320]  I don't know French.
+[06:20.280 --> 06:21.040]  我不懂法语.
+[06:22.020 --> 06:23.400]  I don't know French.
+[06:26.420 --> 06:28.140]  Is it hard to speak English?
+[06:30.320 --> 06:31.560]  Is it hard to speak English?
+[06:33.700 --> 06:35.780]  Is it hard to speak English?
+[06:38.440 --> 06:39.200]  说英语很难吗?
+[06:40.240 --> 06:42.560]  Is it hard to speak English?
+[06:45.660 --> 06:47.760]  She has a daughter who is a pianist.
+[06:55.610 --> 06:58.430]  She has a daughter who is a pianist.
+[06:59.230 --> 06:59.390]  She has a daughter who is a pianist.
+[07:01.650 --> 07:02.290]  她有一个钢琴家女儿.
+[07:03.630 --> 07:06.450]  She has a daughter who is a pianist.
+[07:09.230 --> 07:11.370]  My father insisted that we should go.
+[07:17.410 --> 07:19.950]  My father insisted that we should go.
+[07:20.990 --> 07:21.370]  My father insisted that we should go.
+[07:23.530 --> 07:24.170]  我父亲坚持要我们去.
+[07:25.090 --> 07:27.470]  My father insisted that we should go.
+[07:30.570 --> 07:31.810]  Where should we go?
+[07:34.070 --> 07:35.150]  Where should we go?
+[07:41.350 --> 07:42.110]  我们应该去哪里?
+[07:43.170 --> 07:44.050]  Where should we go?
+[07:47.330 --> 07:50.250]  He feels very happy.
+[07:50.770 --> 07:55.510]  He feels very happy.
+[07:56.790 --> 07:56.990]  He feels very happy.
+[07:58.050 --> 07:58.810]  他感到非常高兴.
+[07:59.630 --> 08:01.270]  He feels very happy.
+[08:04.190 --> 08:06.330]  I am 16 years old.
+[08:11.130 --> 08:13.470]  I am 16 years old.
+[08:14.190 --> 08:14.670]  I am 16 years old.
+[08:15.110 --> 08:15.990]  我16岁了.
+[08:16.970 --> 08:19.310]  I am 16 years old.
+[08:22.030 --> 08:23.530]  It's not my fault.
+[08:25.750 --> 08:26.610]  It's not my fault.
+[08:28.210 --> 08:30.090]  It's not my fault.
+[08:32.090 --> 08:33.010]  这不是我的错.
+[08:33.810 --> 08:35.410]  It's not my fault.
+[08:38.530 --> 08:39.530]  May I help you?
+[08:41.430 --> 08:42.470]  May I help you?
+[08:47.950 --> 08:48.870]  我能为您效劳吗?
+[08:49.830 --> 08:51.110]  May I help you?
+[08:54.350 --> 08:55.630]  I can't do it.
+[08:59.750 --> 09:01.510]  I can't do it.
+[09:02.550 --> 09:02.810]  I can't do it.
+[09:04.130 --> 09:04.730]  我无法做到这一点.
+[09:05.790 --> 09:07.490]  I can't do it.
+[09:10.850 --> 09:12.710]  By the way, where are you from?
+[09:15.510 --> 09:17.290]  By the way, where are you from?
+[09:19.870 --> 09:22.190]  By the way, where are you from?
+[09:28.370 --> 09:30.690]  By the way, where are you from?
+[09:33.930 --> 09:35.230]  Come again tomorrow.
+[09:37.670 --> 09:38.950]  Come again tomorrow.
+[09:41.830 --> 09:42.710]  Come again tomorrow.
+[09:42.710 --> 09:57.390]  Tomorrow, 明天再来. Come again tomorrow. She refused his proposal. She refused his proposal.
+[09:59.250 --> 10:07.850]  She refused his proposal. 她拒绝了他的求婚. She refused his proposal.
+[10:11.130 --> 10:20.050]  You'd better not go. You'd better not go.
+[10:21.330 --> 10:25.690]  You'd better not go. 你最好不要去. You'd better not go.
+[10:28.890 --> 10:34.690]  Sugar dissolves in water. Sugar dissolves in water.
+[10:36.650 --> 10:45.050]  Sugar dissolves in water. Sugar dissolves in water.
+[10:48.210 --> 10:52.950]  What's in the box? What's in the box?
+[11:00.890 --> 11:04.670]  What's in the box? What's in the box?
+[11:05.390 --> 11:21.350]  Would you lend me your pen? Would you lend me your pen? Would you lend me your pen?
+[11:24.450 --> 11:32.490]  The pain was terrible. The pain was terrible.
+[11:40.170 --> 11:44.570]  Who's is this book? Who's is this book?
+[11:46.650 --> 11:54.170]  Who's is this book? Who's is this book?
+[11:58.170 --> 12:05.210]  Tom was sick in bed last Sunday. Tom was sick in bed last Sunday.
+[12:07.810 --> 12:23.690]  Tom was sick in bed last Sunday. Tom likes to play baseball.
+[12:25.270 --> 12:37.910]  Tom likes to play baseball. Tom likes to play baseball.
+[12:40.910 --> 12:52.330]  Do you smoke? Do you smoke? Do you smoke? Do you smoke?
+[12:55.190 --> 13:07.450]  Does someone here speak Japanese? Does someone here speak Japanese?
+[13:08.670 --> 13:16.110]  Does someone here speak Japanese? Does someone here speak Japanese?
+[13:19.470 --> 13:27.450]  He can swim well. He can swim well.
+[13:28.530 --> 13:39.810]  He can swim well. I have many friends in foreign countries.
+[13:45.230 --> 13:48.170]  I have many friends in foreign countries.
+[13:53.190 --> 13:56.190]  I have many friends in foreign countries.
+[13:59.130 --> 14:08.750]  There is no hope of success. There is no hope of success.
+[14:21.370 --> 14:32.690]  We lost the game. We lost the game.
+[14:35.910 --> 14:44.050]  You left your lights on. You left your lights on.
+[14:47.230 --> 14:54.590]  You left your lights on. It took five minutes to get to the station.
+[14:56.410 --> 15:03.570]  It took five minutes to get to the station.
+[15:13.310 --> 15:18.470]  I don't like this sweater. I don't like this sweater.
+[15:20.510 --> 15:34.110]  I don't like this sweater. Where do you want to go?
+[15:35.990 --> 15:40.490]  Where do you want to go? Where do you want to go?
+[15:44.870 --> 15:50.570]  Where do you want to go? I'll do my best.
+[15:54.630 --> 16:01.130]  I'll do my best. I'll do my best.
+[16:03.290 --> 16:12.910]  My uncle gave me a camera. My uncle gave me a camera.
+[16:12.910 --> 16:20.230]  My uncle gave me a camera. My uncle gave me a camera.
+[16:23.150 --> 16:28.130]  It may rain tomorrow. It may rain tomorrow.
+[16:29.910 --> 16:39.430]  It may rain tomorrow. It may rain tomorrow.
+[16:42.170 --> 16:46.850]  My father smokes. My father smokes.
+[16:48.630 --> 16:53.190]  My father smokes. My father smokes.
+[16:59.670 --> 17:07.190]  When does it end? When does it end?
+[17:08.310 --> 17:12.170]  When does it end? When does it end?
+[17:22.470 --> 17:31.490]  I want to learn how to swim. I want to learn how to swim.
+[17:34.810 --> 17:42.990]  She left me a note. She left me a note.
+[17:48.770 --> 17:55.850]  She left me a note. The door is open now.
+[18:01.970 --> 18:09.210]  The door is open now. The door is open now.
+[18:12.170 --> 18:29.090]  He advised her to stop drinking. He advised her to stop drinking.
+[18:32.170 --> 18:38.270]  English is difficult to learn. English is difficult to learn.
+[18:40.270 --> 18:48.410]  English is difficult to learn. English is difficult to learn.
+[18:51.330 --> 18:56.970]  You are absolutely right. You are absolutely right.
+[18:58.990 --> 19:06.570]  You are absolutely right. You are absolutely right.
+[19:09.470 --> 19:11.270]  Did you call your friend in Canada?
+[19:16.310 --> 19:18.430]  Did you call your friend in Canada?
+[19:23.810 --> 19:26.630]  Did you call your friend in Canada?
+[19:29.570 --> 19:39.830]  They greeted me with a smile. They greeted me with a smile.
+[19:45.110 --> 19:47.390]  They greeted me with a smile.
+[19:50.170 --> 19:58.870]  My room faces east. My room faces east.
+[20:02.610 --> 20:08.970]  My room faces east. It's your turn to sing.
+[20:14.370 --> 20:26.410]  It's your turn to sing. The work is now in progress.
+[20:28.430 --> 20:30.230]  The work is now in progress.
+[20:44.190 --> 20:46.310]  I stayed up late last night.
+[20:46.310 --> 20:51.990]  I stayed up late last night.
+[21:01.830 --> 21:05.190]  Everybody loves music.
+[21:06.810 --> 21:15.450]  Everybody loves music.
+[21:20.880 --> 21:22.850]  Do you know when she will come?
+[21:25.190 --> 21:26.490]  Do you know when she will come?
+[21:28.670 --> 21:30.750]  Do you know when she will come?
+[21:40.490 --> 21:42.150]  He began running.
+[21:42.150 --> 21:47.830]  He began running.
+[21:54.230 --> 21:57.630]  I have an earache.
+[21:59.110 --> 22:01.370]  I have an earache.
+[22:03.330 --> 22:05.330]  I have an earache.
+[22:13.010 --> 22:14.970]  Is there a curfew?
+[22:17.010 --> 22:18.250]  Is there a curfew?
+[22:29.330 --> 22:32.070]  I had all my clothes washed by my mother.
+[22:33.790 --> 22:36.090]  I had all my clothes washed by my mother.
+[22:38.330 --> 22:40.870]  I had all my clothes washed by my mother.
+[22:53.390 --> 22:56.890]  You'd better not go there.
+[22:58.690 --> 23:00.190]  You'd better not go there.
+[23:12.530 --> 23:15.170]  He was robbed of all his money.
+[23:29.750 --> 23:32.290]  He was robbed of all his money.
+[23:35.950 --> 23:37.390]  What does she have?
+[23:39.950 --> 23:40.770]  What does she have?
+[23:42.690 --> 23:44.430]  What does she have?
+[23:50.330 --> 23:52.870]  The printer needs paper.
+[23:58.290 --> 24:00.430]  The printer needs paper.
+[24:04.410 --> 24:06.710]  The printer needs paper.
+[24:09.750 --> 24:11.830]  He knocked his knee against the chair.
+[24:17.870 --> 24:20.430]  He knocked his knee against the chair.
+[24:26.010 --> 24:28.810]  He knocked his knee against the chair.
+[24:32.090 --> 24:33.510]  How much is this tie?
+[24:38.950 --> 24:40.590]  How much is this tie?
+[24:44.950 --> 24:46.770]  How much is this tie?
+[24:49.710 --> 24:51.090]  Don't spill the beans.
+[24:56.610 --> 24:58.430]  Don't spill the beans.
+[25:03.730 --> 25:05.690]  Don't spill the beans.
+[25:08.710 --> 25:10.790]  A strong wind was blowing.
+[25:16.130 --> 25:18.430]  A strong wind was blowing.
+[25:21.450 --> 25:24.070]  A strong wind was blowing.
+[25:26.950 --> 25:28.610]  They are all the same.
+[25:33.590 --> 25:35.410]  They are all the same.
+[25:40.730 --> 25:42.350]  They are all the same.
+[25:45.430 --> 25:46.870]  Don't ask me for money.
+[25:52.390 --> 25:53.990]  Don't ask me for money.
+[25:58.570 --> 26:00.370]  Don't ask me for money.
+[26:03.590 --> 26:04.770]  Does this hurt?
+[26:09.630 --> 26:10.930]  Does this hurt?
+[26:10.930 --> 26:12.810]  Does this hurt?
+[26:18.650 --> 26:20.050]  He plays soccer.
+[26:22.150 --> 26:26.530]  He plays soccer.
+[26:29.790 --> 26:31.390]  He plays soccer.
+[26:34.470 --> 26:36.050]  Do you know how to play chess?
+[26:48.550 --> 26:50.570]  Do you know how to play chess?
+[26:53.530 --> 26:55.390]  Read after me.
+[27:00.370 --> 27:01.710]  Read after me.
+[27:07.850 --> 27:10.350]  He is introverted.
+[27:14.890 --> 27:16.950]  He is introverted.
+[27:17.910 --> 27:21.770]  He is introverted.
+[27:24.250 --> 27:27.510]  Which do you prefer, apples or bananas?
+[27:29.530 --> 27:32.510]  Which do you prefer, apples or bananas?
+[27:34.830 --> 27:37.770]  Which do you prefer, apples or bananas?
+[27:43.970 --> 27:47.590]  Which do you prefer, apples or bananas?
+[27:58.130 --> 28:00.630]  We arrived at the office on time.
+[28:05.390 --> 28:09.150]  We arrived at the office on time.
+[28:11.230 --> 28:13.690]  This book isn't worth reading.
+[28:26.370 --> 28:28.810]  This book isn't worth reading.
+[28:31.390 --> 28:33.430]  I need to get some sleep.
+[28:38.470 --> 28:40.610]  I need to get some sleep.
+[28:44.530 --> 28:46.630]  I need to get some sleep.
+[28:49.130 --> 28:50.810]  He stopped the car.
+[28:54.830 --> 28:57.030]  He stopped the car.
+[29:03.950 --> 29:06.610]  Please answer the phone.
+[29:10.710 --> 29:12.590]  Please answer the phone.
+[29:20.970 --> 29:23.210]  You will never realize what I went through.
+[29:42.750 --> 29:44.550]  Keep an eye on the bags.
+[29:50.950 --> 29:52.730]  Keep an eye on the bags.
+
+Transcription speed: 2.84 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 649 seconds
+

@@ -1,0 +1,203 @@
+
+Standalone Faster-Whisper r192.3 running on: CPU
+
+
+Starting work on: E:\音视频处理\高效英语听力\高效練耳朵英語聽力（初中級篇 帶中文音頻）_slices\高效練耳朵英語聽力（初中級篇 帶中文音頻）_005.mp3
+
+[00:02.900 --> 00:06.340]  What must be done if the plan proves unworkable?
+[00:11.740 --> 00:12.820]  如果这个计划证明是行不通的,我们必须做些什么。
+[00:12.820 --> 00:15.540]  What must be done if the plan proves unworkable?
+[00:19.060 --> 00:21.780]  There are more stars in the sky than I can count.
+[00:23.880 --> 00:26.560]  There are more stars in the sky than I can count.
+[00:41.500 --> 00:44.380]  The girl began to cry at the sight of a dog.
+[00:46.440 --> 00:49.100]  The girl began to cry at the sight of a dog.
+[00:50.960 --> 00:54.120]  The girl began to cry at the sight of a dog.
+[01:04.340 --> 01:07.240]  Not all my classmates like the food in the cafeteria.
+[01:19.300 --> 01:23.120]  Not all my classmates like the food in the cafeteria.
+[01:23.120 --> 01:26.100]  Not all my classmates like the food in the cafeteria.
+[01:29.780 --> 01:32.600]  Not all the students were present at the class.
+[01:45.720 --> 01:48.480]  Not all the students were present at the class.
+[01:56.480 --> 02:04.060]  I was bored because I had seen the movie before.
+[02:15.040 --> 02:19.200]  Please pick me up by car in front of the hotel.
+[02:20.200 --> 02:24.580]  Please pick me up by car in front of the hotel.
+[02:24.580 --> 02:27.980]  Please pick me up by car in front of the hotel.
+[02:37.880 --> 02:40.800]  He looked as if he knew all about it.
+[02:42.520 --> 02:45.300]  He looked as if he knew all about it.
+[02:58.840 --> 03:02.400]  This factory can turn out 200 cars a day.
+[03:04.380 --> 03:07.720]  This factory can turn out 200 cars a day.
+[03:09.700 --> 03:13.240]  This factory can turn out 200 cars a day.
+[03:24.780 --> 03:27.200]  I'm through with my work. Let's go out.
+[03:29.040 --> 03:31.760]  I'm through with my work. Let's go out.
+[03:44.940 --> 03:49.360]  I play center in football and basketball.
+[03:51.200 --> 04:06.760]  I play center in football and basketball.
+[04:10.440 --> 04:14.440]  He told me to wash my face.
+[04:14.880 --> 04:20.540]  He told me to wash my face.
+[04:23.280 --> 04:25.420]  He told me to wash my face.
+[04:29.240 --> 04:32.040]  It is difficult for foreign students to speak English well.
+[04:39.160 --> 04:43.980]  It is difficult for foreign students to speak English well.
+[04:43.980 --> 04:51.100]  It is difficult for foreign students to speak English well.
+[04:54.940 --> 04:57.280]  You should eat more or you won't get well soon.
+[04:59.420 --> 05:02.140]  You should eat more or you won't get well soon.
+[05:04.100 --> 05:07.280]  You should eat more or you won't get well soon.
+[05:18.220 --> 05:20.480]  This is what we want to know.
+[05:22.580 --> 05:24.600]  This is what we want to know.
+[05:37.180 --> 05:39.460]  This is a picture I took last week.
+[05:41.560 --> 05:43.800]  This is a picture I took last week.
+[05:57.740 --> 06:00.160]  That fish travels in a group, don't they?
+[06:02.340 --> 06:04.640]  That fish travels in a group, don't they?
+[06:06.500 --> 06:09.240]  That fish travels in a group, don't they?
+[06:20.180 --> 06:24.020]  Sometimes he has difficulty being articulate about his views.
+[06:32.540 --> 06:36.660]  Sometimes he has difficulty being articulate about his views.
+[06:48.880 --> 06:55.680]  I like it better now that I'm used to it.
+[06:57.540 --> 07:00.160]  I like it better now that I'm used to it.
+[07:05.500 --> 07:07.780]  I like it better now that I'm used to it.
+[07:11.180 --> 07:13.060]  Are you working on this side of the city?
+[07:30.900 --> 07:33.280]  This is the job of my own choice.
+[07:35.320 --> 07:37.720]  This is the job of my own choice.
+[07:39.780 --> 07:42.220]  This is the job of my own choice.
+[07:51.580 --> 07:53.580]  Look up the words in your dictionary.
+[08:05.880 --> 08:07.900]  Look up the words in your dictionary.
+[08:11.260 --> 08:14.840]  The brave fireman rescued a boy from the burning house.
+[08:21.960 --> 08:25.660]  The brave fireman rescued a boy from the burning house.
+[08:35.980 --> 08:45.660]  Dr. Smith has a lot of patients.
+[08:47.020 --> 08:49.520]  Dr. Smith has a lot of patients.
+[08:58.320 --> 09:01.100]  I'd like my coffee after the meal.
+[09:03.080 --> 09:05.380]  I'd like my coffee after the meal.
+[09:18.300 --> 09:20.840]  The lake is the deepest in Russia.
+[09:23.060 --> 09:25.020]  The lake is the deepest in Russia.
+[09:39.520 --> 09:42.100]  Whichever you choose, make sure it is a good one.
+[09:44.500 --> 09:47.040]  Whichever you choose, make sure it is a good one.
+[09:49.440 --> 09:52.600]  Whichever you choose, make sure it is a good one.
+[10:05.020 --> 10:08.380]  The plant ranges from the north of Europe to the south.
+[10:14.680 --> 10:18.440]  The plant ranges from the north of Europe to the south.
+[10:24.300 --> 10:27.360]  The plant ranges from the north of Europe to the south.
+[10:30.700 --> 10:33.540]  You should make your ideas correspond with reality.
+[10:40.360 --> 10:43.840]  You should make your ideas correspond with reality.
+[10:54.120 --> 10:56.880]  The dog was sleeping on the mat.
+[11:08.300 --> 11:10.360]  The dog was sleeping on the mat.
+[11:13.380 --> 11:16.900]  My time in school will be one of my happiest memories.
+[11:19.180 --> 11:22.220]  My time in school will be one of my happiest memories.
+[11:24.260 --> 11:27.940]  My time in school will be one of my happiest memories.
+[11:39.680 --> 11:42.100]  Are you sure this is the right train?
+[11:44.340 --> 11:46.060]  Are you sure this is the right train?
+[11:48.020 --> 11:50.340]  Are you sure this is the right train?
+[11:59.200 --> 12:02.220]  That teacher is in charge of the third-year class.
+[12:23.180 --> 12:26.360]  With more courage, I might have proposed to Mary.
+[12:42.460 --> 12:45.340]  With more courage, I might have proposed to Mary.
+[12:59.040 --> 13:02.520]  Some day you will come to realize the importance of saving.
+[13:07.800 --> 13:10.700]  Some day you will come to realize the importance of saving.
+[13:14.280 --> 13:16.900]  The gum adhered to the sole of the shoe.
+[13:18.960 --> 13:26.420]  The gum adhered to the sole of the shoe.
+[13:36.340 --> 13:39.240]  It's about time you were independent of your parents.
+[13:41.320 --> 13:44.320]  It's about time you were independent of your parents.
+[13:46.360 --> 13:49.520]  It's about time you were independent of your parents.
+[13:59.500 --> 14:02.640]  The writer is bringing out a new book next month.
+[14:04.580 --> 14:12.180]  The writer is bringing out a new book next month.
+[14:22.460 --> 14:25.360]  I took it for granted that you knew the whole matter.
+[14:32.080 --> 14:42.300]  I took it for granted that you knew the whole matter.
+[14:45.940 --> 14:48.580]  No matter what may come, I will do my duty.
+[14:50.800 --> 14:58.500]  No matter what may come, I will do my duty.
+[15:03.240 --> 15:05.920]  No matter what may come, I will do my duty.
+[15:09.600 --> 15:12.140]  If you run fast, you can catch the train.
+[15:18.700 --> 15:21.800]  If you run fast, you can catch the train.
+[15:32.020 --> 15:45.120]  It's difficult to feel at home in a foreign language.
+[15:48.640 --> 15:51.380]  It's difficult to feel at home in a foreign language.
+[16:03.380 --> 16:05.980]  I would often go skating on the lake.
+[16:09.300 --> 16:11.760]  I would often go skating on the lake.
+[16:15.040 --> 16:17.960]  There was a man and woman sitting behind me.
+[16:24.400 --> 16:28.040]  There was a man and a woman sitting behind me.
+[16:31.860 --> 16:34.720]  There was a man and a woman sitting behind me.
+[16:38.080 --> 16:40.620]  The scene was clearly printed in my memory.
+[16:42.700 --> 16:50.020]  The scene was clearly printed in my memory.
+[16:54.800 --> 16:57.340]  The scene was clearly printed in my memory.
+[17:01.120 --> 17:04.000]  I would often visit the museum when I lived in London.
+[17:06.060 --> 17:14.620]  I would often visit the museum when I lived in London.
+[17:18.820 --> 17:22.040]  I would often visit the museum when I lived in London.
+[17:25.520 --> 17:33.240]  This song was popular in the 1970s.
+[17:34.900 --> 17:38.480]  This song was popular in the 1970s.
+[17:38.480 --> 17:47.740]  This song was popular in the 1970s.
+[17:49.280 --> 17:51.440]  There is a glass on the table.
+[17:53.300 --> 17:59.240]  There is a glass on the table.
+[18:08.480 --> 18:11.100]  The law enables us to receive an annuity.
+[18:17.800 --> 18:21.160]  The law enables us to receive an annuity.
+[18:24.920 --> 18:28.040]  The law enables us to receive an annuity.
+[18:31.440 --> 18:35.660]  Kate thought the teacher's lecture was dull, boring, and endless.
+[18:43.940 --> 18:48.480]  Kate thought the teacher's lecture was dull, boring, and endless.
+[18:54.220 --> 18:58.440]  Kate thought the teacher's lecture was dull, boring, and endless.
+[19:01.920 --> 19:04.580]  We had a good deal of snow last winter.
+[19:18.280 --> 19:20.980]  We had a good deal of snow last winter.
+[19:24.720 --> 19:27.240]  It'll take me a long time to get over my cold.
+[19:33.940 --> 19:44.480]  It'll take me a long time to get over my cold.
+[19:48.220 --> 19:49.880]  Show me the way to the bus stop.
+[19:51.800 --> 19:53.640]  Show me the way to the bus stop.
+[20:06.480 --> 20:08.940]  The sun emerged from the clouds.
+[20:15.340 --> 20:18.700]  After the rain, the sun emerged from the clouds.
+[20:22.180 --> 20:24.980]  The sun emerged from the clouds.
+[20:28.300 --> 20:31.620]  Mr. Johnson ran fastest of the three.
+[20:38.360 --> 20:41.680]  Mr. Johnson ran fastest of the three.
+[20:46.680 --> 20:49.760]  Mr. Johnson ran fastest of the three.
+[20:53.900 --> 20:56.000]  Mike doesn't have to wash his mother's car today.
+[21:02.720 --> 21:05.980]  Mike doesn't have to wash his mother's car today.
+[21:10.500 --> 21:13.140]  Mike doesn't have to wash his mother's car today.
+[21:16.760 --> 21:18.820]  Say hello to your father for me.
+[21:20.780 --> 21:22.800]  Say hello to your father for me.
+[21:35.160 --> 21:38.300]  We ought to have phoned ahead and reserved a table.
+[21:52.280 --> 22:05.840]  We received an acknowledgment of your letter.
+[22:13.180 --> 22:16.500]  We received an acknowledgment of your letter.
+[22:19.840 --> 22:23.260]  It seems that Wataru devoted himself to his studies.
+[22:25.120 --> 22:28.860]  It seems that Wataru devoted himself to his studies.
+[22:30.620 --> 22:35.440]  It seems that Wataru devoted himself to his studies.
+[22:46.080 --> 22:48.680]  The boy could not live up to the school rules.
+[23:01.180 --> 23:03.680]  The boy could not live up to the school rules.
+[23:07.200 --> 23:10.200]  The clothes soaked in water overnight were heavy.
+[23:12.160 --> 23:15.160]  The clothes soaked in water overnight were heavy.
+[23:16.960 --> 23:21.200]  The clothes soaked in water overnight were heavy.
+[23:31.060 --> 23:33.780]  I am only too glad to help you with your work.
+[23:46.780 --> 23:49.300]  I am only too glad to help you with your work.
+[23:52.820 --> 23:54.980]  We could see the island in the distance.
+[24:04.820 --> 24:09.680]  We could see the island in the distance.
+[24:12.700 --> 24:15.680]  No other dog is bigger than this.
+[24:27.120 --> 24:29.680]  No other dog is bigger than this.
+[24:33.140 --> 24:35.900]  I will go along with you as far as the station.
+[24:38.080 --> 24:40.700]  I will go along with you as far as the station.
+[24:42.660 --> 24:45.720]  I will go along with you as far as the station.
+[24:55.660 --> 24:58.680]  I felt tired from having worked for hours.
+[25:00.500 --> 25:08.780]  I felt tired from having worked for hours.
+[25:19.320 --> 25:21.940]  Columbus thought he had arrived in India.
+[25:35.680 --> 25:38.000]  Columbus thought he had arrived in India.
+[25:41.820 --> 25:43.540]  I hope I could be of some help to you.
+[25:45.700 --> 25:47.360]  I hope I could be of some help to you.
+[25:49.340 --> 25:51.820]  I hope I could be of some help to you.
+[26:00.940 --> 26:03.440]  All this is visible to numerous observers.
+[26:05.500 --> 26:13.160]  All this is visible to numerous observers.
+[26:25.360 --> 26:28.500]  The ball hit him on the left side of the head.
+[26:30.440 --> 26:33.280]  The ball hit him on the left side of the head.
+[26:34.960 --> 26:38.640]  The ball hit him on the left side of the head.
+[26:48.080 --> 26:51.500]  That aircraft company deals in freight only.
+[26:53.320 --> 27:01.640]  That aircraft company deals in freight only.
+[27:12.120 --> 27:15.640]  The house stood out because of its unusual shape.
+[27:17.660 --> 27:22.380]  The house stood out because of its unusual shape.
+[27:22.380 --> 27:30.080]  The house stood out because of its unusual shape.
+[27:37.940 --> 27:40.080]  You must observe the rules of the club.
+[27:42.120 --> 27:44.600]  You must observe the rules of the club.
+[27:49.760 --> 27:55.020]  You must observe the rules of the club.
+[27:58.440 --> 28:00.920]  This statue is as large as life.
+[28:02.780 --> 28:05.240]  This statue is as large as life.
+[28:18.300 --> 28:21.260]  I don't understand the theory at all.
+[28:32.900 --> 28:36.060]  I don't understand the theory at all.
+[28:38.640 --> 28:42.380]  The summer vacation ended all too soon.
+[28:44.160 --> 28:47.340]  The summer vacation ended all too soon.
+[29:00.920 --> 29:04.000]  There is only one hospital in the town.
+[29:06.060 --> 29:08.160]  There is only one hospital in the town.
+[29:22.160 --> 29:25.200]  Jogging has become the new favorite form of exercise.
+[29:27.440 --> 29:30.580]  Jogging has become the new favorite form of exercise.
+[29:32.820 --> 29:44.220]  Jogging has become the new favorite form of exercise.
+[29:47.220 --> 29:50.260]  He has several times as many books as I.
+
+Transcription speed: 2.6 audio seconds/s
+
+Subtitles are written to 'E:\音视频处理\工具\Whisper-Faster' directory.
+
+
+Operation finished in: 705 seconds
+
